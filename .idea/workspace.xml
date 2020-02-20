@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-20-Test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-20-Test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <workItem from="1582178191535" duration="3370000" />
       <workItem from="1582181722734" duration="89000" />
       <workItem from="1582181931593" duration="75000" />
-      <workItem from="1582182018579" duration="1330000" />
+      <workItem from="1582182018579" duration="1657000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -209,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582183180078</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary=" V 1.0.18">
+      <created>1582183408624</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1582183408624</updated>
+    </task>
+    <task id="LOCAL-00022" summary=" V 1.0.19">
+      <created>1582183424908</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1582183424908</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,13 +263,15 @@
     <MESSAGE value=" V 1.0.15" />
     <MESSAGE value=" V 1.0.16" />
     <MESSAGE value=" V 1.0.17" />
-    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.17" />
+    <MESSAGE value=" V 1.0.18" />
+    <MESSAGE value=" V 1.0.19" />
+    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.19" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582183408497">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582183424776">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582183408497" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582183424776" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -264,9 +280,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582182004089" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582183410969">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582183426975">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582183410969" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582183426975" />
   </component>
 </project>
