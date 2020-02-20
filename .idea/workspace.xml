@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_images/001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-20-next-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-20-next-tutorial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-20-我的测试文件.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-20-我的测试文件.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582176204508</updated>
       <workItem from="1582176207168" duration="674000" />
-      <workItem from="1582178191535" duration="1189000" />
+      <workItem from="1582178191535" duration="1557000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -91,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582176783166</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" 2 V 1.0.2">
+      <created>1582179423201</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582179423201</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" V 1.0.3">
+      <created>1582179598718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582179598718</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,16 +126,18 @@
     <MESSAGE value="V 1.0.0" />
     <MESSAGE value="delete config2 V 1.0.1" />
     <MESSAGE value="delete readme 2 V 1.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete readme 2 V 1.0.1" />
+    <MESSAGE value=" 2 V 1.0.2" />
+    <MESSAGE value=" V 1.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="66" key="CommitChangelistDialog2" timestamp="1582179423017">
+    <state x="289" y="66" key="CommitChangelistDialog2" timestamp="1582179598552">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582179423017" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582179425432">
+    <state x="289" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582179598552" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582179601087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582179425432" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582179601087" />
   </component>
 </project>
