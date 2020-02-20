@@ -161,13 +161,17 @@
     <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="66" key="CommitChangelistDialog2" timestamp="1582180180358">
+    <state x="289" y="66" key="CommitChangelistDialog2" timestamp="1582180611972">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582180180358" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582180183231">
+    <state x="289" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582180611972" />
+    <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582180183231" />
+    <state x="431" y="185" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1582180627395" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582180614756">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582180614756" />
   </component>
 </project>
