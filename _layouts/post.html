@@ -1,40 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  {%- include head.html -%}
-</head>
-<body>
-  <header class="texture-{{ site.texture.style }}">
-    <div class="container">
-      {%- include nav.html -%}
-    </div>
-    {%- include post_header.html -%}  
-  </header>
-  <main>
-    <div class="container">
-      <div class="post-container">
-          {{ content }}
-      </div>
+---
+layout: default
+---
 
-        <!-- Configure Disqus -->
-      {%- if site.texture.disqus_shortname -%}
-        <div id="disqus_thread" style="margin-top:25px"></div>
-        <script>
-          var disqus_config = function () {
-            this.page.url = '{{ page.url | absolute_url }}';
-            this.page.identifier = '{{ page.url | absolute_url }}';
-          };
-          (function() {
-            var d = document, s = d.createElement('script');
-            s.src = 'https://{{ site.texture.disqus_shortname }}.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-          })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-      {%- endif -%}
+{% include base_path %}
+
+{% if page.image %}
+  <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
+{% endif %}
+
+<div class='o-wrapper'>
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
+
+        <h1 class='c-post__title u-text-center'>{{ page.title }}</h1>
+
+        <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
+
+        <div class='c-content' itemprop='articleBody'>
+          {% include page-image.html %}
+
+          {{ content }}
+        </div>
+
+        <div class='c-tags'>
+          {% for tag in page.tags %}
+            <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+          {% endfor %}
+        </div>
+
+        <hr>
+
+        {% include disqus.html %}
+
+      </article>
     </div>
-  </main>
-  {%- include footer.html -%}
-</body>
-</html>
+  </div>
+</div>

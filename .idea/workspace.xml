@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/page_header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-23-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-coding-post.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_begin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/ext/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/ext/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/ext/_solarized-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/black.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/purple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/yellow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texture.gemspec" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +103,9 @@
       <updated>1582176204508</updated>
       <workItem from="1582176207168" duration="674000" />
       <workItem from="1582178191535" duration="3370000" />
+      <workItem from="1582181722734" duration="89000" />
+      <workItem from="1582181931593" duration="75000" />
+      <workItem from="1582182018579" duration="285000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -161,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582181516534</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=" V 1.0.12">
+      <created>1582181778816</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1582181778816</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,24 +246,25 @@
     <MESSAGE value=" V 1.0.9" />
     <MESSAGE value=" V 1.0.10" />
     <MESSAGE value=" V 1.0.11" />
-    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.11" />
+    <MESSAGE value=" V 1.0.12" />
+    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.12" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="66" key="CommitChangelistDialog2" timestamp="1582181516185">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582181778618">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582181516185" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582181778618" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="431" y="185" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1582180627395" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1582181666903">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1582182004089">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582181666903" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582181518821">
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582182004089" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582181780972">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582181518821" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582181780972" />
   </component>
 </project>

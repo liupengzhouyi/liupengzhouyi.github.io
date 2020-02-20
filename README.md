@@ -1,130 +1,217 @@
-# texture
+# Type: Minimal and Clean Free Jekyll Theme
 
-A configurable jekyll theme for simply beautiful blogs.
+<img alt="Type: Minimal and Clean Free Jekyll Theme" src="https://user-images.githubusercontent.com/626005/63093493-c3daa880-bf65-11e9-860e-da88047cce24.png">
 
-**Demo**: [thelehhman.com/texture](https://thelehhman.com/texture)
+- [Configurations](#configurations)
+- [Deployment](#deployment)
+- [Posts](#posts)
+- [Pages](#pages)
+- [Navigation](#navigation)
+- [Disqus Comments](#disqus-comments)
+- [Google Analytics](#google-analytics)
+- [Social Media Links](#social-media-links)
+- [Update favicon](#update-favicon)
 
-![texture theme preview](/screen1.png)
+### Configurations
 
+Type theme comes with different customizations in the `_config.yml` file:
 
-## Installation on Github Pages
+```sh
+title:       Type
+email:       ''
+description: ''
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         '' # The base hostname & protocol for your site
+twitter:     ''
+github:      ''
+instagram:   ''
+facebook:    ''
 
-Add this line to your site's `_config.yml`:
-```yaml
-remote_theme: thelehhman/texture
+markdown:  kramdown
+permalink: pretty
+paginate:  60
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 ```
 
-**NOTE: If you are forking this repo, remove `base_url: /texture` in the `_config.yml` which is required to load the required website assets**
-## Installation
+### Deployment
 
-Add this line to your Jekyll site's `Gemfile`:
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` to start the Jekyll server.
 
-```ruby
-gem "texture"
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+### Posts
+
+To create a new post, you can create a new markdown file inside the `_posts` directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
+
+The following is a post file with different configurations you can add as an example:
+
+```sh
+---
+layout: post
+title: Welcome to Jekyll!
+featured: true
+tags: [frontpage, jekyll, blog]
+image: '/images/welcome.jpg'
+---
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+You can set the author, featured or not, tags, and the post image.
 
-```yaml
-theme: texture
+The `featured` key is to mark the post as a featured post, this will add a simple star icon (*) to the postcard.
+
+To keep things more organized, add post images to **/images/pages** directory, and add page images to **/images/pages** directory.
+
+To create a draft post, create the post file under the **_drafts** directory, and you can find more information at [Working with Drafts](http://jekyllrb.com/docs/drafts/).
+
+For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
+
+Note that tags are not working with GitHub Pages, that's because the used [jekyll-tagging
+](https://github.com/pattex/jekyll-tagging) plugin is not [whitelisted](https://pages.github.com/versions/) by GitHub.
+
+To make this work, I use [Netlify.com](https://www.netlify.com/) for deployment.
+
+### Pages
+
+To create a new page, just create a new markdown file inside the `_pages` directory.
+
+The following is the `about.md` file that you can find as an example included in the theme with the configurations you can set.
+
+```sh
+---
+layout: page
+title: About
+image: '/images/pages/about.jpeg'
+---
 ```
 
-And then execute:
+Things you can change are: `title` and `image` path.
 
-    $ bundle
 
-Or install it yourself as:
+### Navigation
 
-    $ gem install texture
+The navigation on the sidebar will automatically include all the links to the pages you have created.
 
-## Usage
+### Disqus Comments
 
-The "texture" key in _config.yml is used to customize the theme data.
-```yaml
-texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
+Open `_includes/disqus.html` file, and change the `aspirethemes-demos` value on line `12` with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
 
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman # format: locale/username
+```js
+s.src = '//aspirethemes-demo.disqus.com/embed.js';
 ```
 
-**Styling**
+So, if your Disqus shortname is `exampleone`, the final code above should be
 
-Multiple header styles are supported using the "style" property under texture in `_config.yml`.
-
-```yaml
-texture:
-  style: [yellow|red|black|blue|green|purple]
+```js
+s.src = '//exampleone.disqus.com/embed.js';
 ```
 
-For example, the blue style looks like this:
+That's all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have [registered your website with Disqus (Step 1)](https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide)
 
-![texture theme blue](/screen2.png)
+And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
 
+### Google Analytics
 
-**Texture Picker**
+To integrate Google Analytics, open `_includes/analytics.html`, and add your Google Analytics code.
 
-You can toggle the texture picker to show/experiment various textures on your site using the showPicker variable. Remember to make it `false` for production.
+### Social Media Links
 
-```yaml
-texture:
-  showPicker: [false|true] # show the texture selector(development purposes)
+Social media links included in `_includes/footer.html` file.
+
+The theme is using [Evil Icons](http://evil-icons.io/), which contains very simple and clean icons. The following is a list of the social media icons to use:
+
+Twitter
+
+```html
+<span data-icon='ei-sc-twitter' data-size='s'></span>
 ```
 
-**Comments (Disqus)**
+Facebook
 
-Comments on posts can be enabled by specifying your disqus_shortname under texture in `_config.yml`. For example,
-```yaml
-texture:
-  disqus_shortname: games
+```html
+<span data-icon='ei-sc-facebook' data-size='s'></span>
 ```
 
-**Google Analytics**
+Instagram
 
-It can be enabled by specifying your analytics id under texture in `_config.yml`
-```yaml
-texture:
-  analytics_id: '< YOUR ID >'
+```html
+<span data-icon='ei-sc-instagram' data-size='s'></span>
 ```
 
-**Excerpts**
+Pinterest
 
-Excerpts can be enabled by adding the following line to your `_config.yml`
-```yaml
-show_excerpts: true
+```html
+<span data-icon='ei-sc-pinterest' data-size='s'></span>
 ```
 
-**Toggle Navbar**
+Vimeo
 
-```yaml
-texture:
-  showNav: true
+```html
+<span data-icon='ei-sc-vimeo' data-size='s'></span>
 ```
 
-**Layouts**
+Google Plus
 
-- Home
-- Page
-- Post
+```html
+<span data-icon='ei-sc-google-plus' data-size='s'></span>
+```
 
-## Contributing
+SoundCloud
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/thelehhman/texture. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+```html
+<span data-icon='ei-sc-soundcloud' data-size='s'></span>
+```
 
-## Development
+Tumblr
 
-To set up your environment to develop this theme, run `bundle install`.
+```html
+<span data-icon='ei-sc-tumblr' data-size='s'></span>
+```
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+Youtube
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `texture.gemspec` accordingly.
+```html
+<span data-icon='ei-sc-youtube' data-size='s'></span>
+```
 
-## License
+### Update favicon
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
 
+
+### Aspire Themes
+
+👉 Visit [**aspirethemes.com**](http://bit.ly/type-jekyll-github-link) for more Jekyll, Ghost, and WordPress themes.
+
+<img alt="Aspire Themes" src="https://user-images.githubusercontent.com/626005/63092640-afe17780-bf62-11e9-9ea9-546489bb282c.png">
+
+---
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8G8PKPEADPD42&source=url">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
+</a>
