@@ -1,7 +1,7 @@
-title:            Slate+Simple Jekyll Theme
+title:            Liupeng Bolg
 description:      Your site description...
-copyright:        Your Name
-url: # add your custom site url (format: https://example.com)
+copyright:        Liupeng
+url:              https://liupengzhouyi.github.io
 
 
 future:      false  # publish future dated posts --  true, false (default)
