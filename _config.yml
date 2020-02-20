@@ -1,131 +1,58 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Liupeng Bolg
-email: liupeng.0@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for SEO optimization) and in your feed.xml site description.
-baseurl: "/jekyll-theme-simple-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lupengzhouyi.github.io" # change this to the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
-
-# Make sure to exclude 'vendor' from the build
-exclude: [vendor, "Gemfile", "Gemfile.lock"]
-
-# permalink: /:categories/:year/:month/:day/:title.html
-# none is equivalent to /:title.html
-# https://jekyllrb.com/docs/permalinks
-permalink: /:title.html
-
-# jekyll-theme-simple-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-jekyll-theme-simple-blog:
-  date_format: "%b %-d, %Y"
-
-theme: # leave it empty
-
-header_page_refs: ['coding','projects','about']
-
-plugins:
-  - jekyll-target-blank
-
-target-blank:
-    rel: nofollow
-
-show_post_image_posts_list: false
-
-header:
-  image: /assets/patterns/symphony.png
-
-# social
-author:
-  name: "Simple Blog Theme"
-  short_bio:
-    en: Jekyll Blog Theme, Responsive
-    it: Jekyll Blog Theme, Responsive
-  picture: assets/img/profile-60.png
-
-image: /assets/img/profile-225.png
-
-#twitter:
-#  username:
-#instagram_username:
-
-#linkedin_username: hereyourlinkedin-id-only
-
-# gitlab on site
-gitlab:
-  owner_url: https://gitlab.com/liupengzhouyi
-
-# github on site
-github:
-  owner_url: https://github.com/liupengzhouyi
+title:            Slate+Simple Jekyll Theme
+description:      Your site description...
+copyright:        Your Name
+url: # add your custom site url (format: https://example.com)
 
 
-# translation
+future:      false  # publish future dated posts --  true, false (default)
+highlighter: rouge
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
 
-t:
-  en:
-    latest-posts:  "Latest Posts"
-    read-more:  "Read More →"
-    show-more:  "Show More →"
-    loading:  "Loading..."
-    on-word: "on"
-    contact: "Contact"
-    contact-page: "contact.md"
-    read-time: "min read"
-    comments: "comments"
-    go-to-home-page: "Go to the Home Page"
-    months:
-      january: "Jan"
-      february: "Feb"
-      march: "Mar"
-      april: "Apr"
-      may: "May"
-      june: "Jun"
-      july: "Jul"
-      august: "Aug"
-      september: "Sep"
-      october: "Oct"
-      november: "Nov"
-      december : "Dec"
-  it:
-    latest-posts:  "Ultimi Posts"
-    read-more:  "Leggi →"
-    show-more:  "Mostra →"
-    loading:  "Caricamento..."
-    on-word: "su"
-    contact: "Contatta"
-    contact-page: "contatta.md"
-    read-time: "min di lettura"
-    comments: "commenti"
-    go-to-home-page: "Vai alla Pagina Iniziale"
-    months:
-      january: "Gen"
-      february: "Feb"
-      march: "Mar"
-      april: "Apr"
-      may: "Mag"
-      june: "Giu"
-      july: "Lug"
-      august: "Ago"
-      september: "Set"
-      october: "Ott"
-      november: "Nov"
-      december : "Dic"
+sass:
+  sass_dir: _sass
+  style: compressed
 
-defaults:
-  -
-    scope:
-      type: "posts"
-    values:
-      lang: "en"
-      category: articles
+permalink: /:categories/:year-:month-:day/:title.html
+
+# Amount of post to show on home page
+paginate: 5
+
+#kramdown:
+#  input: GFM
+#  auto_ids: true
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..6
+#  enable_coderay: false
+
+include:
+  - .htaccess
+
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
