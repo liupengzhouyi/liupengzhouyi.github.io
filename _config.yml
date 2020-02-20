@@ -1,48 +1,43 @@
-plugins: [jekyll-paginate]
+title: Texture Theme
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /texture
 
-permalink: /:categories/:title/
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
 
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input:  GFM
-  syntax_highlighter: rouge
+permalink: /posts/:title/
+texture:
+  title: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: false
+  showPicker: true
 
+  # generate social links in footer
+  social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
+    rss: rss
+ 
 
-paginate: 10
-paginate_path: "page/:num"
-baseurl: ""
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
+# Build settings
+# theme: texture
 
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      styles : [highlight.css,gitment.css,post.css]
-      scripts : [gitment.js, post.js]
-
-
-
-title: "liupengzhouyi"
-email: liupeng.0@outlook.com
-description: ""
-github:
-  username: liupengzhouyi
-swiftype:
-  searchId: iXZyPokVfxFaBTvi64Y6
-gitment:
-    repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
-
-url: "https://liupengzhouyi.github.io/blog"
-imgrepo: "https://liupengzhouyi.github.io/blog/static/img"
-
-
-#url: "http://127.0.0.1:4000"
-#imgrepo: "http://127.0.0.1:4000/static/img"
-
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
