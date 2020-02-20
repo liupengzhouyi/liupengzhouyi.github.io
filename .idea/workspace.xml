@@ -70,7 +70,7 @@
       <workItem from="1582181722734" duration="89000" />
       <workItem from="1582181931593" duration="75000" />
       <workItem from="1582182018579" duration="4260000" />
-      <workItem from="1582186956763" duration="262000" />
+      <workItem from="1582186956763" duration="628000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582186670114</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=" V 1.0.28">
+      <created>1582187238284</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1582187238284</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +310,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" 2 V 1.0.2" />
     <MESSAGE value=" V 1.0.3" />
     <MESSAGE value=" V 1.0.4" />
     <MESSAGE value=" V 1.0.5" />
@@ -328,24 +334,25 @@
     <MESSAGE value=" V 1.0.25" />
     <MESSAGE value=" V 1.0.26" />
     <MESSAGE value=" V 1.0.27" />
-    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.27" />
+    <MESSAGE value=" V 1.0.28" />
+    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.28" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582186669951">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582187238065">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582186669951" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582187238065" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="431" y="185" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1582180627395" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1582187011362">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1582187355628">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582187011362" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582186672567">
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582187355628" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582187240425">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582186672567" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582187240425" />
   </component>
 </project>
