@@ -2,16 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/MyTest001.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-09-17-why-complement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-09-26-java-io.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-10-19-java-nio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-11-26-effective-java.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-01-02-linux-print.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-01-05-vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-01-25-linux-filecmd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-02-08-linux-power.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-02-13-linux-ps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-02-20-linux-boot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-02-23-ip.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-13-resubmit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-15-file-upload.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-16-tomcat-https.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-22-reentrantlock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-04-05-encode-decode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-04-09-algorithm-gist.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-04-20-flex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-07-linux-job.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-12-acturl-generic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-18-java-concurrent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-10-ssh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-22-design-pattern.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-21-the-scheme-eval.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-20-jvm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-19-sort.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-09-bitmap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-17-shell-trash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-13-java-newfeature.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-21-webservice.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-01-11-linux-make.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-01-22-linux-shell.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-06-closure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-11-webtool.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-13-sqlappend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-22-javajs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-05-validator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-12-spring-security.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-09-rmi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-07-js-summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-mvc-validator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-15-FullGc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-26-large-file-diff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-28-large-file-diff-concurrent.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582176204508</updated>
       <workItem from="1582176207168" duration="674000" />
-      <workItem from="1582178191535" duration="2324000" />
+      <workItem from="1582178191535" duration="2574000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -130,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582180180771</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" V 1.0.6">
+      <created>1582180612219</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582180612219</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" V 1.0.7">
+      <created>1582180649710</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582180649710</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,20 +208,22 @@
     <MESSAGE value=" V 1.0.3" />
     <MESSAGE value=" V 1.0.4" />
     <MESSAGE value=" V 1.0.5" />
-    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.5" />
+    <MESSAGE value=" V 1.0.6" />
+    <MESSAGE value=" V 1.0.7" />
+    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="66" key="CommitChangelistDialog2" timestamp="1582180611972">
+    <state x="289" y="66" key="CommitChangelistDialog2" timestamp="1582180649575">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582180611972" />
+    <state x="289" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582180649575" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="431" y="185" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1582180627395" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582180614756">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582180653135">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582180614756" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582180653135" />
   </component>
 </project>
