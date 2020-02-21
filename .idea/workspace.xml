@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-21-Numpy的array方法.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-20-如何白嫖一个网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-20-如何白嫖一个网站.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,8 @@
       <workItem from="1582181722734" duration="89000" />
       <workItem from="1582181931593" duration="75000" />
       <workItem from="1582182018579" duration="4260000" />
-      <workItem from="1582186956763" duration="628000" />
+      <workItem from="1582186956763" duration="1697000" />
+      <workItem from="1582267143077" duration="414000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -289,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582187238284</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary=" V 1.0.29">
+      <created>1582188896022</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582188896022</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +318,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" V 1.0.3" />
     <MESSAGE value=" V 1.0.4" />
     <MESSAGE value=" V 1.0.5" />
     <MESSAGE value=" V 1.0.6" />
@@ -335,24 +342,25 @@
     <MESSAGE value=" V 1.0.26" />
     <MESSAGE value=" V 1.0.27" />
     <MESSAGE value=" V 1.0.28" />
-    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.28" />
+    <MESSAGE value=" V 1.0.29" />
+    <option name="LAST_COMMIT_MESSAGE" value=" V 1.0.29" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582187238065">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582269903205">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582187238065" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582269903205" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="431" y="185" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1582180627395" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1582187355628">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1582267127719">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582187355628" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582187240425">
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582267127719" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582188898568">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582187240425" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582188898568" />
   </component>
 </project>
