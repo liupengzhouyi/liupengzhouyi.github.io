@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-21-Keras拟合线性回归.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-21-Keras拟合线性回归.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-21-Numpy的array方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-21-Numpy的array方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-21-tensorflow拟合线性回归.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-21-tensorflow拟合线性回归.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,7 @@
       <workItem from="1582181931593" duration="75000" />
       <workItem from="1582182018579" duration="4260000" />
       <workItem from="1582186956763" duration="1697000" />
-      <workItem from="1582267143077" duration="3646000" />
+      <workItem from="1582267143077" duration="3920000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -318,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582289641155</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Keras拟合线性回归 V 2.0.4">
+      <created>1582290088062</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1582290088062</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +349,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" V 1.0.7" />
     <MESSAGE value=" V 1.0.8" />
     <MESSAGE value=" V 1.0.9" />
     <MESSAGE value=" V 1.0.10" />
@@ -364,13 +373,14 @@
     <MESSAGE value="Numpy.array V 2.0.1" />
     <MESSAGE value="tensorflow拟合线性回归 V 2.0.2" />
     <MESSAGE value="Keras拟合线性回归 V 2.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Keras拟合线性回归 V 2.0.3" />
+    <MESSAGE value="Keras拟合线性回归 V 2.0.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Keras拟合线性回归 V 2.0.4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582289640961">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582290087883">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582289640961" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582290087883" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -379,9 +389,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582267127719" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582289643339">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582290090093">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582289643339" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582290090093" />
+    <state x="502" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582290284499">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="502" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1582290284499" />
   </component>
 </project>

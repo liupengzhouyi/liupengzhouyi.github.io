@@ -5,7 +5,7 @@ title: tensorflow拟合线性回归
 subtitle: tensorflow拟合线性回归
 featured-image: /images/2016-11-19/abstract-4.jpg
 tags: [tensorflow]
-date-string: NOVEMBER 20, 2020
+date-string: February 20, 2020
 ---
 
 # tensorflow拟合线性回归

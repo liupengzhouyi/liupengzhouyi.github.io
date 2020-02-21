@@ -5,7 +5,7 @@ title: numpy.array
 subtitle: Numpy.Array方法
 featured-image: /images/2016-11-19/abstract-4.jpg
 tags: [numpy]
-date-string: NOVEMBER 20, 2020
+date-string: February 20, 2020
 ---
 
 # Numpy.Array
