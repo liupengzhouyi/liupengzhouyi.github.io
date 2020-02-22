@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-02-22-Dropout.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <workItem from="1582181931593" duration="75000" />
       <workItem from="1582182018579" duration="4260000" />
       <workItem from="1582186956763" duration="1697000" />
-      <workItem from="1582267143077" duration="5120000" />
+      <workItem from="1582267143077" duration="5736000" />
     </task>
     <task id="LOCAL-00001">
       <created>1582176262627</created>
@@ -354,7 +353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582357698842</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Dropout() V 1.0.4">
+      <created>1582357805369</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1582357805369</updated>
+    </task>
+    <task id="LOCAL-00042" summary="model.fit() V 1.0.5">
+      <created>1582357917402</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1582357917402</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,8 +388,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" V 1.0.12" />
-    <MESSAGE value=" V 1.0.13" />
     <MESSAGE value=" V 1.0.14" />
     <MESSAGE value=" V 1.0.15" />
     <MESSAGE value=" V 1.0.16" />
@@ -400,13 +411,15 @@
     <MESSAGE value="手写数字识别 V 2.0.6" />
     <MESSAGE value="Flatten V 2.0.7" />
     <MESSAGE value="Dense() V 1.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dense() V 1.0.3" />
+    <MESSAGE value="Dropout() V 1.0.4" />
+    <MESSAGE value="model.fit() V 1.0.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="model.fit() V 1.0.5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582357805232">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582357917264">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582357805232" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582357917264" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -415,10 +428,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582267127719" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582357807575">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582357919167">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582357807575" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582357919167" />
     <state x="502" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582290284499">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
