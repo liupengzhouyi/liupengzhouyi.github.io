@@ -5,7 +5,7 @@ title: tensorflow.Dataset()
 subtitle: tensorflow.Dataset()
 featured-image: /images/2016-11-19/abstract-2.jpg
 tags: [tensorflow]
-date-string: February 24, 2020
+date-string: February 23, 2020
 ---
 
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 categories: posts
-title: tensorflow.Dataset()
-subtitle: tensorflow.Dataset()
+title: python.matlib
+subtitle: python.matlib
 featured-image: /images/2016-11-19/abstract-2.jpg
 tags: [python]
-date-string: February 24, 2020
+date-string: February 23, 2020
 ---
 
 matlib
