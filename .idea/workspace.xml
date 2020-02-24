@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-24-tensorflow.keras.layers.Embedding.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-24-电影评论分类.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-24-电影评论分类.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +75,7 @@
       <workItem from="1582186956763" duration="1697000" />
       <workItem from="1582267143077" duration="6865000" />
       <workItem from="1582459878227" duration="1194000" />
-      <workItem from="1582540265969" duration="384000" />
-    </task>
-    <task id="LOCAL-00001">
-      <created>1582176262627</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1582176262627</updated>
+      <workItem from="1582540265969" duration="648000" />
     </task>
     <task id="LOCAL-00002" summary="V 1.0.0">
       <created>1582176364852</created>
@@ -413,7 +406,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582540415024</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="IMDB电影评论情感分类 V 3.0.5">
+      <created>1582557682139</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1582557682139</updated>
+    </task>
+    <task id="LOCAL-00050" summary="数据机填充到相同长度 V 3.0.6">
+      <created>1582557772309</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1582557772310</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,8 +441,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" V 1.0.20" />
-    <MESSAGE value=" V 1.0.21" />
     <MESSAGE value=" V 1.0.22" />
     <MESSAGE value=" V 1.0.24" />
     <MESSAGE value=" V 1.0.25" />
@@ -459,13 +464,15 @@
     <MESSAGE value="matlib V 3.0.2" />
     <MESSAGE value="matlib V 3.0.3" />
     <MESSAGE value="电影评论分类 V 3.0.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="电影评论分类 V 3.0.4" />
+    <MESSAGE value="IMDB电影评论情感分类 V 3.0.5" />
+    <MESSAGE value="数据机填充到相同长度 V 3.0.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据机填充到相同长度 V 3.0.6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582557681984">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1582557872231">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582557681984" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582557872231" />
     <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -474,10 +481,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582267127719" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582557684276">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1582557774563">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582557684276" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1582557774563" />
     <state x="502" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582290284499">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
