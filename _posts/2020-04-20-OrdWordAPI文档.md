@@ -4,7 +4,7 @@ categories: posts
 title: Ord World APIs
 subtitle: KOrd World APIs
 featured-image: /images/2016-11-19/abstract-5.jpg
-tags: [api]
+tags: [java]
 date-string: April 20, 2020
 ---
 

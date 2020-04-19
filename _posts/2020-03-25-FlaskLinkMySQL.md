@@ -24,6 +24,7 @@ date-string: March 25, 2020
 ### 根目录下创建config.py
 
 ```python
+
 # config.py
 
 # 配置 sqlalchemy  "数据库+数据库驱动://数据库用户名:密码@主机地址:端口/数据库?编码"
