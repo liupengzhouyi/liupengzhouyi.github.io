@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-25-FlaskLinkMySQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-25-FlaskLinkMySQL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-04-20-OrdWordAPI文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-20-OrdWordAPI文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-06-05-主要元素.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,14 +87,8 @@
       <workItem from="1585066107817" duration="91000" />
       <workItem from="1585066226763" duration="132000" />
       <workItem from="1585066382858" duration="473000" />
-      <workItem from="1587313940099" duration="779000" />
-    </task>
-    <task id="LOCAL-00013" summary=" V 1.0.10">
-      <created>1582181227641</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1582181227641</updated>
+      <workItem from="1587313940099" duration="953000" />
+      <workItem from="1591372091041" duration="533000" />
     </task>
     <task id="LOCAL-00014" summary=" V 1.0.11">
       <created>1582181516534</created>
@@ -432,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587314147394</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Flask Link MySQL V 3.0.18">
+      <created>1587314776813</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1587314776813</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +456,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Keras拟合线性回归 V 2.0.5" />
     <MESSAGE value="手写数字识别 V 2.0.6" />
     <MESSAGE value="Flatten V 2.0.7" />
     <MESSAGE value="Dense() V 1.0.3" />
@@ -480,7 +480,8 @@
     <MESSAGE value="Flask Link MySQL V 3.0.15" />
     <MESSAGE value="Ord World APIs V 3.0.16" />
     <MESSAGE value="Flask Link MySQL V 3.0.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flask Link MySQL V 3.0.17" />
+    <MESSAGE value="Flask Link MySQL V 3.0.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flask Link MySQL V 3.0.18" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="108" key="#Plugins" timestamp="1585066035169">
@@ -491,25 +492,21 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1585066003752" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1587314147265">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1587314776633">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1587314147265" />
-    <state x="431" y="185" key="MultipleFileMergeDialog" timestamp="1582180627395">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="431" y="185" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1582180627395" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1587314776633" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585066369971">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585066369971" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1587314149581">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1587314778824">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1587314149581" />
-    <state x="502" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582290284499">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1587314778824" />
+    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1591372608742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="502" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1582290284499" />
+    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1591372608742" />
   </component>
 </project>
