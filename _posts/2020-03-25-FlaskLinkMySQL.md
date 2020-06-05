@@ -1,15 +1,6 @@
 ---
 layout: post
 categories: posts
-title: Flask link MySQL
-subtitle: Flask link MySQL
-featured-image: /images/2016-11-19/abstract-4.jpg
-tags: [flask]
-date-string: February 20, 2020
----
----
-layout: post
-categories: posts
 title: Flask Link MySQL
 subtitle: Flask Link MySQL
 featured-image: /images/2016-11-19/abstract-5.jpg
