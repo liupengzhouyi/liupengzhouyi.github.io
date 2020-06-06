@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-06-06-LeetCode-将字符串翻转到单调递增.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-06-06-Leetcode-复写零.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-06-06-Leetcode-大小为 K 且平均值大于等于阈值的子数组数目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-06-06-Leetcode-种花问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-06-06-LeetCode-提莫攻击.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +108,7 @@
       <workItem from="1591372091041" duration="1131000" />
       <workItem from="1591374376041" duration="8000" />
       <workItem from="1591430908654" duration="407000" />
-      <workItem from="1591431585166" duration="514000" />
-    </task>
-    <task id="LOCAL-00016" summary=" V 1.0.13">
-      <created>1582182347015</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1582182347015</updated>
+      <workItem from="1591431585166" duration="1153000" />
     </task>
     <task id="LOCAL-00017" summary=" V 1.0.14">
       <created>1582182583762</created>
@@ -457,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591374340590</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="LeetCode-2020-06-06-02 V 4.0.2">
+      <created>1591440615701</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1591440615702</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +476,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Dense() V 1.0.3" />
     <MESSAGE value="Dropout() V 1.0.4" />
     <MESSAGE value="model.fit() V 1.0.5" />
     <MESSAGE value="手写数字识别II V 1.0.6" />
@@ -505,7 +500,8 @@
     <MESSAGE value="Flask Link MySQL V 3.0.18" />
     <MESSAGE value="LeetCode-主要元素 V 4.0.0" />
     <MESSAGE value="LeetCode-珠玑妙算 V 4.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-珠玑妙算 V 4.0.1" />
+    <MESSAGE value="LeetCode-2020-06-06-02 V 4.0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-2020-06-06-02 V 4.0.2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="108" key="#Plugins" timestamp="1585066035169">
@@ -516,18 +512,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1585066003752" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1591374340449">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1591440615484">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1591374340449" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1591440615484" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585066369971">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585066369971" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1591374342409">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1591440619194">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591374342409" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591440619194" />
     <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1591372608742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
