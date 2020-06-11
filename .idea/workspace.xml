@@ -63,15 +63,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
       <recent name="$PROJECT_DIR$/images/2020/02/23" />
       <recent name="$PROJECT_DIR$/images/2020/02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -107,13 +107,7 @@
       <workItem from="1591374376041" duration="8000" />
       <workItem from="1591430908654" duration="407000" />
       <workItem from="1591431585166" duration="1176000" />
-    </task>
-    <task id="LOCAL-00018" summary=" V 1.0.15">
-      <created>1582182691488</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1582182691488</updated>
+      <workItem from="1591527588308" duration="137000" />
     </task>
     <task id="LOCAL-00019" summary=" V 1.0.16">
       <created>1582182963664</created>
@@ -451,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591442233690</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="LeetCode-2020-06-07-01 V 4.0.4">
+      <created>1591527710236</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1591527710237</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +475,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="model.fit() V 1.0.5" />
     <MESSAGE value="手写数字识别II V 1.0.6" />
     <MESSAGE value="optimizer V 3.0.0" />
     <MESSAGE value="dataset V 3.0.1" />
@@ -499,7 +499,8 @@
     <MESSAGE value="LeetCode-珠玑妙算 V 4.0.1" />
     <MESSAGE value="LeetCode-2020-06-06-02 V 4.0.2" />
     <MESSAGE value="LeetCode-2020-06-06-03 V 4.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-2020-06-06-03 V 4.0.3" />
+    <MESSAGE value="LeetCode-2020-06-07-01 V 4.0.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-2020-06-07-01 V 4.0.4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="108" key="#Plugins" timestamp="1585066035169">
@@ -510,18 +511,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1585066003752" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1591442233526">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1591527710049">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1591442233525" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1591527710049" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585066369971">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585066369971" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1591442235573">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1591527712189">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591442235573" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591527712189" />
     <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1591372608742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
