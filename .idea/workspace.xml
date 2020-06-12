@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-06-12-四数之和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-06-12-旋转链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-06-12-接雨水.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,15 +66,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
       <recent name="$PROJECT_DIR$/images/2020/02/23" />
       <recent name="$PROJECT_DIR$/images/2020/02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -113,14 +112,7 @@
       <workItem from="1591431585166" duration="1176000" />
       <workItem from="1591527588308" duration="137000" />
       <workItem from="1591862846657" duration="191000" />
-      <workItem from="1591966476742" duration="197000" />
-    </task>
-    <task id="LOCAL-00020" summary=" V 1.0.17">
-      <created>1582183180078</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1582183180078</updated>
+      <workItem from="1591966476742" duration="840000" />
     </task>
     <task id="LOCAL-00021" summary=" V 1.0.18">
       <created>1582183408624</created>
@@ -458,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591863021023</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="LeetCode-2020-06-12 V 4.0.6">
+      <created>1591973437943</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1591973437943</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +480,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="optimizer V 3.0.0" />
     <MESSAGE value="dataset V 3.0.1" />
     <MESSAGE value="matlib V 3.0.2" />
     <MESSAGE value="matlib V 3.0.3" />
@@ -506,7 +504,8 @@
     <MESSAGE value="LeetCode-2020-06-06-03 V 4.0.3" />
     <MESSAGE value="LeetCode-2020-06-07-01 V 4.0.4" />
     <MESSAGE value="LeetCode-2020-06-11-01 V 4.0.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-2020-06-11-01 V 4.0.5" />
+    <MESSAGE value="LeetCode-2020-06-12 V 4.0.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-2020-06-12 V 4.0.6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="108" key="#Plugins" timestamp="1585066035169">
@@ -517,18 +516,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1585066003752" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1591863020796">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1591973437689">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1591863020796" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1591973437689" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585066369971">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585066369971" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1591863023206">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1591973440169">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591863023206" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591973440169" />
     <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1591372608742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
