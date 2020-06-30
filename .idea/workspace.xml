@@ -113,13 +113,7 @@
       <workItem from="1592063500535" duration="649000" />
       <workItem from="1592064914982" duration="22000" />
       <workItem from="1593192578086" duration="193000" />
-    </task>
-    <task id="LOCAL-00024" summary=" V 1.0.21">
-      <created>1582184180738</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1582184180738</updated>
+      <workItem from="1593193066330" duration="86000" />
     </task>
     <task id="LOCAL-00025" summary=" V 1.0.22">
       <created>1582184489645</created>
@@ -457,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593192696302</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Django教程 V 4.0.10">
+      <created>1593193139337</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1593193139338</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +481,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="电影评论分类 V 3.0.4" />
     <MESSAGE value="IMDB电影评论情感分类 V 3.0.5" />
     <MESSAGE value="数据机填充到相同长度 V 3.0.6" />
     <MESSAGE value="tensorflow.keras.layers.Embedding V 3.0.7" />
@@ -505,7 +505,8 @@
     <MESSAGE value="LeetCode-2020-06-12.1 V 4.0.7" />
     <MESSAGE value="LeetCode-2020-06-13.1 V 4.0.8" />
     <MESSAGE value="Django教程 V 4.0.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django教程 V 4.0.9" />
+    <MESSAGE value="Django教程 V 4.0.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django教程 V 4.0.10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="108" key="#Plugins" timestamp="1585066035169">
@@ -516,22 +517,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1593192625086" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1593192696100">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1593193139170">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1593192696100" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1593193139170" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585066369971">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585066369971" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1593192698744">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1593193141154">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1593192698744" />
-    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592064925591">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1593193141154" />
+    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593193068380">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1592064925591" />
+    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1593193068380" />
     <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1591372608742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
