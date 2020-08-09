@@ -114,13 +114,7 @@
       <workItem from="1592064914982" duration="22000" />
       <workItem from="1593192578086" duration="193000" />
       <workItem from="1593193066330" duration="86000" />
-    </task>
-    <task id="LOCAL-00025" summary=" V 1.0.22">
-      <created>1582184489645</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1582184489646</updated>
+      <workItem from="1593508507935" duration="539000" />
     </task>
     <task id="LOCAL-00026" summary=" V 1.0.24">
       <created>1582185016314</created>
@@ -458,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593193139338</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Django教程 V 4.0.10">
+      <created>1593508530464</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1593508530464</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,18 +518,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1593192625086" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1593193139170">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1593508530264">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1593193139170" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1593508530264" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1585066369971">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585066369971" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1593193141154">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1593508532891">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1593193141154" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1593508532891" />
     <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593193068380">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
