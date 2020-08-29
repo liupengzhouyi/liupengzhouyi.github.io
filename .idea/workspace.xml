@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +76,7 @@
       <recent name="$PROJECT_DIR$/images/2020/02" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,13 +118,8 @@
       <workItem from="1593192578086" duration="193000" />
       <workItem from="1593193066330" duration="86000" />
       <workItem from="1593508507935" duration="539000" />
-    </task>
-    <task id="LOCAL-00026" summary=" V 1.0.24">
-      <created>1582185016314</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1582185016314</updated>
+      <workItem from="1596987695583" duration="196000" />
+      <workItem from="1597422047233" duration="2000" />
     </task>
     <task id="LOCAL-00027" summary=" V 1.0.25">
       <created>1582185145294</created>
@@ -459,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1593508530464</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="经济学学派简单介绍 V 4.0.11">
+      <created>1596987851831</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1596987851831</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
@@ -482,7 +487,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="IMDB电影评论情感分类 V 3.0.5" />
     <MESSAGE value="数据机填充到相同长度 V 3.0.6" />
     <MESSAGE value="tensorflow.keras.layers.Embedding V 3.0.7" />
     <MESSAGE value="fit V 3.0.8" />
@@ -507,29 +511,22 @@
     <MESSAGE value="LeetCode-2020-06-13.1 V 4.0.8" />
     <MESSAGE value="Django教程 V 4.0.9" />
     <MESSAGE value="Django教程 V 4.0.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django教程 V 4.0.10" />
+    <MESSAGE value="经济学学派简单介绍 V 4.0.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="经济学学派简单介绍 V 4.0.11" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="319" y="108" key="#Plugins" timestamp="1585066035169">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="319" y="108" key="#Plugins/0.23.1440.877@0.23.1440.877" timestamp="1585066035169" />
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593192625086">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1593192625086" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1593508530264">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1596987851691">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1593508530264" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1585066369971">
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1596987851691" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1596987855046">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585066369971" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1593508532891">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1593508532891" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1596987855046" />
     <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593193068380">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
