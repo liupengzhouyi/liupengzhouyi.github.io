@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,13 +118,7 @@
       <workItem from="1593508507935" duration="539000" />
       <workItem from="1596987695583" duration="196000" />
       <workItem from="1597422047233" duration="2000" />
-    </task>
-    <task id="LOCAL-00027" summary=" V 1.0.25">
-      <created>1582185145294</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1582185145294</updated>
+      <workItem from="1598686063487" duration="127000" />
     </task>
     <task id="LOCAL-00028" summary=" V 1.0.26">
       <created>1582185198456</created>
@@ -464,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596987851831</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="数据库再一次初体验 V 4.0.12">
+      <created>1598686144564</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1598686144565</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +486,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="数据机填充到相同长度 V 3.0.6" />
     <MESSAGE value="tensorflow.keras.layers.Embedding V 3.0.7" />
     <MESSAGE value="fit V 3.0.8" />
     <MESSAGE value="波士顿房价 V 3.0.9" />
@@ -512,21 +510,22 @@
     <MESSAGE value="Django教程 V 4.0.9" />
     <MESSAGE value="Django教程 V 4.0.10" />
     <MESSAGE value="经济学学派简单介绍 V 4.0.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="经济学学派简单介绍 V 4.0.11" />
+    <MESSAGE value="数据库再一次初体验 V 4.0.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据库再一次初体验 V 4.0.12" />
   </component>
   <component name="WindowStateProjectService">
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593192625086">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="373" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1593192625086" />
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1596987851691">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1598686144379">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1596987851691" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1596987855046">
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1598686144379" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1598686146779">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1596987855046" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1598686146779" />
     <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593193068380">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
