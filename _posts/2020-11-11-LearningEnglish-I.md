@@ -1,14 +1,14 @@
-----
+- - - -
 layout: post
 categories: posts
 title: LearningEnglish-I
 subtitle: LearningEnglish-I
 featured-image: /images/2016-11-19/abstract-3.jpg
 tags: [diary]
-date-string: NOVEMBER 11, 2020
-----
+date-string: November 11, 2020
+- - - -
 
-#  2020-11-11- - LearningEnglish-I
+#  2020-11-11- LearningEnglish-I
 
 
 | 项目名称     |    LearningEnglish-I      |
@@ -18,7 +18,7 @@ date-string: NOVEMBER 11, 2020
 | 地点         | 商都嘉园穆庄小区东苑    |
 | 项目开始时间 | 2020年11月11日 下午1:45 |
 | 项目结束时间 | 2020年11月11日 下午2:45 |
-| 项目归档日期 | 2020-11-11 17:33:11  |
+| 项目归档日期 | 2020-11-11 17:41:52  |
 
 # 项目简介
 > learning 800 high school English words  
