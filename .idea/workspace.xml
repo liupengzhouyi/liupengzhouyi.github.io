@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-Diary.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Dinner.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-Dinner.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-I.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-I.md" afterDir="false" />
@@ -132,14 +131,7 @@
       <workItem from="1602316163902" duration="1643000" />
       <workItem from="1605082968292" duration="2494000" />
       <workItem from="1605087167269" duration="656000" />
-      <workItem from="1605087842706" duration="112000" />
-    </task>
-    <task id="LOCAL-00031" summary=" V 1.0.28">
-      <created>1582187238284</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1582187238284</updated>
+      <workItem from="1605087842706" duration="435000" />
     </task>
     <task id="LOCAL-00032" summary=" V 1.0.29">
       <created>1582188896022</created>
@@ -477,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605087420885</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="diary V 4.0.16">
+      <created>1605087962210</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1605087962210</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +499,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="波士顿房价 V 3.0.10" />
     <MESSAGE value="pandas V 3.0.11" />
     <MESSAGE value="pandas V 3.0.12" />
     <MESSAGE value="pandas V 3.0.13" />
@@ -525,16 +523,17 @@
     <MESSAGE value="从城市化看历史与财富 V 4.0.13" />
     <MESSAGE value="北洋裂变 V 4.0.14" />
     <MESSAGE value="diary V 4.0.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.15" />
+    <MESSAGE value="diary V 4.0.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.16" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605087420662">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605087962014">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605087420662" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605087423684">
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605087962014" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605087964867">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605087423684" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605087964867" />
   </component>
 </project>
