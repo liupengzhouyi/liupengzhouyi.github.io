@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,14 +126,7 @@
       <workItem from="1605082968292" duration="2494000" />
       <workItem from="1605087167269" duration="656000" />
       <workItem from="1605087842706" duration="620000" />
-      <workItem from="1605088913317" duration="303000" />
-    </task>
-    <task id="LOCAL-00034" summary="tensorflow拟合线性回归 V 2.0.2">
-      <created>1582275769859</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1582275769859</updated>
+      <workItem from="1605088913317" duration="459000" />
     </task>
     <task id="LOCAL-00035" summary="Keras拟合线性回归 V 2.0.3">
       <created>1582289641155</created>
@@ -469,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605089181825</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="diary V 4.0.19">
+      <created>1605089274182</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1605089274182</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +494,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="pandas V 3.0.13" />
     <MESSAGE value="pandas V 3.0.14" />
     <MESSAGE value="Flask Link MySQL V 3.0.15" />
     <MESSAGE value="Ord World APIs V 3.0.16" />
@@ -517,16 +518,17 @@
     <MESSAGE value="diary V 4.0.16" />
     <MESSAGE value="diary V 4.0.17" />
     <MESSAGE value="diary V 4.0.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.18" />
+    <MESSAGE value="diary V 4.0.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.19" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605088310864">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605089274044">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605088310864" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605088313139">
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605089274044" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605089276180">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605088313139" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605089276180" />
   </component>
 </project>
