@@ -1,155 +1,57 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
-baseurl:
-url: https://liupengzhouyi.github.io
-date_format: "ordinal"
-title: liupeng's blog
-subtitle: "liupeng's blog"
-description: "liupeng's blog"
-keywords: liupeng
-timezone: Asia/Shanghai
-encoding: "utf-8"
-side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
-# 对 css 和 js 资源的 cdn 加速配置
-cdn:
-    jsdelivr:
-        enabled: true
-# 组件配置
-components:
-    # 分享
-    share:
-        enabled: false
-    # 不蒜子访问统计
-    busuanzi:
-        enabled: true
-        start_date: 2020-05-03
-# 压缩页面内容
-compress_html:
-  clippings: all
-  comments: ["<!--", "-->"]
-# 文章字数统计
-word_count:
-    enabled: true
-# 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
-highlight_theme: github
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
 
-# ---------------- #
-#      Author      #
-# ---------------- #
-author: liupeng
-organization: 
-organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: liupeng.0@outlook.com
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Li Mingxiu
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
 
-# ---------------- #
-#    Navigation    #
-# ---------------- #
-navs:
-  -
-    href: /
-    label: 首页
+  # generate social links in footer
+  social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
 
-  -
-    href: /categories/
-    label: 分类
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-#   -
-#     href: /archives/
-#     label: 归档
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
-#   -
-#     href: /open-source/
-#     label: 开源
+# Build settings
+theme: plainwhite
 
-  -
-    href: /wiki/
-    label: 维基
-
-  -
-    href: /links/
-    label: 链接
-
-  -
-    href: /about/
-    label: 关于
-
-# ---------------- #
-#       RSS        #
-# ---------------- #
-subscribe_rss: /feed.xml
-
-# ---------------- #
-#      Jekyll      #
-# ---------------- #
-markdown: kramdown
-kramdown:
-    input: GFM
-highlighter: rouge
-paginate: 10
-lsi: false
-quiet: false
-excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
 plugins:
-    - jekyll-github-metadata
-    - rouge
-#     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
-#     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
-
-# ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: disqus, gitment, gitalk
-#comments_provider: gitalk
-# !!!重要!!! 请修改下面这些信息为你自己申请的
-# !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username: 
-# https://imsun.net/posts/gitment-introduction/
-#gitment:
-#    owner: mzlogin
-#    repo: blog-comments
-#    oauth:
-#        client_id: d2e1cbbd298958076462
-#        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# https://github.com/gitalk/gitalk#install
-#gitalk:
-#    owner: mzlogin
-#    repo: blog-comments
-#    clientID: d2e1cbbd298958076462
-#    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
-
-# ---------------- #
-#      Search      #
-# ---------------- #
-simple_jekyll_search:
-    # 是否支持全文搜索
-    fulltext: false
-    # 最多显示多少条搜索结果
-    limit: 10
-
-# ---------------- #
-#      Google      #
-# ---------------- #
-google:
-    analytics_id: UA-80669434-1
-    adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
-        content_footer: false
+  -
+  - jekyll-seo-tag
+#  - jekyll-feed
