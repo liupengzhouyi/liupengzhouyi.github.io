@@ -124,13 +124,7 @@
       <workItem from="1605082968292" duration="2494000" />
       <workItem from="1605087167269" duration="656000" />
       <workItem from="1605087842706" duration="620000" />
-    </task>
-    <task id="LOCAL-00033" summary="Numpy.array V 2.0.1">
-      <created>1582269945238</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1582269945238</updated>
+      <workItem from="1605088913317" duration="303000" />
     </task>
     <task id="LOCAL-00034" summary="tensorflow拟合线性回归 V 2.0.2">
       <created>1582275769859</created>
@@ -468,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605088311020</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="diary V 4.0.18">
+      <created>1605089181825</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1605089181825</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="pandas V 3.0.12" />
     <MESSAGE value="pandas V 3.0.13" />
     <MESSAGE value="pandas V 3.0.14" />
     <MESSAGE value="Flask Link MySQL V 3.0.15" />
@@ -516,7 +516,8 @@
     <MESSAGE value="diary V 4.0.15" />
     <MESSAGE value="diary V 4.0.16" />
     <MESSAGE value="diary V 4.0.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.17" />
+    <MESSAGE value="diary V 4.0.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.18" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605088310864">
