@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-10-readability-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-14-video-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-18-code-highlighting-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-19-image-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-20-sample-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-welcome-to-jekyll.markdown" beforeDir="false" />
-    </list>
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,14 +127,7 @@
       <workItem from="1605088913317" duration="689000" />
       <workItem from="1605089796871" duration="714000" />
       <workItem from="1605104787643" duration="585000" />
-      <workItem from="1605105433020" duration="323000" />
-    </task>
-    <task id="LOCAL-00042" summary="model.fit() V 1.0.5">
-      <created>1582357917402</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1582357917402</updated>
+      <workItem from="1605105433020" duration="735000" />
     </task>
     <task id="LOCAL-00043" summary="手写数字识别II V 1.0.6">
       <created>1582380929425</created>
@@ -480,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605105705560</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="diary V 4.0.26">
+      <created>1605105776953</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1605105776953</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +495,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LeetCode-珠玑妙算 V 4.0.1" />
     <MESSAGE value="LeetCode-2020-06-06-02 V 4.0.2" />
     <MESSAGE value="LeetCode-2020-06-06-03 V 4.0.3" />
     <MESSAGE value="LeetCode-2020-06-07-01 V 4.0.4" />
@@ -528,16 +519,17 @@
     <MESSAGE value="diary V 4.0.23" />
     <MESSAGE value="diary V 4.0.24" />
     <MESSAGE value="diary V 4.0.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.25" />
+    <MESSAGE value="diary V 4.0.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.26" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605105166646">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605105776791">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605105166646" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605105168833">
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605105776791" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605105779661">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605105168833" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605105779661" />
   </component>
 </project>

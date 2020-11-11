@@ -1,150 +1,63 @@
-# texture
+[Hux Blog](https://huangxuan.me)
+================================
 
-A configurable jekyll theme for simply beautiful blogs.
+> I never expected this becomes popular.
 
-**Demo**: [thelehhman.com/texture](https://thelehhman.com/texture)
-
-![texture theme preview](/screen1.png)
+![](http://huangxuan.me/img/blog-desktop.jpg)
 
 
-## Installation on Github Pages
+[User Manual 👉](_doc/Manual.md)
+--------------------------------------------------
 
-Add this line to your site's `_config.yml`:
-```yaml
-remote_theme: thelehhman/texture
+### Getting Started
+
+1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+
+2. Installed dependencies in the `Gemfile`:
+
+```sh
+$ bundle install 
 ```
 
-**NOTE: If you are forking this repo, remove `base_url: /texture` in the `_config.yml` which is required to load the required website assets**
-## Installation
+3. Serve the website (`localhost:4000` by default):
 
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "texture"
+```sh
+$ bundle exec jekyll serve  # alternatively, npm start
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+### Development (Build From Source)
 
-```yaml
-theme: texture
-```
+To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
 
-And then execute:
+Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
 
-    $ bundle
+Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
 
-Or install it yourself as:
-
-    $ gem install texture
-
-## Usage
-
-The "texture" key in _config.yml is used to customize the theme data.
-```yaml
-texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman # format: locale/username
-```
-
-**Styling**
-
-Multiple header styles are supported using the "style" property under texture in `_config.yml`.
-
-```yaml
-texture:
-  style: [yellow|red|black|blue|green|purple]
-```
-
-For example, the blue style looks like this:
-
-![texture theme blue](/screen2.png)
+This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
 
 
-**Texture Picker**
+### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
 
-You can toggle the texture picker to show/experiment various textures on your site using the showPicker variable. Remember to make it `false` for production.
 
-```yaml
-texture:
-  showPicker: [false|true] # show the texture selector(development purposes)
-```
+Other Resources
+---------------
 
-**Comments (Disqus)**
+Ports
+- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
+- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
 
-Comments on posts can be enabled by specifying your disqus_shortname under texture in `_config.yml`. For example,
-```yaml
-texture:
-  disqus_shortname: games
-```
+[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
+- Out of date. Helps wanted for updating it on par with the main repo
 
-**Google Analytics**
+Translation
+- [🇨🇳 (somewhat outdated)](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
 
-It can be enabled by specifying your analytics id under texture in `_config.yml`
-```yaml
-texture:
-  analytics_id: '< YOUR ID >'
-```
 
-**Excerpts**
+License
+-------
 
-Excerpts can be enabled by adding the following line to your `_config.yml`
-```yaml
-show_excerpts: true
-```
+Apache License 2.0.
+Copyright (c) 2015-present Huxpro
 
-**Toggle Navbar**
-
-```yaml
-texture:
-  showNav: true
-```
-
-**Navigation**
-
-After setting `showNav` to true navigation can be built by adding the following to your `_config.yml`
-
-```yaml
-texture:
-  navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
-```
-
-**Layouts**
-
-- Home
-- Page
-- Post
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/thelehhman/texture. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `texture.gemspec` accordingly.
-
-## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/thelehhman)
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## More Themes
-[plainwhite](https://github.com/thelehhman/plainwhite-jekyll)
+Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+Copyright (c) 2013-2016 Blackrock Digital LLC.
