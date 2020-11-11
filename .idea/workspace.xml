@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-10-readability-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-14-video-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-18-code-highlighting-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-19-image-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-20-sample-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-welcome-to-jekyll.markdown" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,20 +135,7 @@
       <workItem from="1605088913317" duration="689000" />
       <workItem from="1605089796871" duration="714000" />
       <workItem from="1605104787643" duration="585000" />
-    </task>
-    <task id="LOCAL-00040" summary="Dense() V 1.0.3">
-      <created>1582357698842</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1582357698842</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Dropout() V 1.0.4">
-      <created>1582357805369</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1582357805369</updated>
+      <workItem from="1605105433020" duration="323000" />
     </task>
     <task id="LOCAL-00042" summary="model.fit() V 1.0.5">
       <created>1582357917402</created>
@@ -471,7 +466,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605105166788</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="diary V 4.0.24">
+      <created>1605105508161</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1605105508161</updated>
+    </task>
+    <task id="LOCAL-00090" summary="diary V 4.0.25">
+      <created>1605105705560</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1605105705560</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,8 +503,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Flask Link MySQL V 3.0.18" />
-    <MESSAGE value="LeetCode-主要元素 V 4.0.0" />
     <MESSAGE value="LeetCode-珠玑妙算 V 4.0.1" />
     <MESSAGE value="LeetCode-2020-06-06-02 V 4.0.2" />
     <MESSAGE value="LeetCode-2020-06-06-03 V 4.0.3" />
@@ -519,7 +526,9 @@
     <MESSAGE value="diary V 4.0.21" />
     <MESSAGE value="diary V 4.0.22" />
     <MESSAGE value="diary V 4.0.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.23" />
+    <MESSAGE value="diary V 4.0.24" />
+    <MESSAGE value="diary V 4.0.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.25" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605105166646">

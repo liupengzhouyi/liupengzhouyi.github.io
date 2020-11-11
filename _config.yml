@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Liu Peng
-  tagline: Developer. Designer
+  tagline: Developer. Designer. Econmeicol
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
