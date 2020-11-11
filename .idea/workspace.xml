@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-10-10-北洋裂变.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-11-Diary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-11-Dinner.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-I.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-III.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-11-Lunch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-11-Sleep.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,15 +72,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
       <recent name="$PROJECT_DIR$/images/2020/02/23" />
       <recent name="$PROJECT_DIR$/images/2020/02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -123,14 +129,9 @@
       <workItem from="1597422047233" duration="2000" />
       <workItem from="1598686063487" duration="127000" />
       <workItem from="1602235980727" duration="151000" />
-      <workItem from="1602316163902" duration="1369000" />
-    </task>
-    <task id="LOCAL-00029" summary=" V 1.0.26">
-      <created>1582186579125</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1582186579125</updated>
+      <workItem from="1602316163902" duration="1643000" />
+      <workItem from="1605082968292" duration="2494000" />
+      <workItem from="1605087167269" duration="239000" />
     </task>
     <task id="LOCAL-00030" summary=" V 1.0.27">
       <created>1582186670114</created>
@@ -468,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602236109223</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="北洋裂变 V 4.0.14">
+      <created>1602317713996</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1602317713996</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +499,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fit V 3.0.8" />
     <MESSAGE value="波士顿房价 V 3.0.9" />
     <MESSAGE value="波士顿房价 V 3.0.10" />
     <MESSAGE value="pandas V 3.0.11" />
@@ -516,16 +523,17 @@
     <MESSAGE value="经济学学派简单介绍 V 4.0.11" />
     <MESSAGE value="数据库再一次初体验 V 4.0.12" />
     <MESSAGE value="从城市化看历史与财富 V 4.0.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="从城市化看历史与财富 V 4.0.13" />
+    <MESSAGE value="北洋裂变 V 4.0.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="北洋裂变 V 4.0.14" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1602236109084">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1602317713749">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1602236109084" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1602236111228">
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1602317713749" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1602317716189">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602236111228" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602317716189" />
   </component>
 </project>
