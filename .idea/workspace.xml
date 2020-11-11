@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,13 +129,7 @@
       <workItem from="1605087842706" duration="620000" />
       <workItem from="1605088913317" duration="689000" />
       <workItem from="1605089796871" duration="714000" />
-    </task>
-    <task id="LOCAL-00038" summary="手写数字识别 V 2.0.6">
-      <created>1582355623506</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1582355623506</updated>
+      <workItem from="1605104787643" duration="373000" />
     </task>
     <task id="LOCAL-00039" summary="Flatten V 2.0.7">
       <created>1582357505533</created>
@@ -470,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605089973440</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="diary V 4.0.22">
+      <created>1605104831132</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1605104831133</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Ord World APIs V 3.0.16" />
     <MESSAGE value="Flask Link MySQL V 3.0.17" />
     <MESSAGE value="Flask Link MySQL V 3.0.18" />
     <MESSAGE value="LeetCode-主要元素 V 4.0.0" />
@@ -518,16 +521,17 @@
     <MESSAGE value="diary V 4.0.19" />
     <MESSAGE value="diary V 4.0.20" />
     <MESSAGE value="diary V 4.0.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.21" />
+    <MESSAGE value="diary V 4.0.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.22" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605089973318">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605104830554">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605089973318" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605089974882">
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605104830554" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605104833720">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605089974882" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605104833720" />
   </component>
 </project>
