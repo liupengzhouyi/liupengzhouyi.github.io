@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/friends.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/friends.yml" afterDir="false" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_data/category.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/category.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,28 +138,7 @@
       <workItem from="1605153822910" duration="580000" />
       <workItem from="1605154426535" duration="2435000" />
       <workItem from="1605160848903" duration="599000" />
-      <workItem from="1605161462476" duration="341000" />
-    </task>
-    <task id="LOCAL-00056" summary="pandas V 3.0.12">
-      <created>1582821653097</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1582821653097</updated>
-    </task>
-    <task id="LOCAL-00057" summary="pandas V 3.0.13">
-      <created>1582821923421</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1582821923422</updated>
-    </task>
-    <task id="LOCAL-00058" summary="pandas V 3.0.14">
-      <created>1582823100863</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1582823100863</updated>
+      <workItem from="1605161462476" duration="565000" />
     </task>
     <task id="LOCAL-00059" summary="Flask Link MySQL V 3.0.15">
       <created>1585066403458</created>
@@ -484,7 +462,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605161772892</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="diary V 4.0.32">
+      <created>1605161818241</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1605161818241</updated>
+    </task>
+    <task id="LOCAL-00106" summary="diary V 4.0.33">
+      <created>1605161871238</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1605161871238</updated>
+    </task>
+    <task id="LOCAL-00107" summary="diary V 4.0.34">
+      <created>1605161939386</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1605161939386</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,20 +524,20 @@
     <MESSAGE value="diary V 4.0.28" />
     <MESSAGE value="diary V 4.0.29" />
     <MESSAGE value="diary V 4.0.30" />
-    <MESSAGE value="diary V 4.0.32" />
-    <MESSAGE value="diary V 4.0.33" />
-    <MESSAGE value="diary V 4.0.34" />
     <MESSAGE value="diary V 4.0.35" />
     <MESSAGE value="diary V 4.0.36" />
     <MESSAGE value="diary V 4.0.37" />
     <MESSAGE value="diary V 4.0.31" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.31" />
+    <MESSAGE value="diary V 4.0.32" />
+    <MESSAGE value="diary V 4.0.33" />
+    <MESSAGE value="diary V 4.0.34" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.34" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605161373028">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605161939237">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605161373028" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605161939237" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -555,9 +554,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605161319969">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605161941356">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605161319969" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605161941356" />
   </component>
 </project>
