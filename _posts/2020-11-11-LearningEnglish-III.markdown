@@ -2,7 +2,7 @@
 layout: post
 title: " LearningEnglish-III"
 date: 2020-11-11 20:30:00 + 0800
-categories: technology
+categories: diary
 tags: diary
 img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
 ---

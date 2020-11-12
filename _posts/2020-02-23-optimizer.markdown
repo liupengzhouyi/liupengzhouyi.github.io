@@ -4,7 +4,7 @@ title: " Optimizer"
 date: 2020-02-23 20:30:00 + 0800
 categories: technology
 tags: tensorflow
-img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
+img: https://ae02.alicdn.com/kf/H9378f2d8036b406a90d8eed979c1684fD.png
 ---
 
 # Optimizer

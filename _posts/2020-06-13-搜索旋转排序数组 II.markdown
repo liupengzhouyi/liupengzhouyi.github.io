@@ -4,7 +4,7 @@ title: " Leetcode - 搜索旋转排序数组 II"
 date: 2020-06-13 20:30:00 + 0800
 categories: technology
 tags: leetcode
-img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
+img: https://ae02.alicdn.com/kf/H9378f2d8036b406a90d8eed979c1684fD.png
 ---
 # [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
 
