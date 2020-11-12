@@ -3,7 +3,7 @@ layout: post
 title: tensorflow.Dataset()
 date: 2020-02-24 20:30:00 + 0800
 subtitle: tensorflow.Dataset()
-categories: posts
+categories：technology
 tags: [tensorflow]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---

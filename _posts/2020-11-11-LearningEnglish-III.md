@@ -3,7 +3,7 @@ layout: post
 title: LearningEnglish-III
 date: 2020-11-11 20:30:00 + 0800
 subtitle: LearningEnglish-III
-categories: posts
+categories：technology
 tags: [diary]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---

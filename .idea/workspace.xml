@@ -21,15 +21,21 @@
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-how-to-install-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-how-to-install-rvm.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-liquid-template-language.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-use-adb-and-fastboot-to-save-my-nexus5x.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-29-jekyll-theme-mdui.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-5-30-Jekyll-Theme-MDUI-Editor.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-7-25-no-img-test.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-13-goodbey-yy-fuck-yy.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Sleep.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-20-Test.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-20-Test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-20-如何白嫖一个网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-20-如何白嫖一个网站.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-21-Keras拟合线性回归.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-21-Keras拟合线性回归.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-21-Numpy的array方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-21-Numpy的array方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-21-tensorflow拟合线性回归.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-21-tensorflow拟合线性回归.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-22-Dense.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-22-Dense.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-22-Dropout.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-22-Dropout.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-22-Flatten函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-22-Flatten函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-22-fit.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-22-fit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-22-tensorflow手写数字识别.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-22-tensorflow手写数字识别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-23-optimizer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-23-optimizer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-23-tensorflow识辨手写数字II.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-23-tensorflow识辨手写数字II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-24-IMDB电影评论情感分类.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-24-IMDB电影评论情感分类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-24-Tensorflow.Dataset.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-24-Tensorflow.Dataset.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-24-python-matlib.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-24-python-matlib.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,14 +151,7 @@
       <workItem from="1605105433020" duration="735000" />
       <workItem from="1605106447501" duration="501000" />
       <workItem from="1605153822910" duration="580000" />
-      <workItem from="1605154426535" duration="2039000" />
-    </task>
-    <task id="LOCAL-00051" summary="tensorflow.keras.layers.Embedding V 3.0.7">
-      <created>1582557882009</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1582557882009</updated>
+      <workItem from="1605154426535" duration="2435000" />
     </task>
     <task id="LOCAL-00052" summary="fit V 3.0.8">
       <created>1582634004964</created>
@@ -490,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605157440239</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="diary V 4.0.34">
+      <created>1605160455610</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1605160455610</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,7 +519,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Django教程 V 4.0.9" />
     <MESSAGE value="Django教程 V 4.0.10" />
     <MESSAGE value="经济学学派简单介绍 V 4.0.11" />
     <MESSAGE value="数据库再一次初体验 V 4.0.12" />
@@ -538,13 +543,14 @@
     <MESSAGE value="diary V 4.0.31" />
     <MESSAGE value="diary V 4.0.32" />
     <MESSAGE value="diary V 4.0.33" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.33" />
+    <MESSAGE value="diary V 4.0.34" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.34" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605157440086">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605160455385">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605157440086" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605160455385" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -561,9 +567,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605157441891">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605160458195">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605157441891" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605160458195" />
   </component>
 </project>

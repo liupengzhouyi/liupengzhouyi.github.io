@@ -3,7 +3,7 @@ layout: post
 title: Flask Link MySQL
 date: 2020-03-25 20:30:00 + 0800
 subtitle: Flask Link MySQL
-categories: posts
+categories：technology
 tags: [flask]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---

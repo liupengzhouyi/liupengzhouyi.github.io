@@ -3,7 +3,7 @@ layout: post
 title: numpy.array
 date: 2020-02-21 20:30:00 + 0800
 subtitle: Numpy.Array方法
-categories: posts
+categories：technology
 tags: [numpy]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
