@@ -3,7 +3,7 @@ layout: post
 title: " numpy.array"
 date: 2020-02-21 20:30:00 + 0800
 categories: technology
-tags: [numpy]
+tags: numpy
 img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
 ---
 

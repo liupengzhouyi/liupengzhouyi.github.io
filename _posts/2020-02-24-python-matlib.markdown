@@ -3,7 +3,7 @@ layout: post
 title: " python.matlib"
 date: 2020-02-24 20:30:00 + 0800
 categories: technology
-tags: [python]
+tags: python
 img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
 ---
 

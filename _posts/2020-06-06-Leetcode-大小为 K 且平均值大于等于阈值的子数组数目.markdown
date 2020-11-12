@@ -3,7 +3,7 @@ layout: post
 title: " Leetcode - 大小为 K 且平均值大于等于阈值的子数组数目"
 date: 2020-06-06 20:30:00 + 0800
 categories: technology
-tags: [leetcode]
+tags: leetcode
 img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
 ---
 
