@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category/history.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/category.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/category.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/friends.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/friends.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +141,7 @@
       <workItem from="1605160848903" duration="599000" />
       <workItem from="1605161462476" duration="721000" />
       <workItem from="1605162200258" duration="604000" />
-      <workItem from="1605162817874" duration="394000" />
-    </task>
-    <task id="LOCAL-00062" summary="Flask Link MySQL V 3.0.18">
-      <created>1587314776813</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1587314776813</updated>
+      <workItem from="1605162817874" duration="569000" />
     </task>
     <task id="LOCAL-00063" summary="LeetCode-主要元素 V 4.0.0">
       <created>1591372708593</created>
@@ -487,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605162780922</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="diary V 4.0.38">
+      <created>1605163233133</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1605163233134</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +509,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="从城市化看历史与财富 V 4.0.13" />
     <MESSAGE value="北洋裂变 V 4.0.14" />
     <MESSAGE value="diary V 4.0.15" />
     <MESSAGE value="diary V 4.0.16" />
@@ -535,13 +533,14 @@
     <MESSAGE value="diary V 4.0.35" />
     <MESSAGE value="diary V 4.0.36" />
     <MESSAGE value="diary V 4.0.37" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.37" />
+    <MESSAGE value="diary V 4.0.38" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.38" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605162780752">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605163232890">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605162780752" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605163232890" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -558,9 +557,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605162782899">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605163235072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605162782899" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605163235072" />
   </component>
 </project>
