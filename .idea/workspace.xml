@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/friends.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/love.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/touch/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/touch/icon-128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/touch/ms-touch-icon-144x144-precomposed.png" beforeDir="false" />
-    </list>
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,13 +142,7 @@
       <workItem from="1605163444837" duration="606000" />
       <workItem from="1605165344613" duration="600000" />
       <workItem from="1605165957156" duration="17000" />
-    </task>
-    <task id="LOCAL-00068" summary="LeetCode-2020-06-11-01 V 4.0.5">
-      <created>1591863021022</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1591863021023</updated>
+      <workItem from="1605166010144" duration="365000" />
     </task>
     <task id="LOCAL-00069" summary="LeetCode-2020-06-12 V 4.0.6">
       <created>1591973437943</created>
@@ -494,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605165574945</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="diary V 4.0.43">
+      <created>1605166033432</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1605166033433</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +510,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.18" />
     <MESSAGE value="diary V 4.0.19" />
     <MESSAGE value="diary V 4.0.20" />
     <MESSAGE value="diary V 4.0.21" />
@@ -542,13 +534,14 @@
     <MESSAGE value="diary V 4.0.40" />
     <MESSAGE value="diary V 4.0.41" />
     <MESSAGE value="diary V 4.0.42" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.42" />
+    <MESSAGE value="diary V 4.0.43" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.43" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605165574721">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605166033107">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605165574721" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605166033107" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -565,9 +558,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605165579609">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605166035642">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605165579609" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605166035642" />
   </component>
 </project>
