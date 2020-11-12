@@ -4,7 +4,7 @@ title: " IMDB电影评论情感分类"
 date: 2020-02-24 20:30:00 + 0800
 categories: technology
 tags: [tensorflow]
-img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
 ---
 
 # IMDB电影评论情感分类

@@ -4,7 +4,7 @@ title: " Leetcode - 大小为 K 且平均值大于等于阈值的子数组数目
 date: 2020-06-06 20:30:00 + 0800
 categories: technology
 tags: [leetcode]
-img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
 ---
 
 # [大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)

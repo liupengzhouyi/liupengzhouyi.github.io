@@ -4,7 +4,7 @@ title: " Leetcode - 提莫攻击"
 date: 2020-06-06 20:30:00 + 0800
 categories: technology
 tags: [leetcode]
-img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+img: https://ae03.alicdn.com/kf/Hb7f0c7d7d5844015954e4ea058d9d6710.png
 ---
 # [提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/)
 
