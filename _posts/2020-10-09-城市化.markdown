@@ -2,7 +2,7 @@
 layout: post
 title: " 从城市化看历史与财富"
 date: 2020-10-09 20:30:00 + 0800
-categories：technology
+categories: technology
 tags: [经济学]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---

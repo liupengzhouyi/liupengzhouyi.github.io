@@ -2,7 +2,7 @@
 layout: post
 title: " Leetcode - 第二高的薪水"
 date: 2020-06-11 20:30:00 + 0800
-categories：technology
+categories: technology
 tags: [MySQL]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---

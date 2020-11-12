@@ -2,7 +2,7 @@
 layout: post
 title: " tensorflow手写数字识别II"
 date: 2020-02-23 20:30:00 + 0800
-categories：technology
+categories: technology
 tags: [tensorflow]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
