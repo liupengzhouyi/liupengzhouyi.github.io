@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Sleep.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-Sleep.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,15 +69,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
       <recent name="$PROJECT_DIR$/images/2020/02/23" />
       <recent name="$PROJECT_DIR$/images/2020/02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -136,20 +136,7 @@
       <workItem from="1605105433020" duration="735000" />
       <workItem from="1605106447501" duration="501000" />
       <workItem from="1605153822910" duration="580000" />
-    </task>
-    <task id="LOCAL-00048" summary="电影评论分类 V 3.0.4">
-      <created>1582540415024</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1582540415024</updated>
-    </task>
-    <task id="LOCAL-00049" summary="IMDB电影评论情感分类 V 3.0.5">
-      <created>1582557682139</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1582557682139</updated>
+      <workItem from="1605154426535" duration="572000" />
     </task>
     <task id="LOCAL-00050" summary="数据机填充到相同长度 V 3.0.6">
       <created>1582557772309</created>
@@ -480,7 +467,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605154243049</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="diary V 4.0.31">
+      <created>1605154491175</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1605154491175</updated>
+    </task>
+    <task id="LOCAL-00098" summary="diary V 4.0.32">
+      <created>1605154676466</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1605154676466</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +504,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="LeetCode-2020-06-12.1 V 4.0.7" />
     <MESSAGE value="LeetCode-2020-06-13.1 V 4.0.8" />
     <MESSAGE value="Django教程 V 4.0.9" />
     <MESSAGE value="Django教程 V 4.0.10" />
@@ -528,13 +528,14 @@
     <MESSAGE value="diary V 4.0.29" />
     <MESSAGE value="diary V 4.0.30" />
     <MESSAGE value="diary V 4.0.31" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.31" />
+    <MESSAGE value="diary V 4.0.32" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.32" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605154242324">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605154676335">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605154242324" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605154676335" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -551,9 +552,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605154246238">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605154678217">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605154246238" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605154678217" />
   </component>
 </project>
