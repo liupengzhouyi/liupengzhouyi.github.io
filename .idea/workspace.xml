@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/category.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/category.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/friends.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/friends.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,14 +141,8 @@
       <workItem from="1605154426535" duration="2435000" />
       <workItem from="1605160848903" duration="599000" />
       <workItem from="1605161462476" duration="721000" />
-      <workItem from="1605162200258" duration="564000" />
-    </task>
-    <task id="LOCAL-00061" summary="Flask Link MySQL V 3.0.17">
-      <created>1587314147394</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1587314147394</updated>
+      <workItem from="1605162200258" duration="604000" />
+      <workItem from="1605162817874" duration="394000" />
     </task>
     <task id="LOCAL-00062" summary="Flask Link MySQL V 3.0.18">
       <created>1587314776813</created>
@@ -484,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605162343079</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="diary V 4.0.37">
+      <created>1605162780922</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1605162780922</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,20 +528,20 @@
     <MESSAGE value="diary V 4.0.28" />
     <MESSAGE value="diary V 4.0.29" />
     <MESSAGE value="diary V 4.0.30" />
-    <MESSAGE value="diary V 4.0.37" />
     <MESSAGE value="diary V 4.0.31" />
     <MESSAGE value="diary V 4.0.32" />
     <MESSAGE value="diary V 4.0.33" />
     <MESSAGE value="diary V 4.0.34" />
     <MESSAGE value="diary V 4.0.35" />
     <MESSAGE value="diary V 4.0.36" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.36" />
+    <MESSAGE value="diary V 4.0.37" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.37" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605162342843">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605162780752">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605162342843" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605162780752" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -555,9 +558,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605162345230">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605162782899">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605162345230" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605162782899" />
   </component>
 </project>
