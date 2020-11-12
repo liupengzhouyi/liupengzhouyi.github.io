@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.51">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.52">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,14 +146,7 @@
       <workItem from="1605168013733" duration="113000" />
       <workItem from="1605168451527" duration="834000" />
       <workItem from="1605169319650" duration="602000" />
-      <workItem from="1605170003495" duration="330000" />
-    </task>
-    <task id="LOCAL-00077" summary="从城市化看历史与财富 V 4.0.13">
-      <created>1602236109222</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1602236109223</updated>
+      <workItem from="1605170003495" duration="714000" />
     </task>
     <task id="LOCAL-00078" summary="北洋裂变 V 4.0.14">
       <created>1602317713996</created>
@@ -491,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605170279443</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="diary V 4.0.52">
+      <created>1605170341497</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1605170341497</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +514,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.27" />
     <MESSAGE value="diary V 4.0.28" />
     <MESSAGE value="diary V 4.0.29" />
     <MESSAGE value="diary V 4.0.30" />
@@ -539,7 +538,8 @@
     <MESSAGE value="diary V 4.0.49" />
     <MESSAGE value="diary V 4.0.50" />
     <MESSAGE value="diary V 4.0.51" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.51" />
+    <MESSAGE value="diary V 4.0.52" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.52" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
@@ -566,9 +566,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605169595333">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605170343602">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605169595333" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605170343602" />
   </component>
 </project>

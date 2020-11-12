@@ -5,7 +5,7 @@ date: 2020-10-10 20:30:00 + 0800
 subtitle: 历史
 categories：technology
 tags: [历史]
-img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+img: https://ooo.0o0.ooo/2017/05/27/59292241a506c.jpg
 ---
 
 
