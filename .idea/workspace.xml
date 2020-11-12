@@ -143,13 +143,7 @@
       <workItem from="1605165344613" duration="600000" />
       <workItem from="1605165957156" duration="17000" />
       <workItem from="1605166010144" duration="365000" />
-    </task>
-    <task id="LOCAL-00069" summary="LeetCode-2020-06-12 V 4.0.6">
-      <created>1591973437943</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1591973437943</updated>
+      <workItem from="1605166443434" duration="1463000" />
     </task>
     <task id="LOCAL-00070" summary="LeetCode-2020-06-12.1 V 4.0.7">
       <created>1591974944835</created>
@@ -487,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605166033433</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="diary V 4.0.44">
+      <created>1605166455392</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1605166455392</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.19" />
     <MESSAGE value="diary V 4.0.20" />
     <MESSAGE value="diary V 4.0.21" />
     <MESSAGE value="diary V 4.0.22" />
@@ -535,13 +535,14 @@
     <MESSAGE value="diary V 4.0.41" />
     <MESSAGE value="diary V 4.0.42" />
     <MESSAGE value="diary V 4.0.43" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.43" />
+    <MESSAGE value="diary V 4.0.44" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.44" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605166033107">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605166455123">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605166033107" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605166455123" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -558,9 +559,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605166035642">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605166458558">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605166035642" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605166458558" />
   </component>
 </project>
