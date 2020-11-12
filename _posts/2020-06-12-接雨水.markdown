@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Leetcode - 接雨水
+title: " Leetcode - 接雨水"
 date: 2020-06-12 20:30:00 + 0800
-subtitle: Leetcode - 接雨水
 categories：technology
 tags: [leetcode]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg

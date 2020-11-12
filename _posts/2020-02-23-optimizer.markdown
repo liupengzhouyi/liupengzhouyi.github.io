@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Optimizer
+title: " Optimizer"
 date: 2020-02-23 20:30:00 + 0800
-subtitle: Optimizer
 categories：technology
 tags: [tensorflow]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg

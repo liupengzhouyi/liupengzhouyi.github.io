@@ -1,8 +1,7 @@
 ---
 layout: post
-title: pandas
+title: " pandas"
 date: 2020-02-28 20:30:00 + 0800
-subtitle: pandas
 categories：technology
 tags: [pandas]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg

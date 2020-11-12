@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Sleep
+title: " Sleep"
 date: 2020-11-11 20:30:00 + 0800
-subtitle: Sleep
 categories：technology
 tags: [diary]
-img: https://ooo.0o0.ooo/2017/05/27/59292241a506c.jpg
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
 
 #  2020-11-11 Sleep

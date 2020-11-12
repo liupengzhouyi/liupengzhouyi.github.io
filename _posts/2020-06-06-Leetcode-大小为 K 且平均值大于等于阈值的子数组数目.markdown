@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Leetcode - 大小为 K 且平均值大于等于阈值的子数组数目
+title: " Leetcode - 大小为 K 且平均值大于等于阈值的子数组数目"
 date: 2020-06-06 20:30:00 + 0800
-subtitle: Leetcode - 大小为 K 且平均值大于等于阈值的子数组数目
 categories：technology
 tags: [leetcode]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg

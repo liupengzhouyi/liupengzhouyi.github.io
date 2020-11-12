@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 如何白嫖一个网站
+title: " 如何白嫖一个网站"
 date: 2020-02-20 20:30:00 + 0800
-subtitle: 我的建站过程
 categories：technology
 tags: [life]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg

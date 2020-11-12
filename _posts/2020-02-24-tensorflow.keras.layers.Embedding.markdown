@@ -1,11 +1,10 @@
 ---
 layout: post
-title: tensorflow.keras.layers.Embedding
+title: " tensorflow.keras.layers.Embedding"
 date: 2020-02-24 20:30:00 + 0800
-subtitle: tensorflow.keras.layers.Embedding
 categories：technology
 tags: [tensorflow]
-img: https://ooo.0o0.ooo/2017/05/27/59292241a506c.jpg
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
 
 # tensorflow.keras.layers.Embedding

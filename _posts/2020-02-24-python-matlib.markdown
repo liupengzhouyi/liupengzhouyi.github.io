@@ -1,8 +1,7 @@
 ---
 layout: post
-title: python.matlib
+title: " python.matlib"
 date: 2020-02-24 20:30:00 + 0800
-subtitle: python.matlib
 categories：technology
 tags: [python]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg

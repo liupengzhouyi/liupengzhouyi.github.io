@@ -1,8 +1,7 @@
 ---
 layout: post
-title: django教程
+title: " django教程"
 date: 2020-06-27 20:30:00 + 0800
-subtitle: django教程
 categories：technology
 tags: [django]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg

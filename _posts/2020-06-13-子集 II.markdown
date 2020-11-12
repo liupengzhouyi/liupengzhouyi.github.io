@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Leetcode - 子集 II
+title: " Leetcode - 子集 II"
 date: 2020-06-13 20:30:00 + 0800
-subtitle: Leetcode - 子集 II
 categories：technology
 tags: [leetcode]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
