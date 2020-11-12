@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.61" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.62">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,15 +66,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/touch" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
-      <recent name="$PROJECT_DIR$/images/2020/02/23" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -153,13 +155,9 @@
       <workItem from="1605174634344" duration="100000" />
       <workItem from="1605174807426" duration="285000" />
       <workItem from="1605176710423" duration="121000" />
-    </task>
-    <task id="LOCAL-00087" summary="diary V 4.0.22">
-      <created>1605104831132</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1605104831133</updated>
+      <workItem from="1605176869636" duration="57000" />
+      <workItem from="1605177412652" duration="17000" />
+      <workItem from="1605177527927" duration="49000" />
     </task>
     <task id="LOCAL-00088" summary="diary V 4.0.23">
       <created>1605105166788</created>
@@ -497,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605176812181</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="diary V 4.0.62">
+      <created>1605176889111</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1605176889111</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +525,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.37" />
     <MESSAGE value="diary V 4.0.38" />
     <MESSAGE value="diary V 4.0.39" />
     <MESSAGE value="diary V 4.0.40" />
@@ -545,7 +549,8 @@
     <MESSAGE value="diary V 4.0.59" />
     <MESSAGE value="diary V 4.0.60" />
     <MESSAGE value="diary V 4.0.61" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.61" />
+    <MESSAGE value="diary V 4.0.62" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.62" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
@@ -576,9 +581,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605176814745">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605176891265">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605176814745" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605176891265" />
   </component>
 </project>
