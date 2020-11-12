@@ -19,7 +19,119 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.49">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChinaREADME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/foot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/signoff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/git/2017-03-07-githubyaunchengjiami.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/git/2017-07-16-gitignore.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/书籍/1970-01-01-bookindex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/书籍/2017-06-20-santibook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/书籍/2017-07-03-waerdenghu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/书籍/2017-07-09-meilideshijie.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/书籍/2017-6-27-sikaobook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/书籍/2017-6-27-xuanhuanzuole.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/负载均衡/2017-07-30-memcacheandredis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/1970/01/01/bookindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2013/06/22/alonecode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2014/04/09/bananarumen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2015/03/08/aloneme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/01/15/wechart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/03/02/mianshi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/03/10/squashfs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/05/22/NSXMLParser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/05/22/macfenqucode8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/06/15/phantomJs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/06/16/UnityWebPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/09/22/Chromium-code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/09/22/QQTencent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/01/22/wechart-codecaceh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/07/VChdlocker-qq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/07/githubyaunchengjiami.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/15/iptables-bj.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/15/rCSharpeference-bj.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/19/Mac-sip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/22/Macspctl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/22/loopand-iterate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/04/16/mac-maven.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/05/02/compiler-grammar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/05/13/WannaCry2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/05/13/csharpinstall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/14/chuangye.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/17/jekyll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/20/mactree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/20/nginxphpserver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/20/santibook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/23/awsss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/24/netcore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/27/sikaobook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/28/xuanhuanzuole.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/30/serverss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/03/tomcatmoredomain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/04/meilideshijie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/04/waerdenghu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/07/dockerkailinux.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/13/wxread.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/17/gitignore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/17/listhashlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/19/nginxconf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/23/vscodepython.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/28/jserrorlog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Untitled-2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/book/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/liberxuepage2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/liberxuepage3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/road/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/search/cb-search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/search/js/cb-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/stylesheets/favicons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/stylesheets/images/bg-ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/stylesheets/images/logo-liberxue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/stylesheets/style-vlpismine.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/road/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/cb-search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/js/cb-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/favicons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/images/bg-ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/images/logo-liberxue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style-liberxue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/archives.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnails/ui.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,15 +176,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/touch" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
       <recent name="$PROJECT_DIR$/images/2020/02/23" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -143,20 +255,7 @@
       <workItem from="1605166443434" duration="1463000" />
       <workItem from="1605168013733" duration="113000" />
       <workItem from="1605168451527" duration="834000" />
-    </task>
-    <task id="LOCAL-00073" summary="Django教程 V 4.0.10">
-      <created>1593193139337</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1593193139338</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Django教程 V 4.0.10">
-      <created>1593508530464</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1593508530464</updated>
+      <workItem from="1605169319650" duration="602000" />
     </task>
     <task id="LOCAL-00075" summary="经济学学派简单介绍 V 4.0.11">
       <created>1596987851831</created>
@@ -487,7 +586,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605168561341</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="diary V 4.0.48">
+      <created>1605169439446</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1605169439446</updated>
+    </task>
+    <task id="LOCAL-00123" summary="diary V 4.0.49">
+      <created>1605169592651</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1605169592651</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,8 +623,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.23" />
-    <MESSAGE value="diary V 4.0.24" />
     <MESSAGE value="diary V 4.0.25" />
     <MESSAGE value="diary V 4.0.26" />
     <MESSAGE value="diary V 4.0.27" />
@@ -535,13 +646,15 @@
     <MESSAGE value="diary V 4.0.45" />
     <MESSAGE value="diary V 4.0.46" />
     <MESSAGE value="diary V 4.0.47" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.47" />
+    <MESSAGE value="diary V 4.0.48" />
+    <MESSAGE value="diary V 4.0.49" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.49" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605168560945">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605168560945" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605169580233" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -562,9 +675,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605168563481">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605169595333">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605168563481" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605169595333" />
   </component>
 </project>
