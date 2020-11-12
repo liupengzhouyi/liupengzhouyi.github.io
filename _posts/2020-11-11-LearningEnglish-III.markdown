@@ -1,24 +1,24 @@
 ---
 layout: post
-title: LearningEnglish-I
+title: LearningEnglish-III
 date: 2020-11-11 20:30:00 + 0800
-subtitle: LearningEnglish-I
-categories：diary
+subtitle: LearningEnglish-III
+categories：technology
 tags: [diary]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
 
-#  2020-11-11- LearningEnglish-I
+#  2020-11-11 LearningEnglish-III
 
 
-| 项目名称     |    LearningEnglish-I      |
+| 项目名称     |    LearningEnglish-III      |
 | ------------ | ----------------------- |
 | 项目负责人   | 刘鹏                    |
-| 项目持续时间 | 1:00:00                 |
+| 项目持续时间 | 4:00:00                 |
 | 地点         | 商都嘉园穆庄小区东苑    |
-| 项目开始时间 | 2020年11月11日 下午1:45 |
-| 项目结束时间 | 2020年11月11日 下午2:45 |
-| 项目归档日期 | 2020-11-11 17:41:52  |
+| 项目开始时间 | 2020年11月11日 下午7:00 |
+| 项目结束时间 | 2020年11月11日 下午11:00 |
+| 项目归档日期 | 2020-11-11 17:41:56  |
 
 # 项目简介
 > learning 800 high school English words  

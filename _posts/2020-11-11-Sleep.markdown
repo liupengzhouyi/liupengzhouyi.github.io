@@ -3,9 +3,9 @@ layout: post
 title: Sleep
 date: 2020-11-11 20:30:00 + 0800
 subtitle: Sleep
-categories：diary
+categories：technology
 tags: [diary]
-img: https://camo.githubusercontent.com/e7a323b809b3f71490865b9123e6f8124f1de02773d89a557ba74d37083c524e/687474703a2f2f3132332e35362e3136372e38343a383038302f46696c652f646f776e6c6f616446696c652f68656c6c6f776f726c642e706e67
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
 
 #  2020-11-11 Sleep

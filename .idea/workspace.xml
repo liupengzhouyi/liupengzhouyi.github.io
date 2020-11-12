@@ -21,11 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/category.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/category.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/content/category_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/content/category_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/content/category_post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/content/category_post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/content/editor.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/content/editor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/content/tags_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/content/tags_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/friends.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/love.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/touch/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/touch/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/touch/ms-touch-icon-144x144-precomposed.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,15 +75,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/touch" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
       <recent name="$PROJECT_DIR$/images/2020/02/23" />
-      <recent name="$PROJECT_DIR$/images/2020/02" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -147,13 +148,8 @@
       <workItem from="1605162200258" duration="604000" />
       <workItem from="1605162817874" duration="599000" />
       <workItem from="1605163444837" duration="606000" />
-    </task>
-    <task id="LOCAL-00067" summary="LeetCode-2020-06-07-01 V 4.0.4">
-      <created>1591527710236</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1591527710237</updated>
+      <workItem from="1605165344613" duration="600000" />
+      <workItem from="1605165957156" duration="17000" />
     </task>
     <task id="LOCAL-00068" summary="LeetCode-2020-06-11-01 V 4.0.5">
       <created>1591863021022</created>
@@ -491,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605163624899</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="diary V 4.0.42">
+      <created>1605165574944</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1605165574945</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.17" />
     <MESSAGE value="diary V 4.0.18" />
     <MESSAGE value="diary V 4.0.19" />
     <MESSAGE value="diary V 4.0.20" />
@@ -539,13 +541,14 @@
     <MESSAGE value="diary V 4.0.39" />
     <MESSAGE value="diary V 4.0.40" />
     <MESSAGE value="diary V 4.0.41" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.41" />
+    <MESSAGE value="diary V 4.0.42" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.42" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605163624755">
+    <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605165574721">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605163624755" />
+    <state x="289" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605165574721" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -562,9 +565,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605163626864">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605165579609">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605163626864" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605165579609" />
   </component>
 </project>

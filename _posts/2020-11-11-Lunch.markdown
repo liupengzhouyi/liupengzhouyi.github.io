@@ -1,27 +1,27 @@
 ---
 layout: post
-title: LearningEnglish-II
+title: Lunch 
 date: 2020-11-11 20:30:00 + 0800
-subtitle: LearningEnglish-II
-categories：diary
+subtitle: Lunch 
+categories：technology
 tags: [diary]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
 
-#  2020-11-11 LearningEnglish-II
+#  2020-11-11 Lunch 
 
 
-| 项目名称     |    LearningEnglish-II      |
+| 项目名称     |    Lunch       |
 | ------------ | ----------------------- |
 | 项目负责人   | 刘鹏                    |
-| 项目持续时间 | 3:15:00                 |
+| 项目持续时间 | 30:00                 |
 | 地点         | 商都嘉园穆庄小区东苑    |
-| 项目开始时间 | 2020年11月11日 下午2:45 |
-| 项目结束时间 | 2020年11月11日 下午6:00 |
-| 项目归档日期 | 2020-11-11 17:41:53  |
+| 项目开始时间 | 2020年11月11日 下午1:00 |
+| 项目结束时间 | 2020年11月11日 下午1:30 |
+| 项目归档日期 | 2020-11-11 17:41:50  |
 
 # 项目简介
-> learning 800 high school English words  
+> have lunch  
 
 
 # 项目附加内容

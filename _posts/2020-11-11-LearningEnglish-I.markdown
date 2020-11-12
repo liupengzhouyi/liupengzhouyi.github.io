@@ -1,27 +1,27 @@
 ---
 layout: post
-title: Diary
+title: LearningEnglish-I
 date: 2020-11-11 20:30:00 + 0800
-subtitle: Diary
-categories：diary
+subtitle: LearningEnglish-I
+categories：technology
 tags: [diary]
 img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
 ---
 
-#  2020-11-11 Diary
+#  2020-11-11- LearningEnglish-I
 
 
-| 项目名称     |    Diary      |
+| 项目名称     |    LearningEnglish-I      |
 | ------------ | ----------------------- |
 | 项目负责人   | 刘鹏                    |
 | 项目持续时间 | 1:00:00                 |
 | 地点         | 商都嘉园穆庄小区东苑    |
-| 项目开始时间 | 2020年11月11日 上午11:45 |
-| 项目结束时间 | 2020年11月11日 下午12:45 |
-| 项目归档日期 | 2020-11-11 17:41:49  |
+| 项目开始时间 | 2020年11月11日 下午1:45 |
+| 项目结束时间 | 2020年11月11日 下午2:45 |
+| 项目归档日期 | 2020-11-11 17:41:52  |
 
 # 项目简介
-> write diary  
+> learning 800 high school English words  
 
 
 # 项目附加内容
