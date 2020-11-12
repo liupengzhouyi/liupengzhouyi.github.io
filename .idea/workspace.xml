@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.57">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Diary.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-Diary.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Dinner.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-Dinner.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-I.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-I.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-II.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-II.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-III.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-LearningEnglish-III.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Lunch.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-Lunch.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-11-Sleep.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-11-Sleep.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.58" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,15 +64,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/touch" />
       <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/images/2020/02/25" />
       <recent name="$PROJECT_DIR$/images/2020/02/23" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -158,13 +149,7 @@
       <workItem from="1605172295298" duration="598000" />
       <workItem from="1605173104070" duration="597000" />
       <workItem from="1605173718438" duration="643000" />
-    </task>
-    <task id="LOCAL-00083" summary="diary V 4.0.19">
-      <created>1605089274182</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1605089274182</updated>
+      <workItem from="1605174396532" duration="64000" />
     </task>
     <task id="LOCAL-00084" summary="diary V 4.0.20">
       <created>1605089379806</created>
@@ -502,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605173476567</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="diary V 4.0.58">
+      <created>1605174440034</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1605174440035</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.33" />
     <MESSAGE value="diary V 4.0.34" />
     <MESSAGE value="diary V 4.0.35" />
     <MESSAGE value="diary V 4.0.36" />
@@ -550,7 +541,8 @@
     <MESSAGE value="diary V 4.0.55" />
     <MESSAGE value="diary V 4.0.56" />
     <MESSAGE value="diary V 4.0.57" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.57" />
+    <MESSAGE value="diary V 4.0.58" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.58" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
@@ -581,9 +573,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605173478573">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1605174442089">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605173478572" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605174442089" />
   </component>
 </project>
