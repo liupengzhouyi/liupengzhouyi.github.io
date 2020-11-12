@@ -1,0 +1,278 @@
+---
+layout: post
+title: 数据库再一次初体验
+date: 2020-08-29 20:30:00 + 0800
+subtitle: 数据库
+categories：technology
+tags: [MySQl]
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+---
+
+
+# 数据库再一次初体验
+
+
+
+## 建库
+
+```sql
+create database party;
+```
+
+## 建表
+
+### 主键位置I
+
+```SQL
+create table beijing
+(
+    id int primary key not null ,
+    name varchar(20),
+    birthday date,
+    age int,
+    hometown varchar(40),
+    constraint beijing_pk
+      primary key (id)
+);
+```
+
+### 主键位置II
+
+```SQL
+create table beijing
+(
+    id int not null ,
+    name varchar(20),
+    birthday date,
+    age int,
+    hometown varchar(40),
+    constraint beijing_pk
+      primary key (id)
+);
+```
+
+## 查看表结构
+
+```sql
+desc party.beijing;
+```
+
+![截屏2020-08-29 下午12.59.09](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7lfqsrzej311808q75s.jpg)
+
+## 增
+
+### 增加一行数据
+
+```sql
+insert into party.beijing value (1, '维尼', '1953-06-15', 67, '陕西富平');
+
+INSERT INTO party.beijing (id, name, birthday, age, hometown) VALUES (1, '维尼', '1953-06-13', 67, '陕西富平')
+```
+
+### 增加多行数据
+
+```sql
+INSERT INTO party.beijing
+    (id, name, birthday, age, hometown)
+VALUES
+    (4, '狗头军师', '2020-08-04', 65, '上海'),
+    (5, '狗头军师', '2020-08-04', 65, '上海'),
+    (6, '狗头军师', '2020-08-04', 65, '上海');
+```
+
+![截屏2020-08-29 下午1.02.57](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7ljntostj30vy0bognu.jpg)
+
+## 删
+
+### 删除几行数据
+
+```sql
+delete from party.beijing where party.beijing.id > 3;
+```
+
+![截屏2020-08-29 下午1.08.01](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7loxxdv6j30vw084jst.jpg)
+
+### 删除一个表
+
+```sql
+delete from party.beijing;
+```
+
+### 删除一个数据库
+
+```sql
+delete database_name;
+```
+
+## 改(更新数据)
+
+```sql
+update party.beijing 
+set 
+    party.beijing.birthday = '1955-10-06', 
+    party.beijing.age = 65 
+where party.beijing.name = '狗头军师';
+```
+
+![截屏2020-08-29 下午1.12.51](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7ltyq2p1j30vy088q4f.jpg)
+
+## 查(简单查询)
+
+```sql
+select * from party.beijing;
+```
+
+![截屏2020-08-29 下午1.12.51](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7lvlmnvkj30vy088jsb.jpg)
+
+## 函数
+
+### 创建函数
+
+```sql
+create function getNameByID(tempId int)
+returns varchar(20)
+begin
+return (select name from party.beijing where id = tempId);
+end;
+```
+
+### *报错*
+
+```markdown
+This function has none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and binary logging is enabled (you *might* want to use the less safe log_bin_trust_function_creators variable)
+```
+
+### 解决问题
+
+```sql
+set global log_bin_trust_function_creators=1;
+```
+
+### 执行函数
+
+```sql
+select getNameByID(2) as name;
+```
+
+![截屏2020-08-29 下午2.34.17](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7o6rcmb6j307g04qjrg.jpg)
+
+## 索引
+
+## 存储过程
+
+### 创建无参数存储过程
+
+```sql
+/*
+存储过程 ： paly001
+创建人： liupeng
+主要功能：返回一个数据集（Table)内部的数据长度。
+运行实例：SELECT COUNT(*) FROM party.beijing;
+*/
+DELIMITER //
+CREATE PROCEDURE paly001()
+BEGIN
+  SELECT COUNT(*) FROM party.beijing;
+END //
+DELIMITER ;
+```
+
+
+
+### 执行无参数存储过程
+
+```sql
+call paly001();
+```
+
+![截屏2020-08-29 下午2.51.34](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7ooqev6ej309k0480ss.jpg)
+
+### 删除无参数存储过过程
+
+```sql
+drop procedure paly001;
+```
+
+### 创建一个有参数的的存储过程
+
+```sql
+/*
+存储过程 ： paly003
+创建人： liupeng
+参数：tempID
+主要功能：返回一个数据.
+运行实例：SELECT * FROM party.beijing where id = tempID;
+*/
+DELIMITER //
+CREATE PROCEDURE paly003(in tempID int)
+BEGIN
+  SELECT * FROM party.beijing where id = tempID;
+END //
+DELIMITER ;
+```
+
+### 执行有参数的存储过程
+
+```sql
+call paly003(3);
+```
+
+![截屏2020-08-29 下午2.57.32](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7ouvt49cj30we05amxq.jpg)
+
+### 定义一个有返回值的存储过程
+
+```sql
+/*
+存储过程 ： paly004
+创建人： liupeng
+参数：tempCount
+主要功能：返回一个数据.
+运行实例：SELECT count(*) into tempID FROM party.beijing;
+*/
+DELIMITER //
+CREATE PROCEDURE paly004(out tempCount int)
+BEGIN
+  SELECT count(*) into tempCount FROM party.beijing;
+END //
+DELIMITER ;
+```
+
+### 执行有返回值的存储过程
+
+```sql
+set @count = 0;
+call paly004(@count);
+```
+
+### 查看结果
+
+```sql
+select @count as nnnn;
+```
+
+![截屏2020-08-29 下午3.04.29](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi7p243bkmj309404yjrd.jpg)
+
+## 视图
+
+### 创建视图
+
+```
+
+```
+
+## 事务
+
+## 临时表
+
+## 触发器
+
+## 权限管理
+
+## 备份与恢复
+
+## 日志
+
+## 优化
+
+## 复制
+

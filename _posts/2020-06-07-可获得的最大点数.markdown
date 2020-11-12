@@ -1,0 +1,48 @@
+---
+layout: post
+title: Leetcode - 可获得的最大点数
+date: 2020-06-07 20:30:00 + 0800
+subtitle: Leetcode - 可获得的最大点数
+categories：technology
+tags: [leetcode]
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+---
+# [可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+---
+
+## Title
+
+![截屏2020-06-07 下午6.06.47](https://tva1.sinaimg.cn/large/007S8ZIlly1gfjvw825a7j30ya0kqn16.jpg)
+
+## My Code
+
+```c++
+int Play1423::maxScore(std::vector<int> &cardPoints, int k) {
+    auto sum = 0, max = 0;
+    if (k >= cardPoints.size()) {
+        for (auto item : cardPoints) {
+            sum = sum + item;
+        }
+    } else {
+        for (auto i = 0; i < k; i++) {
+            sum = sum + cardPoints[i];
+        }
+        max = sum;
+        auto index = 1;
+        for (auto i = k-1; i >= 0; i--) {
+            std::cout << cardPoints[i] << std::endl;
+            sum = sum - cardPoints[i] + cardPoints[cardPoints.size()-index];
+            index = index + 1;
+            max = max < sum ? sum : max;
+        }
+        sum = max;
+    }
+    return sum;
+}
+```
+
+## Result
+
+![截屏2020-06-07 下午6.07.15](https://tva1.sinaimg.cn/large/007S8ZIlly1gfjvx03bh2j30y80awwf5.jpg)
+

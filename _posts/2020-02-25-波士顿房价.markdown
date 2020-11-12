@@ -1,0 +1,132 @@
+---
+layout: post
+title: 波士顿房价
+date: 2020-02-25 20:30:00 + 0800
+subtitle: 波士顿房价
+categories：technology
+tags: [tensorflow]
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+---
+
+# 波士顿房价
+
+> CRIM: 城镇人均犯罪率
+> 
+> AGE: 1940年之前建成的自用房屋比例
+> 
+> ZN：住宅用地超过 25000 sq.ft. 的比例
+> 
+> DIS：到波士顿5个中心区域的加权距离
+> 
+> INDUS: 城镇非零售商用土地的比例
+> 
+> RAD: 辐射性公路的靠近指数
+> 
+> CHAS: 边界是河流为1，否则0
+> 
+> TAX: 每10000美元的全值财产税率
+> 
+> NOX: 一氧化氮浓度
+> 
+> PTRATIO: 城镇师生比例
+> 
+> RM: 住宅平均房间数
+> 
+> LSTAT: 人口中地位低下者的比例
+> 
+> MEDV: 自住房的平均房价，单位：千美元
+
+## 代码
+
+```python
+import tensorflow
+import matplotlib.pyplot
+import os
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
+
+(train_data, train_labels), (test_data, test_labels) = tensorflow.keras.datasets.boston_housing.load_data()
+
+print(train_data.shape)
+
+print(train_labels.shape)
+
+model = tensorflow.keras.Sequential()
+model.add(
+    tensorflow.keras.layers.Dense(
+        units=32,
+        activation=tensorflow.keras.activations.sigmoid,
+        input_shape=(13,)
+    )
+)
+model.add(
+    tensorflow.keras.layers.Dense(
+        units=64,
+        activation=tensorflow.keras.activations.sigmoid
+    )
+)
+model.add(
+    tensorflow.keras.layers.Dense(
+        units=32,
+        activation=tensorflow.keras.activations.sigmoid,
+    )
+)
+model.add(
+    tensorflow.keras.layers.Dense(
+        units=1
+    )
+)
+
+model.compile(
+    optimizer=tensorflow.keras.optimizers.SGD(
+        learning_rate=0.1,
+    ),
+    loss=tensorflow.keras.losses.mean_squared_error,
+    metrics=['mse']
+)
+
+model.summary()
+
+history = model.fit(
+    train_data,
+    train_labels,
+    batch_size=50,
+    epochs=60,
+    validation_split=0.1,
+    verbose=1
+)
+
+
+result = model.evaluate(test_data, test_labels)
+
+```
+
+## 出图
+
+```python
+train_result = history.history
+length = [x for x in range(60)]
+loss = train_result['loss']
+val_loss = train_result['val_loss']
+mse = train_result['mse']
+val_mse = train_result['val_mse']
+
+matplotlib.pyplot.subplot(2, 2, 1)
+matplotlib.pyplot.plot(length, loss)
+matplotlib.pyplot.title('loss')
+
+matplotlib.pyplot.subplot(2, 2, 2)
+matplotlib.pyplot.plot(length, val_loss)
+matplotlib.pyplot.title('val_loss')
+
+matplotlib.pyplot.subplot(2, 2, 3)
+matplotlib.pyplot.plot(length, mse)
+matplotlib.pyplot.title('mse')
+
+matplotlib.pyplot.subplot(2, 2, 4)
+matplotlib.pyplot.plot(length, val_mse)
+matplotlib.pyplot.title('val_mse')
+matplotlib.pyplot.show()
+```
+
+## 效果
+![波士顿房价效果图](./images/2020/02/25/image123.png)

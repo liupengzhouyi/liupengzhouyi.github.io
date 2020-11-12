@@ -1,0 +1,38 @@
+---
+layout: post
+title: Leetcode - 将字符串翻转到单调递增
+date: 2020-06-06 20:30:00 + 0800
+subtitle: Leetcode - 将字符串翻转到单调递增
+categories：technology
+tags: [leetcode]
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+---
+# [将字符串翻转到单调递增](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)
+
+## Title:
+
+![截屏2020-06-06 下午5.45.43](https://tva1.sinaimg.cn/large/007S8ZIlly1gfipnzln9gj310m0k6tc0.jpg)
+
+## MyCode
+
+```c++
+int Paly926::minFlipsMonoIncr(std::string s) {
+    auto number0 = 0, number1 = 0, min = 0;
+    auto sumAll = s.length();
+    for (int i = 0; i < s.length(); i++)
+        if (s[i] == '1') number1 = number1 + 1;
+    min = number0 + sumAll - number1;
+    for (auto item : s) {
+        if (item == '1') number0 = number0 + 1, number1 = number1 - 1;
+        sumAll = sumAll - 1;
+        min = min > (number0 + sumAll - number1) ? (number0 + sumAll - number1) : min;
+    }
+    return min;
+}
+```
+
+
+
+## Result
+
+![截屏2020-06-06 下午5.46.18](https://tva1.sinaimg.cn/large/007S8ZIlly1gfipor87p2j30z00cigmi.jpg)

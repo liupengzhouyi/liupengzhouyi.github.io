@@ -1,0 +1,43 @@
+---
+layout: post
+title: Leetcode - 矩阵置零
+date: 2020-06-13 20:30:00 + 0800
+subtitle: Leetcode - 矩阵置零
+categories：technology
+tags: [leetcode]
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+---
+# [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)
+
+## Title
+
+![截屏2020-06-13 下午11.53.07](https://tva1.sinaimg.cn/large/007S8ZIlly1gfr3mgf8qwj30yw0mojtf.jpg)
+
+## My Code
+
+```c++
+void Paly073::setZeroes(std::vector<std::vector<int>> &matrix) {
+    std::vector<int> x = std::vector<int>();
+    std::vector<int> y = std::vector<int>();
+    for (auto i=0;i<matrix.size();i++) {
+        for (auto j = 0; j < matrix[i].size(); j++) {
+            if (matrix[i][j] == 0) x.push_back(i), y.push_back(j);
+        }
+    }
+    for (auto i = 0; i < x.size(); i++) {
+        for (auto j = 0; j < matrix[x[i]].size(); j++) {
+            matrix[x[i]][j] = 0;
+        }
+    }
+    for (auto i = 0; i < y.size(); i++) {
+        for (auto j = 0; j < matrix.size(); j++) {
+            matrix[j][y[i]] = 0;
+        }
+    }
+}
+```
+
+## Result
+
+![截屏2020-06-13 下午11.52.52](https://tva1.sinaimg.cn/large/007S8ZIlly1gfr3m7mudij30y20d20u7.jpg)
+

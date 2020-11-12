@@ -1,0 +1,35 @@
+---
+layout: post
+title: tensorflow.keras.layers.Flatten()
+date: 2020-02-22 20:30:00 + 0800
+subtitle: tensorflow.keras.layers.Flatten()
+categories：technology
+tags: [tensorflow]
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+---
+
+# Flatten()
+
+> 展平输入。不影响批量大小。
+> 
+> 如果输入的形状(batch,)没有通道尺寸，
+> 
+> 则展平会增加通道尺寸，输出形状为(batch, 1)。
+> 
+> flatten层用来扁平参数用，一般用在卷积层与全链接层之间。
+
+```python
+tensorflow.keras.layers.Flatten(input_shape=(28, 28)),
+```
+
+## 参数
+
+**`data_format`**：字符串，`channels_last`（默认）或之一`channels_first`。
+
+输入中尺寸的顺序。
+
+`channels_last`对应于具有形状的输入， `(batch, ..., channels)``channels_first`对应于具有形状的输入`(batch, channels, ...)`。
+
+默认为`image_data_format`在Keras配置文件中找到的值`~/.keras/keras.json`。
+
+如果您从未设置，那么它将是“ channels_last”。

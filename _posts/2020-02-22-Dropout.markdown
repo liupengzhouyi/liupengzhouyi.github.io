@@ -1,0 +1,42 @@
+---
+layout: post
+title: tensorflow.keras.layers.Dropout()
+date: 2020-02-22 20:30:00 + 0800
+subtitle: tensorflow.keras.layers.Dropout()
+categories：technology
+tags: [tensorflow]
+img: https://ooo.0o0.ooo/2017/05/27/5929398cad637.jpg
+---
+
+# Dropout
+
+tensorflow.keras.layers.Dropout
+
+> 将Dropout应用于输入。
+
+在`rate`训练期间的每次更新中将输入单元的一部分随机设置为0，这有助于防止过拟合。
+
+```python
+tensorflow.keras.layers.Dropout(0.2),
+```
+
+#### 用法
+
+一种防止神经网络过拟合的手段。
+
+随机的拿掉网络中的部分神经元，从而减小对W权重的依赖，以达到减小过拟合的效果。
+
+$$
+注意：dropout只能用在训练中，测试的时候不能dropout，要用完整的网络测试。
+$$
+
+#### 参数：
+
+-   **`rate`**：在0到1之间浮动。要降低的输入单位的分数。
+-   **`noise_shape`**：一维整数张量，表示将与输入相乘的二进制滤除掩码的形状。例如，如果您的输入具有形状， `(batch_size, timesteps, features)`并且您希望所有时间步长的辍学掩码都相同，则可以使用`noise_shape=(batch_size, 1, features)`。
+-   **`seed`**：用作随机种子的Python整数。
+
+#### 调用参数：
+
+-   **`inputs`**：输入张量（任何等级）。
+-   **`training`**：Python布尔值，指示该层是应在训练模式下（添加辍学）还是在推理模式下（不执行任何操作）。
