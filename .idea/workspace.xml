@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.66" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="2020-11-14 Diary V 4.0.67" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,13 +161,7 @@
       <workItem from="1605178548459" duration="110000" />
       <workItem from="1605182221110" duration="85000" />
       <workItem from="1605279622446" duration="355000" />
-    </task>
-    <task id="LOCAL-00092" summary="diary V 4.0.27">
-      <created>1605106607836</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1605106607837</updated>
+      <workItem from="1605425798391" duration="215000" />
     </task>
     <task id="LOCAL-00093" summary="diary V 4.0.28">
       <created>1605106887079</created>
@@ -505,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605279942005</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="2020-11-14 Diary V 4.0.67">
+      <created>1605425940678</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1605425940679</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.42" />
     <MESSAGE value="diary V 4.0.43" />
     <MESSAGE value="diary V 4.0.44" />
     <MESSAGE value="diary V 4.0.45" />
@@ -553,7 +553,8 @@
     <MESSAGE value="diary V 4.0.64" />
     <MESSAGE value="diary V 4.0.65" />
     <MESSAGE value="diary V 4.0.66" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.66" />
+    <MESSAGE value="2020-11-14 Diary V 4.0.67" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-11-14 Diary V 4.0.67" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
@@ -584,10 +585,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="205" key="Vcs.Push.Dialog.v2" timestamp="1605279946725">
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2" timestamp="1605425942721">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605178646574" />
-    <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1605279946725" />
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1605425942721" />
   </component>
 </project>
