@@ -2,7 +2,7 @@
 layout: post
 title: "期货"
 date: 2020-11-16 18：12：13 +0800
-categories: 经济
+categories: economic
 tags: 期货
 img: https://tva1.sinaimg.cn/large/0081Kckwly1gkr5lyge7hj30dc08w42z.jpg
 ---
