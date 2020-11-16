@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="2020-11-15-Diary.md V 4.0.68" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="期货 V 4.0.69">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-16-期货.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-16-期货.markdown" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,13 +166,8 @@
       <workItem from="1605279622446" duration="355000" />
       <workItem from="1605425798391" duration="215000" />
       <workItem from="1605450446891" duration="97000" />
-    </task>
-    <task id="LOCAL-00094" summary="diary V 4.0.29">
-      <created>1605106962418</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1605106962418</updated>
+      <workItem from="1605519824713" duration="216000" />
+      <workItem from="1605520269518" duration="48000" />
     </task>
     <task id="LOCAL-00095" summary="diary V 4.0.30">
       <created>1605153895335</created>
@@ -507,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605450507795</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="期货 V 4.0.69">
+      <created>1605520027959</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1605520027960</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +535,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.44" />
     <MESSAGE value="diary V 4.0.45" />
     <MESSAGE value="diary V 4.0.46" />
     <MESSAGE value="diary V 4.0.47" />
@@ -555,7 +559,8 @@
     <MESSAGE value="diary V 4.0.66" />
     <MESSAGE value="2020-11-14 Diary V 4.0.67" />
     <MESSAGE value="2020-11-15-Diary.md V 4.0.68" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-11-15-Diary.md V 4.0.68" />
+    <MESSAGE value="期货 V 4.0.69" />
+    <option name="LAST_COMMIT_MESSAGE" value="期货 V 4.0.69" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
@@ -586,10 +591,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="205" key="Vcs.Push.Dialog.v2" timestamp="1605450528241">
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2" timestamp="1605520030608">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605178646574" />
-    <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1605450528241" />
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1605520030608" />
   </component>
 </project>

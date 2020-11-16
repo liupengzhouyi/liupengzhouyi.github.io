@@ -7,119 +7,894 @@ tags: 期货
 img: https://tva1.sinaimg.cn/large/0081Kckwly1gkr5lyge7hj30dc08w42z.jpg
 ---
 
-```mermaid
-graph LR
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>期货合约与期货交易制度</title><style type='text/css'>html {overflow-x: initial !important;}:root { --node-fill:  #ECECFF; --node-border:  #CCCCFF; --cluster-fill:  #ffffde; --cluster-border:  #aaaa33; --note-fill:  #fff5ad; --note-border:  #aaaa33; --mermaid-color:  var(--text-color); }
+.label { font-family: var(--mermaid-font-family); color: rgb(51, 51, 51); }
+.label text { fill: rgb(51, 51, 51); }
+.node rect, .node circle, .node ellipse, .node polygon { fill: var(--node-fill); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+.node .label { text-align: center; }
+.node.clickable { cursor: pointer; }
+.arrowheadPath { fill: var(--text-color); }
+.edgePath .path { stroke: var(--text-color); stroke-width: 1.5px; }
+.edgeLabel { background-color: rgb(232, 232, 232); text-align: center; }
+.cluster rect { fill: var(--cluster-fill); stroke: var(--cluster-border); stroke-width: 1px; }
+.cluster text { fill: var(--text-color); }
+div.mermaidTooltip { position: absolute; text-align: center; max-width: 200px; padding: 2px; font-family: var(--mermaid-font-family); font-size: 12px; background: var(--cluster-fill); border: 1px solid var(--cluster-border); border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; pointer-events: none; z-index: 100; }
+.actor { stroke: var(--node-border); fill: var(--node-fill); }
+text.actor { fill: black; stroke: none; }
+.actor-line { stroke: grey; }
+.messageLine0 { stroke-width: 1.5px; stroke: var(--text-color); }
+.messageLine1 { stroke-width: 1.5px; stroke: var(--text-color); }
+#arrowhead { fill: var(--text-color); }
+.sequenceNumber { fill: white; }
+#sequencenumber { fill: var(--text-color); }
+#crosshead path { fill: var(--text-color)  !important; stroke: var(--text-color)  !important; }
+.messageText { fill: var(--text-color); stroke: none; }
+.labelBox { stroke: var(--node-border); fill: var(--node-fill); }
+.labelText { fill: black; stroke: none; }
+.loopText { fill: black; stroke: none; }
+.loopLine { stroke-width: 2px; stroke: var(--node-border); }
+.note { stroke: var(--cluster-border); fill: rgb(255, 245, 173); }
+.noteText { fill: black; stroke: none; font-family: var(--mermaid-font-family); font-size: 14px; }
+.activation0 { fill: rgb(244, 244, 244); stroke: rgb(102, 102, 102); }
+.activation1 { fill: rgb(244, 244, 244); stroke: rgb(102, 102, 102); }
+.activation2 { fill: rgb(244, 244, 244); stroke: rgb(102, 102, 102); }
+.mermaid-main-font { font-family: var(--mermaid-font-family); }
+.section { stroke: none; opacity: 0.2; }
+.section0 { fill: rgba(102, 102, 255, 0.49); }
+.section2 { fill: rgb(255, 244, 0); }
+.section1, .section3 { fill: white; opacity: 0.2; }
+.sectionTitle0 { fill: var(--text-color); }
+.sectionTitle1 { fill: var(--text-color); }
+.sectionTitle2 { fill: var(--text-color); }
+.sectionTitle3 { fill: var(--text-color); }
+.sectionTitle { text-anchor: start; font-size: 11px; font-family: var(--mermaid-font-family); }
+.grid .tick { stroke: lightgrey; opacity: 0.3; shape-rendering: crispedges; }
+.grid .tick text { font-family: var(--mermaid-font-family); }
+.grid path { stroke-width: 0px; }
+.today { fill: none; stroke: red; stroke-width: 2px; }
+.task { stroke-width: 2px; }
+.taskText { text-anchor: middle; font-family: var(--mermaid-font-family); }
+.taskText:not([font-size]) { font-size: 11px; }
+.taskTextOutsideRight { fill: black; text-anchor: start; font-size: 11px; font-family: var(--mermaid-font-family); }
+.taskTextOutsideLeft { fill: black; text-anchor: end; font-size: 11px; }
+.task.clickable { cursor: pointer; }
+.taskText.clickable { cursor: pointer; font-weight: bold; fill: rgb(0, 49, 99) !important; }
+.taskTextOutsideLeft.clickable { cursor: pointer; font-weight: bold; fill: rgb(0, 49, 99) !important; }
+.taskTextOutsideRight.clickable { cursor: pointer; font-weight: bold; fill: rgb(0, 49, 99) !important; }
+.taskText0, .taskText1, .taskText2, .taskText3 { fill: white; }
+.task0, .task1, .task2, .task3 { fill: rgb(138, 144, 221); stroke: rgb(83, 79, 188); }
+.taskTextOutside0, .taskTextOutside2 { fill: black; }
+.taskTextOutside1, .taskTextOutside3 { fill: black; }
+.active0, .active1, .active2, .active3 { fill: rgb(191, 199, 255); stroke: rgb(83, 79, 188); }
+.activeText0, .activeText1, .activeText2, .activeText3 { fill: black !important; }
+.done0, .done1, .done2, .done3 { stroke: grey; fill: lightgrey; stroke-width: 2px; }
+.doneText0, .doneText1, .doneText2, .doneText3 { fill: black !important; }
+.crit0, .crit1, .crit2, .crit3 { stroke: rgb(255, 136, 136); fill: red; stroke-width: 2px; }
+.activeCrit0, .activeCrit1, .activeCrit2, .activeCrit3 { stroke: rgb(255, 136, 136); fill: rgb(191, 199, 255); stroke-width: 2px; }
+.doneCrit0, .doneCrit1, .doneCrit2, .doneCrit3 { stroke: rgb(255, 136, 136); fill: lightgrey; stroke-width: 2px; cursor: pointer; shape-rendering: crispedges; }
+.milestone { transform: rotate(45deg) scale(0.8, 0.8); }
+.milestoneText { font-style: italic; }
+.doneCritText0, .doneCritText1, .doneCritText2, .doneCritText3 { fill: black !important; }
+.activeCritText0, .activeCritText1, .activeCritText2, .activeCritText3 { fill: black !important; }
+.titleText { text-anchor: middle; font-size: 18px; fill: black; font-family: var(--mermaid-font-family); }
+g.classGroup text { fill: rgb(147, 112, 219); stroke: none; font-family: var(--mermaid-font-family); font-size: 10px; }
+g.classGroup text .title { font-weight: bolder; }
+g.classGroup rect { fill: var(--node-fill); stroke: rgb(147, 112, 219); }
+g.classGroup line { stroke: rgb(147, 112, 219); stroke-width: 1px; }
+.classLabel .box { stroke: none; stroke-width: 0px; fill: var(--node-fill); opacity: 0.5; }
+.classLabel .label { fill: rgb(147, 112, 219); font-size: 10px; }
+.relation { stroke: rgb(147, 112, 219); stroke-width: 1px; fill: none; }
+#compositionStart { fill: rgb(147, 112, 219); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+#compositionEnd { fill: rgb(147, 112, 219); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+#aggregationStart { fill: var(--node-fill); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+#aggregationEnd { fill: var(--node-fill); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+#dependencyStart { fill: rgb(147, 112, 219); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+#dependencyEnd { fill: rgb(147, 112, 219); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+#extensionStart { fill: rgb(147, 112, 219); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+#extensionEnd { fill: rgb(147, 112, 219); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+.commit-id, .commit-msg, .branch-label { fill: lightgrey; color: lightgrey; font-family: var(--mermaid-font-family); }
+.pieTitleText { text-anchor: middle; font-size: 25px; fill: var(--text-color); font-family: var(--mermaid-font-family); }
+.slice { font-family: var(--mermaid-font-family); }
+g.stateGroup text { fill: rgb(147, 112, 219); stroke: none; font-size: 10px; font-family: var(--mermaid-font-family); }
+g.stateGroup text { fill: rgb(147, 112, 219); stroke: none; font-size: 10px; }
+g.stateGroup .state-title { font-weight: bolder; fill: black; }
+g.stateGroup rect { fill: var(--node-fill); stroke: rgb(147, 112, 219); }
+g.stateGroup line { stroke: rgb(147, 112, 219); stroke-width: 1px; }
+.transition { stroke: rgb(147, 112, 219); stroke-width: 1px; fill: none; }
+.stateGroup .composit { fill: white; border-bottom-width: 1px; }
+.state-note { stroke: var(--cluster-border); fill: rgb(255, 245, 173); }
+.state-note text { fill: black; stroke: none; font-size: 10px; }
+.stateLabel .box { stroke: none; stroke-width: 0px; fill: var(--node-fill); opacity: 0.5; }
+.stateLabel text { fill: black; font-size: 10px; font-weight: bold; font-family: var(--mermaid-font-family); }
+.statediagram-cluster rect { fill: var(--node-fill); stroke: rgb(147, 112, 219); stroke-width: 1px; }
+.statediagram-cluster rect.outer { rx: 5px; ry: 5px; }
+.statediagram-state .divider { stroke: rgb(147, 112, 219); }
+.statediagram-state .title-state { rx: 5px; ry: 5px; }
+.statediagram-cluster.statediagram-cluster .inner { fill: white; }
+.statediagram-cluster.statediagram-cluster-alt .inner { fill: rgb(224, 224, 224); }
+.statediagram-cluster .inner { rx: 0px; ry: 0px; }
+.statediagram-state rect.basic { rx: 5px; ry: 5px; }
+.statediagram-state rect.divider { stroke-dasharray: 10px, 10px; fill: rgb(239, 239, 239); }
+.note-edge { stroke-dasharray: 5px; }
+.statediagram-note rect { stroke: var(--cluster-border); fill: rgb(255, 245, 173); stroke-width: 1px; rx: 0px; ry: 0px; }
+.node circle.state-start { fill: black; stroke: black; }
+.node circle.state-end { fill: black; stroke: white; stroke-width: 1.5px; }
+#statediagram-barbEnd { fill: rgb(147, 112, 219); }
+.node text { font-size: 14px; }
+div.mermaidTooltip { position: absolute; text-align: center; max-width: 200px; padding: 2px; font-family: var(--mermaid-font-family); font-size: 12px; background: var(--cluster-fill); border: 1px solid var(--cluster-border); border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; pointer-events: none; z-index: 100; }
+#write .md-diagram-panel .md-diagram-panel-preview div { }
 
-  A[合约期货] -->B(期货合约概念)
-  B --> B1(交易所统一制定)
-  B --> B2(特定的时间地点)
-  B --> B3(数量与质量)
-  A[合约期货] --> C(期货合约标的选择)
-  C --> C1(易于量化and评级)
-  C --> C2(价格波动大)
-  C --> C3(供应量大and非垄断)
-  A[合约期货] -->D(期货合约的主要条款)
-```
 
-## 期货市场交易制度
+:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) { 
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
+.CodeMirror-linenumber { }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit inherit; background-repeat: inherit inherit; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; background-position: 0px 0px; background-repeat: initial initial; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print { 
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background-color: rgb(204, 204, 204); display: block; overflow-x: hidden; background-position: initial initial; background-repeat: initial initial; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) { 
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; background-position: initial initial; background-repeat: initial initial; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; }
+a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom-width: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); background-position: initial initial; background-repeat: initial initial; }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+@media print { 
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
 
-```mermaid
-graph LR
-	AA[市场交易制度]
-	AA --> a(保证金制度)
-	AA --> b(当日无负债结算制度)
-	AA --> c(涨跌停板制度)
-	AA --> d(持仓限额以及大户报告制度)
-	AA --> e(强行平仓制度)
-	AA --> f(信息披露制度)
-```
+
+.CodeMirror { height: auto; }
+.CodeMirror.cm-s-inner { background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit inherit; background-repeat: inherit inherit; }
+.CodeMirror-scroll { overflow: auto hidden; z-index: 3; }
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler { background-color: rgb(255, 255, 255); }
+.CodeMirror-gutters { border-right-width: 1px; border-right-style: solid; border-right-color: rgb(221, 221, 221); background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; white-space: nowrap; background-position: inherit inherit; background-repeat: inherit inherit; }
+.CodeMirror-linenumber { padding: 0px 3px 0px 5px; text-align: right; color: rgb(153, 153, 153); }
+.cm-s-inner .cm-keyword { color: rgb(119, 0, 136); }
+.cm-s-inner .cm-atom, .cm-s-inner.cm-atom { color: rgb(34, 17, 153); }
+.cm-s-inner .cm-number { color: rgb(17, 102, 68); }
+.cm-s-inner .cm-def { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-variable { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-variable-2 { color: rgb(0, 85, 170); }
+.cm-s-inner .cm-variable-3 { color: rgb(0, 136, 85); }
+.cm-s-inner .cm-string { color: rgb(170, 17, 17); }
+.cm-s-inner .cm-property { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-operator { color: rgb(152, 26, 26); }
+.cm-s-inner .cm-comment, .cm-s-inner.cm-comment { color: rgb(170, 85, 0); }
+.cm-s-inner .cm-string-2 { color: rgb(255, 85, 0); }
+.cm-s-inner .cm-meta { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-qualifier { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-builtin { color: rgb(51, 0, 170); }
+.cm-s-inner .cm-bracket { color: rgb(153, 153, 119); }
+.cm-s-inner .cm-tag { color: rgb(17, 119, 0); }
+.cm-s-inner .cm-attribute { color: rgb(0, 0, 204); }
+.cm-s-inner .cm-header, .cm-s-inner.cm-header { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-quote, .cm-s-inner.cm-quote { color: rgb(0, 153, 0); }
+.cm-s-inner .cm-hr, .cm-s-inner.cm-hr { color: rgb(153, 153, 153); }
+.cm-s-inner .cm-link, .cm-s-inner.cm-link { color: rgb(0, 0, 204); }
+.cm-negative { color: rgb(221, 68, 68); }
+.cm-positive { color: rgb(34, 153, 34); }
+.cm-header, .cm-strong { font-weight: 700; }
+.cm-del { text-decoration: line-through; }
+.cm-em { font-style: italic; }
+.cm-link { text-decoration: underline; }
+.cm-error { color: red; }
+.cm-invalidchar { color: red; }
+.cm-constant { color: rgb(38, 139, 210); }
+.cm-defined { color: rgb(181, 137, 0); }
+div.CodeMirror span.CodeMirror-matchingbracket { color: rgb(0, 255, 0); }
+div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(255, 34, 34); }
+.cm-s-inner .CodeMirror-activeline-background { background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit inherit; background-repeat: inherit inherit; }
+.CodeMirror { position: relative; overflow: hidden; }
+.CodeMirror-scroll { height: 100%; outline: 0px; position: relative; box-sizing: content-box; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit inherit; background-repeat: inherit inherit; }
+.CodeMirror-sizer { position: relative; }
+.CodeMirror-gutter-filler, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar { position: absolute; z-index: 6; display: none; }
+.CodeMirror-vscrollbar { right: 0px; top: 0px; overflow: hidden; }
+.CodeMirror-hscrollbar { bottom: 0px; left: 0px; overflow: hidden; }
+.CodeMirror-scrollbar-filler { right: 0px; bottom: 0px; }
+.CodeMirror-gutter-filler { left: 0px; bottom: 0px; }
+.CodeMirror-gutters { position: absolute; left: 0px; top: 0px; padding-bottom: 30px; z-index: 3; }
+.CodeMirror-gutter { white-space: normal; height: 100%; box-sizing: content-box; padding-bottom: 30px; margin-bottom: -32px; display: inline-block; }
+.CodeMirror-gutter-wrapper { position: absolute; z-index: 4; border: none !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
+.CodeMirror-gutter-background { position: absolute; top: 0px; bottom: 0px; z-index: 4; }
+.CodeMirror-gutter-elt { position: absolute; cursor: default; z-index: 4; }
+.CodeMirror-lines { cursor: text; }
+.CodeMirror pre { border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; border-width: 0px; font-family: inherit; font-size: inherit; margin: 0px; white-space: pre; word-wrap: normal; color: inherit; z-index: 2; position: relative; overflow: visible; background-position: 0px 0px; background-repeat: initial initial; }
+.CodeMirror-wrap pre { word-wrap: break-word; white-space: pre-wrap; word-break: normal; }
+.CodeMirror-code pre { border-right-width: 30px; border-right-style: solid; border-right-color: transparent; width: fit-content; }
+.CodeMirror-wrap .CodeMirror-code pre { border-right-style: none; width: auto; }
+.CodeMirror-linebackground { position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px; z-index: 0; }
+.CodeMirror-linewidget { position: relative; z-index: 2; overflow: auto; }
+.CodeMirror-wrap .CodeMirror-scroll { overflow-x: hidden; }
+.CodeMirror-measure { position: absolute; width: 100%; height: 0px; overflow: hidden; visibility: hidden; }
+.CodeMirror-measure pre { position: static; }
+.CodeMirror div.CodeMirror-cursor { position: absolute; visibility: hidden; border-right-style: none; width: 0px; }
+.CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+.CodeMirror-focused div.CodeMirror-cursor { visibility: inherit; }
+.cm-searching { background-color: rgba(255, 255, 0, 0.4); background-position: initial initial; background-repeat: initial initial; }
+@media print { 
+  .CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+}
+
+
+/* cyrillic-ext */
+/* cyrillic */
+/* greek-ext */
+/* greek */
+/* vietnamese */
+/* latin-ext */
+/* latin */
+/* cyrillic-ext */
+/* cyrillic */
+/* greek-ext */
+/* greek */
+/* vietnamese */
+/* latin-ext */
+/* latin */
+/* cyrillic-ext */
+/* cyrillic */
+/* greek-ext */
+/* greek */
+/* vietnamese */
+/* latin-ext */
+/* latin */
+/* cyrillic-ext */
+/* cyrillic */
+/* greek-ext */
+/* greek */
+/* vietnamese */
+/* latin-ext */
+/* latin */
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'), url('file:///Users/liupeng/Library/Application%20Support/abnerworks.Typora/themes/vue/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}@import '';
+
+:root {
+    --side-bar-bg-color: #fff;
+    --control-text-color: #777;
+    --font-sans-serif: 'Ubuntu', 'Source Sans Pro', sans-serif !important;
+    --font-monospace: 'Fira Code', 'Roboto Mono', monospace !important;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: var(--font-sans-serif);
+    color: #34495e;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.6rem;
+    letter-spacing: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+#write {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 20px 30px 100px;
+}
+
+#write p {
+    line-height: 1.6rem;
+    word-spacing: .05rem;
+}
+
+#write ol li {
+    padding-left: 0.5rem;
+}
+
+#write > ul:first-child,
+#write > ol:first-child {
+    margin-top: 30px;
+}
+
+body > *:first-child {
+    margin-top: 0 !important;
+}
+
+body > *:last-child {
+    margin-bottom: 0 !important;
+}
+
+a {
+    color: #42b983;
+    font-weight: 600;
+    padding: 0 2px;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+
+h1 tt,
+h1 code {
+    font-size: inherit !important;
+}
+
+h2 tt,
+h2 code {
+    font-size: inherit !important;
+}
+
+h3 tt,
+h3 code {
+    font-size: inherit !important;
+}
+
+h4 tt,
+h4 code {
+    font-size: inherit !important;
+}
+
+h5 tt,
+h5 code {
+    font-size: inherit !important;
+}
+
+h6 tt,
+h6 code {
+    font-size: inherit !important;
+}
+
+h2 a,
+h3 a {
+    color: #34495e;
+}
+
+h1 {
+    padding-bottom: .4rem;
+    font-size: 2.2rem;
+    line-height: 1.3;
+}
+
+h2 {
+    font-size: 1.75rem;
+    line-height: 1.225;
+    margin: 35px 0 15px;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #ddd;
+}
+
+h3 {
+    font-size: 1.4rem;
+    line-height: 1.43;
+    margin: 20px 0 7px;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+h6 {
+    font-size: 1rem;
+    color: #777;
+}
+
+p,
+blockquote,
+ul,
+ol,
+dl,
+table {
+    margin: 0.8em 0;
+}
+
+li > ol,
+li > ul {
+    margin: 0 0;
+}
+
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+body > h2:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+body > h1:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+body > h3:first-child,
+body > h4:first-child,
+body > h5:first-child,
+body > h6:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+a:first-child h1,
+a:first-child h2,
+a:first-child h3,
+a:first-child h4,
+a:first-child h5,
+a:first-child h6 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+h1 p,
+h2 p,
+h3 p,
+h4 p,
+h5 p,
+h6 p {
+    margin-top: 0;
+}
+
+li p.first {
+    display: inline-block;
+}
+
+ul,
+ol {
+    padding-left: 30px;
+}
+
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+
+blockquote {
+    border-left: 4px solid #42b983;
+    padding: 10px 15px;
+    color: #777;
+    background-color: rgba(66, 185, 131, .1);
+}
+
+table {
+    padding: 0;
+    word-break: initial;
+}
+
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+
+table tr:nth-child(2n),
+thead {
+    background-color: #fafafa;
+}
+
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+
+table tr td {
+    border: 1px solid #dfe2e5;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+#write strong {
+    padding: 0 1px;
+}
+
+#write em {
+    padding: 0 5px 0 2px;
+}
+
+#write table thead th {
+    background-color: #f2f2f2;
+}
+
+#write .CodeMirror-gutters {
+    border-right: none;
+}
+
+#write .md-fences {
+    border: 1px solid #F4F4F4;
+    -webkit-font-smoothing: initial;
+    margin: 0.8rem 0 !important;
+    padding: 0.3rem 0 !important;
+    line-height: 1.43rem;
+    background-color: #F8F8F8 !important;
+    border-radius: 2px;
+    font-family: var(--font-monospace);
+    font-size: 0.85rem;
+    word-wrap: normal;
+}
+
+#write .CodeMirror-wrap .CodeMirror-code pre {
+    padding-left: 12px;
+}
+
+#write code, tt {
+    padding: 2px 4px;
+    border-radius: 2px;
+    font-family: var(--font-monospace);
+    font-size: 0.92rem;
+    color: #e96900;
+    background-color: #f8f8f8;
+}
+
+tt {
+    margin: 0 2px;
+}
+
+#write .md-footnote {
+    background-color: #f8f8f8;
+    color: #e96900;
+}
+
+/* heighlight. */
+#write mark {
+    background-color: #EBFFEB;
+    border-radius: 2px;
+    padding: 2px 4px;
+    margin: 0 2px;
+    color: #222;
+    font-weight: 500;
+}
+
+#write del {
+    padding: 1px 2px;
+}
+
+.cm-s-inner .cm-link,
+.cm-s-inner.cm-link {
+    color: #22a2c9;
+}
+
+.cm-s-inner .cm-string {
+    color: #22a2c9;
+}
+
+.md-task-list-item > input {
+    margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+    background-color: #f8f8f8;
+}
+
+#write pre.md-meta-block {
+    padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block > .code-tooltip {
+    bottom: .375rem;
+}
+
+#write > h3.md-focus:before {
+    left: -1.5625rem;
+    top: .375rem;
+}
+
+#write > h4.md-focus:before {
+    left: -1.5625rem;
+    top: .285714286rem;
+}
+
+#write > h5.md-focus:before {
+    left: -1.5625rem;
+    top: .285714286rem;
+}
+
+#write > h6.md-focus:before {
+    left: -1.5625rem;
+    top: .285714286rem;
+}
+
+.md-image > .md-meta {
+    border-radius: 3px;
+    font-family: var(--font-monospace);
+    padding: 2px 0 0 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: inherit;
+}
+
+.md-toc {
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#md-notification:before {
+    top: 10px;
+}
+
+/** focus mode */
+
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header,
+.context-menu,
+.megamenu-content,
+footer {
+    font-family: var(--font-sans-serif);
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state {
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
 
 
 
-
-
-##  期货合约的主要条款
-
-```mermaid
-graph LR
-	D((期货合约的主要条款))
-  D --> D1(交易单位-每手交易的数量)
-  D --> D2(合约价值)
-  D --> D3(报价单位)
-  D --> E(最小变动价位)
-  E --> E1[每计量单位最小变动价位]
-  D --> F(每日价格最大波动限制)
-  F --> F1(上一交易日结算价)
-  F --> F2(涨停板)
-  F --> F3(跌停板)
-  D --> G(合约交割月份)
-  D --> H(交易时间)
-  H --> H1(交易所统一规定)
-  H --> H2(日盘)
-  H --> H3(夜盘)
-  D --> I(最后交易日)
-  D --> J(交割日期)
-  D --> K(交割等级)
-  D --> M(交割地点)
-  D --> N(交易手续费)
-  D --> P(交割方式)
-  P --> P1[事物交易]
-  P --> P2[现金交易]
-  D --> Q(交易代码)
-  D --> W(最低交易保证金)
-```
-
-
-
-## 期货交易流程
-
-```mermaid
-graph LR
-	A[开户]
-  A --> B[下单]
-  B --> C[竞价]
-  C --> D[结算]
-  D --> E[交割]
-  
-
-```
-
-
-
-## 交易指令
-
-
-
-### 指令下达方式
-
-```mermaid
-graph LR
-	
-	A[指令下达方式]
-  A --> B(书面下单)
-  A --> C(电话下单)
-  A --> D(互联网下单)
-```
-
-
-
-### 常用交易指令
-
-```mermaid
-graph TD
-	AA[常用交易指令]
-	
-	AA --> B1(市价指令)
-	AA --> B2(限价指令)
-	AA --> B3(止损指令)
-	AA --> B4(停止限价指令)
-	AA --> B5(触价指令)
-	AA --> B6(限时指令)
-	AA --> B7(长效指令)
-	AA --> B8(套利指令)
-	AA --> B9(取消指令)
-```
-
+</style>
+</head>
+<body class='typora-export'>
+<div id='write'  class=' first-line-indent'><div class="md-diagram-panel"><svg id="mermaidChart1938" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 487.359375px;" viewBox="-8 -8 487.359375 472"><style>
+:root { --mermaid-font-family: sans-serif}
+:root { --mermaid-alt-font-family: sans-serif}</style><style></style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M50.174698795180724,340L109,107.5L155,107.5" marker-end="url(#arrowhead29604)" style="fill:none"></path><defs><marker id="arrowhead29604" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M226.48192771084337,91L305,24.5L341.6796875,24.5" marker-end="url(#arrowhead29605)" style="fill:none"></path><defs><marker id="arrowhead29605" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M259,107.5L305,107.5L341.6796875,107.5" marker-end="url(#arrowhead29606)" style="fill:none"></path><defs><marker id="arrowhead29606" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M226.48192771084337,124L305,190.5L355.6796875,190.5" marker-end="url(#arrowhead29607)" style="fill:none"></path><defs><marker id="arrowhead29607" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M84,356.5L109,356.5L141,356.5" marker-end="url(#arrowhead29608)" style="fill:none"></path><defs><marker id="arrowhead29608" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M226.48192771084337,340L305,273.5L337,273.5" marker-end="url(#arrowhead29609)" style="fill:none"></path><defs><marker id="arrowhead29609" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M273,356.5L305,356.5L355.6796875,356.5" marker-end="url(#arrowhead29610)" style="fill:none"></path><defs><marker id="arrowhead29610" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M226.48192771084337,373L305,439.5L330,439.5" marker-end="url(#arrowhead29611)" style="fill:none"></path><defs><marker id="arrowhead29611" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M58.524096385542165,373L109,439.5L134,439.5" marker-end="url(#arrowhead29612)" style="fill:none"></path><defs><marker id="arrowhead29612" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="A" transform="translate(46,356.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">合约期货</div></foreignObject></g></g></g><g class="node default" id="B" transform="translate(207,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">期货合约概念</div></foreignObject></g></g></g><g class="node default" id="B1" transform="translate(400.6796875,24.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-59" y="-16.5" width="118" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-49,-6.5)"><foreignObject width="98" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交易所统一制定</div></foreignObject></g></g></g><g class="node default" id="B2" transform="translate(400.6796875,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-59" y="-16.5" width="118" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-49,-6.5)"><foreignObject width="98" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">特定的时间地点</div></foreignObject></g></g></g><g class="node default" id="B3" transform="translate(400.6796875,190.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-45" y="-16.5" width="90" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-35,-6.5)"><foreignObject width="70" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">数量与质量</div></foreignObject></g></g></g><g class="node default" id="C" transform="translate(207,356.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-66" y="-16.5" width="132" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-56,-6.5)"><foreignObject width="112" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">期货合约标的选择</div></foreignObject></g></g></g><g class="node default" id="C1" transform="translate(400.6796875,273.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-63.6796875" y="-16.5" width="127.359375" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-53.6796875,-6.5)"><foreignObject width="107.359375" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">易于量化and评级</div></foreignObject></g></g></g><g class="node default" id="C2" transform="translate(400.6796875,356.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-45" y="-16.5" width="90" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-35,-6.5)"><foreignObject width="70" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">价格波动大</div></foreignObject></g></g></g><g class="node default" id="C3" transform="translate(400.6796875,439.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-70.6796875" y="-16.5" width="141.359375" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-60.6796875,-6.5)"><foreignObject width="121.359375" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">供应量大and非垄断</div></foreignObject></g></g></g><g class="node default" id="D" transform="translate(207,439.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-73" y="-16.5" width="146" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-63,-6.5)"><foreignObject width="126" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">期货合约的主要条款</div></foreignObject></g></g></g></g></g></g></svg></div><h2><a name="期货市场交易制度" class="md-header-anchor"></a><span>期货市场交易制度</span></h2><div class="md-diagram-panel"><svg id="mermaidChart1939" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 366px;" viewBox="-8 -8 366 472"><style>
+:root { --mermaid-font-family: sans-serif}
+:root { --mermaid-alt-font-family: sans-serif}</style><style></style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M66.12289156626505,215.5L137,24.5L211,24.5" marker-end="url(#arrowhead29624)" style="fill:none"></path><defs><marker id="arrowhead29624" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M70.20481927710844,215.5L137,107.5L183,107.5" marker-end="url(#arrowhead29625)" style="fill:none"></path><defs><marker id="arrowhead29625" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M90.6144578313253,215.5L137,190.5L204,190.5" marker-end="url(#arrowhead29626)" style="fill:none"></path><defs><marker id="arrowhead29626" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M90.6144578313253,248.5L137,273.5L162,273.5" marker-end="url(#arrowhead29627)" style="fill:none"></path><defs><marker id="arrowhead29627" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M70.20481927710844,248.5L137,356.5L204,356.5" marker-end="url(#arrowhead29628)" style="fill:none"></path><defs><marker id="arrowhead29628" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M66.12289156626505,248.5L137,439.5L204,439.5" marker-end="url(#arrowhead29629)" style="fill:none"></path><defs><marker id="arrowhead29629" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="AA" transform="translate(60,232)" style="opacity: 1;"><rect rx="0" ry="0" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">市场交易制度</div></foreignObject></g></g></g><g class="node default" id="a" transform="translate(256,24.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-45" y="-16.5" width="90" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-35,-6.5)"><foreignObject width="70" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">保证金制度</div></foreignObject></g></g></g><g class="node default" id="b" transform="translate(256,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-73" y="-16.5" width="146" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-63,-6.5)"><foreignObject width="126" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">当日无负债结算制度</div></foreignObject></g></g></g><g class="node default" id="c" transform="translate(256,190.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">涨跌停板制度</div></foreignObject></g></g></g><g class="node default" id="d" transform="translate(256,273.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-94" y="-16.5" width="188" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-84,-6.5)"><foreignObject width="168" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">持仓限额以及大户报告制度</div></foreignObject></g></g></g><g class="node default" id="e" transform="translate(256,356.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">强行平仓制度</div></foreignObject></g></g></g><g class="node default" id="f" transform="translate(256,439.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">信息披露制度</div></foreignObject></g></g></g></g></g></g></svg></div><p>&nbsp;</p><p>&nbsp;</p><h2><a name="期货合约的主要条款" class="md-header-anchor"></a><span>期货合约的主要条款</span></h2><div class="md-diagram-panel"><svg id="mermaidChart1940" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 622.671875px;" viewBox="-8 -8 622.671875 1343.5"><style>
+:root { --mermaid-font-family: sans-serif}
+:root { --mermaid-alt-font-family: sans-serif}</style><style></style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M90.49560781173433,699.1202139248413L179,24.5L204,24.5" marker-end="url(#arrowhead29663)" style="fill:none"></path><defs><marker id="arrowhead29663" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M91.65863372144813,699.2823184587596L179,107.5L255.3359375,107.5" marker-end="url(#arrowhead29664)" style="fill:none"></path><defs><marker id="arrowhead29664" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M93.14174111095124,699.5168205565034L179,190.5L255.3359375,190.5" marker-end="url(#arrowhead29665)" style="fill:none"></path><defs><marker id="arrowhead29665" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M95.09513574871805,699.8736979299838L179,273.5L241.3359375,273.5" marker-end="url(#arrowhead29666)" style="fill:none"></path><defs><marker id="arrowhead29666" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M345.3359375,273.5L407.671875,273.5L432.671875,273.5" marker-end="url(#arrowhead29667)" style="fill:none"></path><defs><marker id="arrowhead29667" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M99.52682553625108,700.8901087980635L179,398L213.3359375,398" marker-end="url(#arrowhead29668)" style="fill:none"></path><defs><marker id="arrowhead29668" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M338.7948042168675,381.5L407.671875,356.5L453.671875,356.5" marker-end="url(#arrowhead29669)" style="fill:none"></path><defs><marker id="arrowhead29669" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M338.7948042168675,414.5L407.671875,439.5L488.671875,439.5" marker-end="url(#arrowhead29670)" style="fill:none"></path><defs><marker id="arrowhead29670" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M308.48889307228916,414.5L407.671875,522.5L488.671875,522.5" marker-end="url(#arrowhead29671)" style="fill:none"></path><defs><marker id="arrowhead29671" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M107.73481980568776,703.5717333508545L179,522.5L241.3359375,522.5" marker-end="url(#arrowhead29672)" style="fill:none"></path><defs><marker id="arrowhead29672" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M126.15182514473842,714.1387527497966L179,647L255.3359375,647" marker-end="url(#arrowhead29673)" style="fill:none"></path><defs><marker id="arrowhead29673" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M331.3359375,633.2073112401777L407.671875,605.5L460.671875,605.5" marker-end="url(#arrowhead29674)" style="fill:none"></path><defs><marker id="arrowhead29674" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M331.3359375,660.7926887598223L407.671875,688.5L495.671875,688.5" marker-end="url(#arrowhead29675)" style="fill:none"></path><defs><marker id="arrowhead29675" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M300.91241528614455,663.5L407.671875,896L495.671875,896" marker-end="url(#arrowhead29676)" style="fill:none"></path><defs><marker id="arrowhead29676" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M148.22113856545735,743.0339056074849L179,730L248.3359375,730" marker-end="url(#arrowhead29677)" style="fill:none"></path><defs><marker id="arrowhead29677" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M148.22113856545735,799.9660943925151L179,813L255.3359375,813" marker-end="url(#arrowhead29678)" style="fill:none"></path><defs><marker id="arrowhead29678" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M126.15182514473842,828.8612472502034L179,896L255.3359375,896" marker-end="url(#arrowhead29679)" style="fill:none"></path><defs><marker id="arrowhead29679" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M112.17507288770766,837.5084451448912L179,979L255.3359375,979" marker-end="url(#arrowhead29680)" style="fill:none"></path><defs><marker id="arrowhead29680" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M104.3344888718606,840.6700920130154L179,1062L248.3359375,1062" marker-end="url(#arrowhead29681)" style="fill:none"></path><defs><marker id="arrowhead29681" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M99.52682553625108,842.1098912019365L179,1145L255.3359375,1145" marker-end="url(#arrowhead29682)" style="fill:none"></path><defs><marker id="arrowhead29682" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M304.7006541792169,1128.5L407.671875,979L481.671875,979" marker-end="url(#arrowhead29683)" style="fill:none"></path><defs><marker id="arrowhead29683" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M331.3359375,1158.7926887598223L407.671875,1186.5L481.671875,1186.5" marker-end="url(#arrowhead29684)" style="fill:none"></path><defs><marker id="arrowhead29684" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M96.32231633867475,842.8738511082146L179,1228L255.3359375,1228" marker-end="url(#arrowhead29685)" style="fill:none"></path><defs><marker id="arrowhead29685" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M94.04692121214717,843.3246325913611L179,1311L234.3359375,1311" marker-end="url(#arrowhead29686)" style="fill:none"></path><defs><marker id="arrowhead29686" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="D" transform="translate(81,771.5)" style="opacity: 1;"><circle x="-73" y="-16.5" r="73" class="label-container"></circle><g class="label" transform="translate(0,0)"><g transform="translate(-63,-6.5)"><foreignObject width="126" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">期货合约的主要条款</div></foreignObject></g></g></g><g class="node default" id="D1" transform="translate(293.3359375,24.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-89.3359375" y="-16.5" width="178.671875" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-79.3359375,-6.5)"><foreignObject width="158.671875" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交易单位-每手交易的数量</div></foreignObject></g></g></g><g class="node default" id="D2" transform="translate(293.3359375,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">合约价值</div></foreignObject></g></g></g><g class="node default" id="D3" transform="translate(293.3359375,190.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">报价单位</div></foreignObject></g></g></g><g class="node default" id="E" transform="translate(293.3359375,273.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">最小变动价位</div></foreignObject></g></g></g><g class="node default" id="E1" transform="translate(519.671875,273.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-87" y="-16.5" width="174" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-77,-6.5)"><foreignObject width="154" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">每计量单位最小变动价位</div></foreignObject></g></g></g><g class="node default" id="F" transform="translate(293.3359375,398)" style="opacity: 1;"><rect rx="5" ry="5" x="-80" y="-16.5" width="160" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-70,-6.5)"><foreignObject width="140" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">每日价格最大波动限制</div></foreignObject></g></g></g><g class="node default" id="F1" transform="translate(519.671875,356.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-66" y="-16.5" width="132" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-56,-6.5)"><foreignObject width="112" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">上一交易日结算价</div></foreignObject></g></g></g><g class="node default" id="F2" transform="translate(519.671875,439.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-31" y="-16.5" width="62" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-21,-6.5)"><foreignObject width="42" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">涨停板</div></foreignObject></g></g></g><g class="node default" id="F3" transform="translate(519.671875,522.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-31" y="-16.5" width="62" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-21,-6.5)"><foreignObject width="42" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">跌停板</div></foreignObject></g></g></g><g class="node default" id="G" transform="translate(293.3359375,522.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">合约交割月份</div></foreignObject></g></g></g><g class="node default" id="H" transform="translate(293.3359375,647)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交易时间</div></foreignObject></g></g></g><g class="node default" id="H1" transform="translate(519.671875,605.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-59" y="-16.5" width="118" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-49,-6.5)"><foreignObject width="98" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交易所统一规定</div></foreignObject></g></g></g><g class="node default" id="H2" transform="translate(519.671875,688.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-24" y="-16.5" width="48" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-14,-6.5)"><foreignObject width="28" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">日盘</div></foreignObject></g></g></g><g class="node default" id="H3" transform="translate(519.671875,896)" style="opacity: 1;"><rect rx="5" ry="5" x="-24" y="-16.5" width="48" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-14,-6.5)"><foreignObject width="28" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">夜盘</div></foreignObject></g></g></g><g class="node default" id="I" transform="translate(293.3359375,730)" style="opacity: 1;"><rect rx="5" ry="5" x="-45" y="-16.5" width="90" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-35,-6.5)"><foreignObject width="70" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">最后交易日</div></foreignObject></g></g></g><g class="node default" id="J" transform="translate(293.3359375,813)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交割日期</div></foreignObject></g></g></g><g class="node default" id="K" transform="translate(293.3359375,896)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交割等级</div></foreignObject></g></g></g><g class="node default" id="M" transform="translate(293.3359375,979)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交割地点</div></foreignObject></g></g></g><g class="node default" id="N" transform="translate(293.3359375,1062)" style="opacity: 1;"><rect rx="5" ry="5" x="-45" y="-16.5" width="90" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-35,-6.5)"><foreignObject width="70" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交易手续费</div></foreignObject></g></g></g><g class="node default" id="P" transform="translate(293.3359375,1145)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交割方式</div></foreignObject></g></g></g><g class="node default" id="P1" transform="translate(519.671875,979)" style="opacity: 1;"><rect rx="0" ry="0" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">事物交易</div></foreignObject></g></g></g><g class="node default" id="P2" transform="translate(519.671875,1186.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">现金交易</div></foreignObject></g></g></g><g class="node default" id="Q" transform="translate(293.3359375,1228)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交易代码</div></foreignObject></g></g></g><g class="node default" id="W" transform="translate(293.3359375,1311)" style="opacity: 1;"><rect rx="5" ry="5" x="-59" y="-16.5" width="118" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-49,-6.5)"><foreignObject width="98" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">最低交易保证金</div></foreignObject></g></g></g></g></g></g></svg></div><p>&nbsp;</p><h2><a name="期货交易流程" class="md-header-anchor"></a><span>期货交易流程</span></h2><div class="md-diagram-panel"><svg id="mermaidChart1941" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 464px;" viewBox="-8 -8 464 57"><style>
+:root { --mermaid-font-family: sans-serif}
+:root { --mermaid-alt-font-family: sans-serif}</style><style></style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M56,24.5L81,24.5L106,24.5" marker-end="url(#arrowhead29708)" style="fill:none"></path><defs><marker id="arrowhead29708" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M154,24.5L179,24.5L204,24.5" marker-end="url(#arrowhead29709)" style="fill:none"></path><defs><marker id="arrowhead29709" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M252,24.5L277,24.5L302,24.5" marker-end="url(#arrowhead29710)" style="fill:none"></path><defs><marker id="arrowhead29710" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M350,24.5L375,24.5L400,24.5" marker-end="url(#arrowhead29711)" style="fill:none"></path><defs><marker id="arrowhead29711" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="A" transform="translate(32,24.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-24" y="-16.5" width="48" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-14,-6.5)"><foreignObject width="28" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">开户</div></foreignObject></g></g></g><g class="node default" id="B" transform="translate(130,24.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-24" y="-16.5" width="48" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-14,-6.5)"><foreignObject width="28" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">下单</div></foreignObject></g></g></g><g class="node default" id="C" transform="translate(228,24.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-24" y="-16.5" width="48" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-14,-6.5)"><foreignObject width="28" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">竞价</div></foreignObject></g></g></g><g class="node default" id="D" transform="translate(326,24.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-24" y="-16.5" width="48" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-14,-6.5)"><foreignObject width="28" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">结算</div></foreignObject></g></g></g><g class="node default" id="E" transform="translate(424,24.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-24" y="-16.5" width="48" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-14,-6.5)"><foreignObject width="28" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">交割</div></foreignObject></g></g></g></g></g></g></svg></div><p>&nbsp;</p><h2><a name="交易指令" class="md-header-anchor"></a><span>交易指令</span></h2><p>&nbsp;</p><h3><a name="指令下达方式" class="md-header-anchor"></a><span>指令下达方式</span></h3><div class="md-diagram-panel"><svg id="mermaidChart1942" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 268px;" viewBox="-8 -8 268 223"><style>
+:root { --mermaid-font-family: sans-serif}
+:root { --mermaid-alt-font-family: sans-serif}</style><style></style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M75.30722891566265,91L137,24.5L169,24.5" marker-end="url(#arrowhead29720)" style="fill:none"></path><defs><marker id="arrowhead29720" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M112,107.5L137,107.5L169,107.5" marker-end="url(#arrowhead29721)" style="fill:none"></path><defs><marker id="arrowhead29721" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M75.30722891566265,124L137,190.5L162,190.5" marker-end="url(#arrowhead29722)" style="fill:none"></path><defs><marker id="arrowhead29722" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="A" transform="translate(60,107.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">指令下达方式</div></foreignObject></g></g></g><g class="node default" id="B" transform="translate(207,24.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">书面下单</div></foreignObject></g></g></g><g class="node default" id="C" transform="translate(207,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">电话下单</div></foreignObject></g></g></g><g class="node default" id="D" transform="translate(207,190.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-45" y="-16.5" width="90" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-35,-6.5)"><foreignObject width="70" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">互联网下单</div></foreignObject></g></g></g></g></g></g></svg></div><p>&nbsp;</p><h3><a name="常用交易指令" class="md-header-anchor"></a><span>常用交易指令</span></h3><div class="md-diagram-panel"><svg id="mermaidChart1943" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 1136px;" viewBox="-8 -8 1136 140"><style>
+:root { --mermaid-font-family: sans-serif}
+:root { --mermaid-alt-font-family: sans-serif}</style><style></style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M526,28.55639097744361L46,66L46,91" marker-end="url(#arrowhead29737)" style="fill:none"></path><defs><marker id="arrowhead29737" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M526,29.81527093596059L172,66L172,91" marker-end="url(#arrowhead29738)" style="fill:none"></path><defs><marker id="arrowhead29738" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M526,32.207142857142856L298,66L298,91" marker-end="url(#arrowhead29739)" style="fill:none"></path><defs><marker id="arrowhead29739" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M526,39.91428571428571L438,66L438,91" marker-end="url(#arrowhead29740)" style="fill:none"></path><defs><marker id="arrowhead29740" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M578,41L578,66L578,91" marker-end="url(#arrowhead29741)" style="fill:none"></path><defs><marker id="arrowhead29741" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M628.0963855421687,41L704,66L704,91" marker-end="url(#arrowhead29742)" style="fill:none"></path><defs><marker id="arrowhead29742" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M630,33.06349206349206L830,66L830,91" marker-end="url(#arrowhead29743)" style="fill:none"></path><defs><marker id="arrowhead29743" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M630,30.20899470899471L956,66L956,91" marker-end="url(#arrowhead29744)" style="fill:none"></path><defs><marker id="arrowhead29744" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M630,28.78174603174603L1082,66L1082,91" marker-end="url(#arrowhead29745)" style="fill:none"></path><defs><marker id="arrowhead29745" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="AA" transform="translate(578,24.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">常用交易指令</div></foreignObject></g></g></g><g class="node default" id="B1" transform="translate(46,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">市价指令</div></foreignObject></g></g></g><g class="node default" id="B2" transform="translate(172,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">限价指令</div></foreignObject></g></g></g><g class="node default" id="B3" transform="translate(298,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">止损指令</div></foreignObject></g></g></g><g class="node default" id="B4" transform="translate(438,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-52" y="-16.5" width="104" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42,-6.5)"><foreignObject width="84" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">停止限价指令</div></foreignObject></g></g></g><g class="node default" id="B5" transform="translate(578,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">触价指令</div></foreignObject></g></g></g><g class="node default" id="B6" transform="translate(704,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">限时指令</div></foreignObject></g></g></g><g class="node default" id="B7" transform="translate(830,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">长效指令</div></foreignObject></g></g></g><g class="node default" id="B8" transform="translate(956,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">套利指令</div></foreignObject></g></g></g><g class="node default" id="B9" transform="translate(1082,107.5)" style="opacity: 1;"><rect rx="5" ry="5" x="-38" y="-16.5" width="76" height="33" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28,-6.5)"><foreignObject width="56" height="13"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">取消指令</div></foreignObject></g></g></g></g></g></g></svg></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
+</body>
+</html>
 
 
 
