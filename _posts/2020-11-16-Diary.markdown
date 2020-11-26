@@ -1,0 +1,167 @@
+--- 
+layout: post
+title: "2020-11-26 Diary"
+date: 2020-11-16 18:30:54 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+# 2020-11-16
+## Sleep
+
+|  Project Name    |    Sleep      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 8:15:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月16日 上午6:15 |
+| Project End Time | 2020年11月16日 下午2:30 |
+| Project Archive Time | 2020-11-16 18:30:55  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+* 4点睡觉
+* 2点起床
+
+
+
+## Lunch 
+
+|  Project Name    |    Lunch       |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月16日 下午2:30 |
+| Project End Time | 2020年11月16日 下午3:00 |
+| Project Archive Time | 2020-11-16 18:30:56  |
+
+### Abstract
+
+> have lunch
+
+### Information
+
+* 起的太晚，食堂没有饭了
+* 外面吃牛肉拉面+煎蛋
+
+
+
+## Basic Knowledge of futures
+
+|  Project Name    |    Basic Knowledge of futures      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 3:00:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月16日 下午3:00 |
+| Project End Time | 2020年11月16日 下午6:00 |
+| Project Archive Time | 2020-11-16 18:30:58  |
+
+### Abstract
+
+> Basic Knowledge of futures
+
+### Information
+
+* 用markdown构建大纲文件
+* 第四章
+* 第五章
+* 第六章
+
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         | 郑在艺考    |
+| Project Start Time | 2020年11月16日 下午6:00 |
+| Project End Time | 2020年11月16日 下午7:00 |
+| Project Archive Time | 2020-11-16 18:30:59  |
+
+### Abstract
+
+> Eatting dinner
+
+### Information
+
+
+
+## Basic Knowledge of futures
+
+|  Project Name    |    Basic Knowledge of futures      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 2:15:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月16日 下午7:00 |
+| Project End Time | 2020年11月16日 下午9:15 |
+| Project Archive Time | 2020-11-16 18:31:00  |
+
+### Abstract
+
+> Basic Knowledge of futures
+
+### Information
+
+* 用markdown构建大纲文件
+* 第七章
+* 第八章
+* 第九章
+* 第十章
+
+
+
+## Diary
+
+|  Project Name    |    Diary      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月16日 下午9:15 |
+| Project End Time | 2020年11月16日 下午9:45 |
+| Project Archive Time | 2020-11-16 18:31:01  |
+
+write diary
+
+
+
+## Basic Knowledge of futures
+
+|  Project Name    |    Basic Knowledge of futures      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:15:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月16日 下午9:45 |
+| Project End Time | 2020年11月16日 下午11:00 |
+| Project Archive Time | 2020-11-16 18:31:02  |
+
+### Abstract
+
+> Basic Knowledge of futures
+
+### Information
+
+* 看视频补充大纲内容
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
+| Basic Knowledge of futures | <input type="radio" name="Basic Knowledge of futures" value="1"> | <input type="radio" name="Basic Knowledge of futures" value="2"> | <input type="radio" name="Basic Knowledge of futures" value="3"> | <input type="radio" name="Basic Knowledge of futures" value="4"> | <input type="radio" name="Basic Knowledge of futures" value="5"> |<input type="radio" name="Basic Knowledge of futures" value="6" checked> |<input type="radio" name="Basic Knowledge of futures" value="7"> |<input type="radio" name="Basic Knowledge of futures" value="8"> |<input type="radio" name="Basic Knowledge of futures" value="9"> |<input type="radio" name="Basic Knowledge of futures" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| Basic Knowledge of futures | <input type="radio" name="Basic Knowledge of futures" value="1"> | <input type="radio" name="Basic Knowledge of futures" value="2"> | <input type="radio" name="Basic Knowledge of futures" value="3"> | <input type="radio" name="Basic Knowledge of futures" value="4"> | <input type="radio" name="Basic Knowledge of futures" value="5"> |<input type="radio" name="Basic Knowledge of futures" value="6" checked> |<input type="radio" name="Basic Knowledge of futures" value="7"> |<input type="radio" name="Basic Knowledge of futures" value="8"> |<input type="radio" name="Basic Knowledge of futures" value="9"> |<input type="radio" name="Basic Knowledge of futures" value="10"> |
+| Diary | <input type="radio" name="Diary" value="1"> | <input type="radio" name="Diary" value="2"> | <input type="radio" name="Diary" value="3"> | <input type="radio" name="Diary" value="4"> | <input type="radio" name="Diary" value="5"> |<input type="radio" name="Diary" value="6" checked> |<input type="radio" name="Diary" value="7"> |<input type="radio" name="Diary" value="8"> |<input type="radio" name="Diary" value="9"> |<input type="radio" name="Diary" value="10"> |
+| Basic Knowledge of futures | <input type="radio" name="Basic Knowledge of futures" value="1"> | <input type="radio" name="Basic Knowledge of futures" value="2"> | <input type="radio" name="Basic Knowledge of futures" value="3"> | <input type="radio" name="Basic Knowledge of futures" value="4"> | <input type="radio" name="Basic Knowledge of futures" value="5"> |<input type="radio" name="Basic Knowledge of futures" value="6" checked> |<input type="radio" name="Basic Knowledge of futures" value="7"> |<input type="radio" name="Basic Knowledge of futures" value="8"> |<input type="radio" name="Basic Knowledge of futures" value="9"> |<input type="radio" name="Basic Knowledge of futures" value="10"> |

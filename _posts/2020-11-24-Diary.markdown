@@ -1,0 +1,157 @@
+--- 
+layout: post
+title: "2020-11-24 Diary"
+date: 2020-11-24 18:40:04 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+# 2020-11-24
+## Sleep
+
+|  Project Name    |    Sleep      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 9:15:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月24日 上午6:15 |
+| Project End Time | 2020年11月24日 下午3:30 |
+| Project Archive Time | 2020-11-24 18:40:05  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+3点睡
+2点起
+总计睡眠11小时
+
+
+
+
+## Lunch 
+
+|  Project Name    |    Lunch       |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月24日 下午3:30 |
+| Project End Time | 2020年11月24日 下午4:00 |
+| Project Archive Time | 2020-11-24 18:40:06  |
+
+### Abstract
+
+> have lunch
+
+### Information
+
+兰州牛肉拉面家的孜然牛肉面
+
+
+
+## Diary
+
+|  Project Name    |    Diary      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 31:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月24日 下午4:14 |
+| Project End Time | 2020年11月24日 下午4:45 |
+| Project Archive Time | 2020-11-24 18:40:07  |
+
+
+### Abstract
+
+> write diary
+
+### Information
+
+日常日记
+* 日本办公水平有新的创新
+* 债务危机
+* 难
+
+
+
+
+## 公司考古
+
+|  Project Name    |    公司考古      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         |     |
+| Project Start Time | 2020年11月24日 下午5:00 |
+| Project End Time | 2020年11月24日 下午6:00 |
+| Project Archive Time | 2020-11-24 18:40:08  |
+
+OFO历史
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 2:00:00                 |
+|  Place         | 郑在艺考    |
+| Project Start Time | 2020年11月24日 下午6:00 |
+| Project End Time | 2020年11月24日 下午8:00 |
+| Project Archive Time | 2020-11-24 18:40:09  |
+
+### Abstract
+
+> Eatting dinner
+
+### Information
+
+* 出去吃烤肉
+* 看衣服
+* 超市
+
+
+
+## 查询JK，日本高中资料
+
+|  Project Name    |    查询JK，日本高中资料      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 45:00                 |
+|  Place         |     |
+| Project Start Time | 2020年11月24日 下午9:00 |
+| Project End Time | 2020年11月24日 下午9:45 |
+| Project Archive Time | 2020-11-24 18:40:11  |
+
+
+
+
+
+## 基金基础
+
+|  Project Name    |    基金基础      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:15:00                 |
+|  Place         |     |
+| Project Start Time | 2020年11月24日 下午9:45 |
+| Project End Time | 2020年11月24日 下午11:00 |
+| Project Archive Time | 2020-11-24 18:40:12  |
+
+
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
+| Diary | <input type="radio" name="Diary" value="1"> | <input type="radio" name="Diary" value="2"> | <input type="radio" name="Diary" value="3"> | <input type="radio" name="Diary" value="4"> | <input type="radio" name="Diary" value="5"> |<input type="radio" name="Diary" value="6" checked> |<input type="radio" name="Diary" value="7"> |<input type="radio" name="Diary" value="8"> |<input type="radio" name="Diary" value="9"> |<input type="radio" name="Diary" value="10"> |
+| 公司考古 | <input type="radio" name="公司考古" value="1"> | <input type="radio" name="公司考古" value="2"> | <input type="radio" name="公司考古" value="3"> | <input type="radio" name="公司考古" value="4"> | <input type="radio" name="公司考古" value="5"> |<input type="radio" name="公司考古" value="6" checked> |<input type="radio" name="公司考古" value="7"> |<input type="radio" name="公司考古" value="8"> |<input type="radio" name="公司考古" value="9"> |<input type="radio" name="公司考古" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| 查询JK，日本高中资料 | <input type="radio" name="查询JK，日本高中资料" value="1"> | <input type="radio" name="查询JK，日本高中资料" value="2"> | <input type="radio" name="查询JK，日本高中资料" value="3"> | <input type="radio" name="查询JK，日本高中资料" value="4"> | <input type="radio" name="查询JK，日本高中资料" value="5"> |<input type="radio" name="查询JK，日本高中资料" value="6" checked> |<input type="radio" name="查询JK，日本高中资料" value="7"> |<input type="radio" name="查询JK，日本高中资料" value="8"> |<input type="radio" name="查询JK，日本高中资料" value="9"> |<input type="radio" name="查询JK，日本高中资料" value="10"> |
+| 基金基础 | <input type="radio" name="基金基础" value="1"> | <input type="radio" name="基金基础" value="2"> | <input type="radio" name="基金基础" value="3"> | <input type="radio" name="基金基础" value="4"> | <input type="radio" name="基金基础" value="5"> |<input type="radio" name="基金基础" value="6" checked> |<input type="radio" name="基金基础" value="7"> |<input type="radio" name="基金基础" value="8"> |<input type="radio" name="基金基础" value="9"> |<input type="radio" name="基金基础" value="10"> |

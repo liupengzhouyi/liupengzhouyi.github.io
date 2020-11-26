@@ -1,0 +1,56 @@
+--- 
+layout: post
+title: "2020-11-23 Diary"
+date: 2020-11-23 18:39:30 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+# 2020-11-23
+## Sleep
+
+|  Project Name    |    Sleep      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 9:00:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月23日 上午9:00 |
+| Project End Time | 2020年11月23日 下午6:00 |
+| Project Archive Time | 2020-11-23 18:39:31  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+看小说
+9点睡
+5点起
+
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         | 郑在艺考    |
+| Project Start Time | 2020年11月23日 下午6:00 |
+| Project End Time | 2020年11月23日 下午7:00 |
+| Project Archive Time | 2020-11-23 18:39:32  |
+
+### Abstract
+
+> Eatting dinner
+
+### Information
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
