@@ -1,43 +1,123 @@
----
+--- 
 layout: post
-title: " Diary"
-date: 2020-11-11 20:30:00 + 0800
+title: "2020-11-11 Diary"
+date: 2020-11-11 18:52:55 +0800
 categories: diary
 tags: diary
-img: https://ae02.alicdn.com/kf/H9378f2d8036b406a90d8eed979c1684fD.png
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 ---
 
-#  2020-11-11 Diary
+# 2020-11-11
+## Sleep
 
-
-| 项目名称     |    Diary      |
+|  Project Name    |    Sleep      |
 | ------------ | ----------------------- |
-| 项目负责人   | 刘鹏                    |
-| 项目持续时间 | 1:00:00                 |
-| 地点         | 商都嘉园穆庄小区东苑    |
-| 项目开始时间 | 2020年11月11日 上午11:45 |
-| 项目结束时间 | 2020年11月11日 下午12:45 |
-| 项目归档日期 | 2020-11-11 17:41:49  |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 5:30:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月11日 上午6:15 |
+| Project End Time | 2020年11月11日 上午11:45 |
+| Project Archive Time | 2020-11-11 18:52:56  |
 
-# 项目简介
-> write diary  
-
-
-# 项目附加内容
+sleep 1.5 hours.
 
 
 
+## Diary
+
+|  Project Name    |    Diary      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年11月11日 上午11:45 |
+| Project End Time | 2020年11月11日 下午12:45 |
+| Project Archive Time | 2020-11-11 18:52:57  |
+
+write diary
 
 
-## 项目完成评价
 
-- [ ]  1 分
-- [ ]  2 分
-- [ ]  3 分
-- [ ]  4 分
-- [ ]  5 分
-- [ ]  6 分
-- [ ]  7 分
-- [ ]  8 分
-- [ ]  9 分
-- [ ]  10 分
+## Lunch 
+
+|  Project Name    |    Lunch       |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月11日 下午1:00 |
+| Project End Time | 2020年11月11日 下午1:30 |
+| Project Archive Time | 2020-11-11 18:52:58  |
+
+have lunch
+
+
+
+## LearningEnglish-I
+
+|  Project Name    |    LearningEnglish-I      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月11日 下午1:45 |
+| Project End Time | 2020年11月11日 下午2:45 |
+| Project Archive Time | 2020-11-11 18:52:59  |
+
+learning 800 high school English words
+
+
+
+## LearningEnglish-II
+
+|  Project Name    |    LearningEnglish-II      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 3:15:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月11日 下午2:45 |
+| Project End Time | 2020年11月11日 下午6:00 |
+| Project Archive Time | 2020-11-11 18:53:00  |
+
+learning 800 high school English words
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         | 郑在艺考    |
+| Project Start Time | 2020年11月11日 下午6:00 |
+| Project End Time | 2020年11月11日 下午7:00 |
+| Project Archive Time | 2020-11-11 18:53:02  |
+
+eatting dinner
+
+
+
+## LearningEnglish-III
+
+|  Project Name    |    LearningEnglish-III      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 4:00:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | 2020年11月11日 下午7:00 |
+| Project End Time | 2020年11月11日 下午11:00 |
+| Project Archive Time | 2020-11-11 18:53:03  |
+
+learning 800 high school English words
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> p| <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| Diary | <input type="radio" name="Diary" value="1"> | <input type="radio" name="Diary" value="2"> | <input type="radio" name="Diary" value="3"> p| <input type="radio" name="Diary" value="4"> | <input type="radio" name="Diary" value="5"> |<input type="radio" name="Diary" value="6" checked> |<input type="radio" name="Diary" value="7"> |<input type="radio" name="Diary" value="8"> |<input type="radio" name="Diary" value="9"> |<input type="radio" name="Diary" value="10"> |
+| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> p| <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
+| LearningEnglish-I | <input type="radio" name="LearningEnglish-I" value="1"> | <input type="radio" name="LearningEnglish-I" value="2"> | <input type="radio" name="LearningEnglish-I" value="3"> p| <input type="radio" name="LearningEnglish-I" value="4"> | <input type="radio" name="LearningEnglish-I" value="5"> |<input type="radio" name="LearningEnglish-I" value="6" checked> |<input type="radio" name="LearningEnglish-I" value="7"> |<input type="radio" name="LearningEnglish-I" value="8"> |<input type="radio" name="LearningEnglish-I" value="9"> |<input type="radio" name="LearningEnglish-I" value="10"> |
+| LearningEnglish-II | <input type="radio" name="LearningEnglish-II" value="1"> | <input type="radio" name="LearningEnglish-II" value="2"> | <input type="radio" name="LearningEnglish-II" value="3"> p| <input type="radio" name="LearningEnglish-II" value="4"> | <input type="radio" name="LearningEnglish-II" value="5"> |<input type="radio" name="LearningEnglish-II" value="6" checked> |<input type="radio" name="LearningEnglish-II" value="7"> |<input type="radio" name="LearningEnglish-II" value="8"> |<input type="radio" name="LearningEnglish-II" value="9"> |<input type="radio" name="LearningEnglish-II" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> p| <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| LearningEnglish-III | <input type="radio" name="LearningEnglish-III" value="1"> | <input type="radio" name="LearningEnglish-III" value="2"> | <input type="radio" name="LearningEnglish-III" value="3"> p| <input type="radio" name="LearningEnglish-III" value="4"> | <input type="radio" name="LearningEnglish-III" value="5"> |<input type="radio" name="LearningEnglish-III" value="6" checked> |<input type="radio" name="LearningEnglish-III" value="7"> |<input type="radio" name="LearningEnglish-III" value="8"> |<input type="radio" name="LearningEnglish-III" value="9"> |<input type="radio" name="LearningEnglish-III" value="10"> |
