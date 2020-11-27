@@ -1,13 +1,13 @@
 --- 
 layout: post
-title: "2020-11-26 Diary"
-date: 2020-11-26 18:41:25 +0800
+title: "2020-11-27 Diary"
+date: 2020-11-27 12:37:25 +0800
 categories: diary
 tags: diary
 img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
----
+- - - -
 
-# 2020-11-26
+# 2020-11-27
 ## Sleep
 
 |  Project Name    |    Sleep      |
@@ -15,13 +15,13 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 7:30:00                 |
 |  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月26日 上午6:15 |
-| Project End Time | 2020年11月26日 下午1:45 |
-| Project Archive Time | 2020-11-26 18:41:26  |
+| Project Start Time | Nov 26, 2020 at 6:15 AM |
+| Project End Time | Nov 26, 2020 at 1:45 PM |
+| Project Archive Time | 2020-11-27 12:37:26  |
 
 ### Abstract
 
-> sleep
+> sleep  
 
 ### Information
 
@@ -39,14 +39,14 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 30:00                 |
-|  Place         | 商都嘉园穆庄小区东苑    |
-| Project Start Time | 2020年11月26日 下午1:45 |
-| Project End Time | 2020年11月26日 下午2:15 |
-| Project Archive Time | 2020-11-26 18:41:27  |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 26, 2020 at 1:45 PM |
+| Project End Time | Nov 26, 2020 at 2:15 PM |
+| Project Archive Time | 2020-11-27 12:37:27  |
 
 ### Abstract
 
-> have lunch
+> have lunch  
 
 ### Information
 
@@ -61,14 +61,14 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 15:00                 |
-|  Place         |     |
-| Project Start Time | 2020年11月26日 下午2:15 |
-| Project End Time | 2020年11月26日 下午2:30 |
-| Project Archive Time | 2020-11-26 18:41:29  |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 26, 2020 at 2:15 PM |
+| Project End Time | Nov 26, 2020 at 2:30 PM |
+| Project Archive Time | 2020-11-27 12:37:29  |
 
 ### Abstract
 
-> Reading newspaper all over the world
+> Reading newspaper all over the world  
 
 ### Information
 
@@ -99,14 +99,14 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 15:00                 |
-|  Place         |     |
-| Project Start Time | 2020年11月26日 下午2:45 |
-| Project End Time | 2020年11月26日 下午3:00 |
-| Project Archive Time | 2020-11-26 18:41:30  |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 26, 2020 at 2:45 PM |
+| Project End Time | Nov 26, 2020 at 3:00 PM |
+| Project Archive Time | 2020-11-27 12:37:30  |
 
 ### Abstract
 
-> Reading newspaper about financial
+> Reading newspaper about financial  
 
 ### Information
 
@@ -129,20 +129,20 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 
 
 
-## 基金笔记
+## 基金笔记I
 
-|  Project Name    |    基金笔记      |
+|  Project Name    |    基金笔记I      |
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 3:00:00                 |
-|  Place         |     |
-| Project Start Time | 2020年11月26日 下午3:00 |
-| Project End Time | 2020年11月26日 下午6:00 |
-| Project Archive Time | 2020-11-26 18:41:31  |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 26, 2020 at 3:00 PM |
+| Project End Time | Nov 26, 2020 at 6:00 PM |
+| Project Archive Time | 2020-11-27 12:37:31  |
 
 ### Abstract
 
-> 整理基金笔记
+> 整理基金笔记  
 
 ### Information
 
@@ -158,31 +158,37 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 1:00:00                 |
-|  Place         | 郑在艺考    |
-| Project Start Time | 2020年11月26日 下午6:00 |
-| Project End Time | 2020年11月26日 下午7:00 |
-| Project Archive Time | 2020-11-26 18:41:32  |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 26, 2020 at 6:00 PM |
+| Project End Time | Nov 26, 2020 at 7:00 PM |
+| Project Archive Time | 2020-11-27 12:37:32  |
 
 ### Abstract
 
-> Eatting dinner
+> Eatting dinner  
 
 ### Information
 
 
 
-## 基金笔记
+## 基金笔记II
 
-|  Project Name    |    基金笔记      |
+|  Project Name    |    基金笔记II      |
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 2:45:00                 |
-|  Place         |     |
-| Project Start Time | 2020年11月26日 下午7:00 |
-| Project End Time | 2020年11月26日 下午9:45 |
-| Project Archive Time | 2020-11-26 18:41:33  |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 26, 2020 at 7:00 PM |
+| Project End Time | Nov 26, 2020 at 9:45 PM |
+| Project Archive Time | 2020-11-27 12:37:33  |
 
+### Abstract
 
+> 整理基金笔记  
+
+### Information
+
+*填充笔记完成✅
 
 
 
@@ -192,12 +198,18 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 1:00:00                 |
-|  Place         | 商都嘉园穆庄小区东苑    |
-| Project Start Time | 2020年11月26日 下午9:59 |
-| Project End Time | 2020年11月26日 下午10:59 |
-| Project Archive Time | 2020-11-26 18:41:35  |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 26, 2020 at 9:59 PM |
+| Project End Time | Nov 26, 2020 at 10:59 PM |
+| Project Archive Time | 2020-11-27 12:37:35  |
 
-write diary
+### Abstract
+
+> write diary  
+
+### Information
+
+#### 今天没有快乐
 
 
 | Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
@@ -206,7 +218,7 @@ write diary
 | Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
 | 新闻I | <input type="radio" name="新闻I" value="1"> | <input type="radio" name="新闻I" value="2"> | <input type="radio" name="新闻I" value="3"> | <input type="radio" name="新闻I" value="4"> | <input type="radio" name="新闻I" value="5"> |<input type="radio" name="新闻I" value="6" checked> |<input type="radio" name="新闻I" value="7"> |<input type="radio" name="新闻I" value="8"> |<input type="radio" name="新闻I" value="9"> |<input type="radio" name="新闻I" value="10"> |
 | 新闻II | <input type="radio" name="新闻II" value="1"> | <input type="radio" name="新闻II" value="2"> | <input type="radio" name="新闻II" value="3"> | <input type="radio" name="新闻II" value="4"> | <input type="radio" name="新闻II" value="5"> |<input type="radio" name="新闻II" value="6" checked> |<input type="radio" name="新闻II" value="7"> |<input type="radio" name="新闻II" value="8"> |<input type="radio" name="新闻II" value="9"> |<input type="radio" name="新闻II" value="10"> |
-| 基金笔记 | <input type="radio" name="基金笔记" value="1"> | <input type="radio" name="基金笔记" value="2"> | <input type="radio" name="基金笔记" value="3"> | <input type="radio" name="基金笔记" value="4"> | <input type="radio" name="基金笔记" value="5"> |<input type="radio" name="基金笔记" value="6" checked> |<input type="radio" name="基金笔记" value="7"> |<input type="radio" name="基金笔记" value="8"> |<input type="radio" name="基金笔记" value="9"> |<input type="radio" name="基金笔记" value="10"> |
+| 基金笔记I | <input type="radio" name="基金笔记I" value="1"> | <input type="radio" name="基金笔记I" value="2"> | <input type="radio" name="基金笔记I" value="3"> | <input type="radio" name="基金笔记I" value="4"> | <input type="radio" name="基金笔记I" value="5"> |<input type="radio" name="基金笔记I" value="6" checked> |<input type="radio" name="基金笔记I" value="7"> |<input type="radio" name="基金笔记I" value="8"> |<input type="radio" name="基金笔记I" value="9"> |<input type="radio" name="基金笔记I" value="10"> |
 | Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
-| 基金笔记 | <input type="radio" name="基金笔记" value="1"> | <input type="radio" name="基金笔记" value="2"> | <input type="radio" name="基金笔记" value="3"> | <input type="radio" name="基金笔记" value="4"> | <input type="radio" name="基金笔记" value="5"> |<input type="radio" name="基金笔记" value="6" checked> |<input type="radio" name="基金笔记" value="7"> |<input type="radio" name="基金笔记" value="8"> |<input type="radio" name="基金笔记" value="9"> |<input type="radio" name="基金笔记" value="10"> |
+| 基金笔记II | <input type="radio" name="基金笔记II" value="1"> | <input type="radio" name="基金笔记II" value="2"> | <input type="radio" name="基金笔记II" value="3"> | <input type="radio" name="基金笔记II" value="4"> | <input type="radio" name="基金笔记II" value="5"> |<input type="radio" name="基金笔记II" value="6" checked> |<input type="radio" name="基金笔记II" value="7"> |<input type="radio" name="基金笔记II" value="8"> |<input type="radio" name="基金笔记II" value="9"> |<input type="radio" name="基金笔记II" value="10"> |
 | Diary | <input type="radio" name="Diary" value="1"> | <input type="radio" name="Diary" value="2"> | <input type="radio" name="Diary" value="3"> | <input type="radio" name="Diary" value="4"> | <input type="radio" name="Diary" value="5"> |<input type="radio" name="Diary" value="6" checked> |<input type="radio" name="Diary" value="7"> |<input type="radio" name="Diary" value="8"> |<input type="radio" name="Diary" value="9"> |<input type="radio" name="Diary" value="10"> |
