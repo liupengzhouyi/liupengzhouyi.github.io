@@ -1,36 +1,50 @@
 --- 
 layout: post
-title: "2020-11-27 Diary"
-date: 2020-11-27 19:24:02 +0800
+title: "2020-11-28 Diary"
+date: 2020-11-28 21:27:16 +0800
 categories: diary
 tags: diary
 img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 ---
 
-# 2020-11-27
-## Sleep
+# 2020-11-28
+## Diary
 
-|  Project Name    |    Sleep      |
+|  Project Name    |    Diary      |
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
-| Project Duration | 5:30:00                 |
-|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 上午6:15 |
-| Project End Time | 2020年11月27日 上午11:45 |
-| Project Archive Time | 2020-11-27 19:24:02  |
+| Project Duration | 1:00:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | Nov 28, 2020 at 6:14 AM |
+| Project End Time | Nov 28, 2020 at 7:14 AM |
+| Project Archive Time | 2020-11-28 21:27:17  |
 
-### Abstract
+write diary
 
-> sleep
+爱情原理与选择
+浙江农林大学生
+对澳大利亚贸易
+考试
+难吃的点心
+神奇的羊肉泡馍
+马先生神话终结
 
-### Information
-
-* 3点半睡觉
-* 11点起床
-* 又一个假冒人口普查的打电话骗我地址，我没有上当
-* 2天前睡觉落枕，今天好多了
 
 
+
+
+## 考试行程
+
+|  Project Name    |    考试行程      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:15:00                 |
+|  Place         |     |
+| Project Start Time | Nov 28, 2020 at 11:00 AM |
+| Project End Time | Nov 28, 2020 at 12:15 PM |
+| Project Archive Time | 2020-11-28 21:27:18  |
+
+难度系数一般，感觉换好
 
 
 
@@ -40,100 +54,68 @@ img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 30:00                 |
-|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 上午11:45 |
-| Project End Time | 2020年11月27日 下午12:15 |
-| Project Archive Time | 2020-11-27 19:24:04  |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | Nov 28, 2020 at 12:15 PM |
+| Project End Time | Nov 28, 2020 at 12:45 PM |
+| Project Archive Time | 2020-11-28 21:27:19  |
 
 have lunch
+神奇的羊肉泡馍，
+那个馍夹生，吃了一点就去考试
+真是的，12点40考试，时间安排很不合理！
 
 
 
-## Diary
+## 证券投资基金基础知识
 
-|  Project Name    |    Diary      |
+|  Project Name    |    证券投资基金基础知识      |
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
-| Project Duration | 30:00                 |
-|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 下午12:15 |
-| Project End Time | 2020年11月27日 下午12:45 |
-| Project Archive Time | 2020-11-27 19:24:05  |
+| Project Duration | 2:00:00                 |
+|  Place         | 证券投资基金基础知识    |
+| Project Start Time | Nov 28, 2020 at 12:45 PM |
+| Project End Time | Nov 28, 2020 at 2:45 PM |
+| Project Archive Time | 2020-11-28 21:27:20  |
+
+考场安排不合理，
+考生聚在一起验证健康码
+然后后面的考生等到考试开始还没有验完。
+
+
+
+## 回城
+
+|  Project Name    |    回城      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 2:00:00                 |
+|  Place         | 黄河路    |
+| Project Start Time | Nov 28, 2020 at 2:45 PM |
+| Project End Time | Nov 28, 2020 at 4:45 PM |
+| Project Archive Time | 2020-11-28 21:27:22  |
 
 ### Abstract
 
-> write diary
+> 回程
 
 ### Information
 
-#### **恶记**
-
-别人是一个恶人，我的规则对付不了对方，我要做一个恶人吗？
-当我做了恶人之后，感觉不值！
-
-虽然我看不惯对方，常规操作又讨不的好，
-做坏人可以对付他，但是真是！
-
-为了出一口气，倍打了一顿！
-
-这个例子不好，换一个：
-
-为了不吃亏，向对方也丢了屎粑粑！
-
-操！没有解决问题的思路？
-
-遇到问题，我是跑呢？还是丢屎呢？
-
----
-
-*  妈的，差点记错考试时间。
+就那样吧，刷题改题
+路过衣服店，看了一个衣服，太厚了，不过版型好看，拍了照片。
+有一家甜品店，吃了一点，太特么的难吃了，那个三文鱼糊糊难吃，附带着其他东西也不好吃了👎！
 
 
 
-## 新闻I
+## 新闻
 
-|  Project Name    |    新闻I      |
+|  Project Name    |    新闻      |
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
-| Project Duration | 15:00                 |
+| Project Duration | 1:15:00                 |
 |  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 下午12:45 |
-| Project End Time | 2020年11月27日 下午1:00 |
-| Project Archive Time | 2020-11-27 19:24:06  |
-
-### Abstract
-
-> Reading newspaper all over the world
-
-### Information
-
-* 日本也有草药
-* 中方增加向日方订购机床
-* 哈工大禁止宗教入侵
-* 港资入日
-* 政务APP不现代
-* 大多人陷入了自我洗脑
-* 资本可以帮助学生逃出考试
-* 日本女程序员增多
-* 小众：中式冥婚（女尸紧俏）
-* 网红：评价商品
-* 疫情影响：日元兑美元📈5日元
-* 李健，丁克
-
-
-
-
-
-## 新闻II
-
-|  Project Name    |    新闻II      |
-| ------------ | ----------------------- |
-|  Project Manager  | 刘鹏                    |
-| Project Duration | 30:00                 |
-|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 下午1:00 |
-| Project End Time | 2020年11月27日 下午1:30 |
-| Project Archive Time | 2020-11-27 19:24:07  |
+| Project Start Time | Nov 28, 2020 at 4:45 PM |
+| Project End Time | Nov 28, 2020 at 6:00 PM |
+| Project Archive Time | 2020-11-28 21:27:23  |
 
 ### Abstract
 
@@ -141,39 +123,12 @@ have lunch
 
 ### Information
 
-* 乡村消费
-* 直播管制
-* （永煤）债券交叉违约
-* 上汽+浦东政府+阿里 VS 特斯拉
-* 新能源汽车 -> 新能源卡车
-* 大湾区就业计划
-* 外资基金投资中国（深化改革）
-* 明年经济预计增长7.8%（瑞银消息）
-* 经济正在恢复
-* 泰国换在要求限制王室
-* 中华武林被背刺
-* 科技公司提供服务普及率不高，深入县城
-* 香港未来提供更多住房量
-* 【恒大】战投——> 普通股
-* 【恒大】安排小弟上市
-* 【地产】出库存
-* 【能源】利润下降
-* 全球信任难建
-* 钓鱼岛难冷处理
-
-
-
-
-## 基金刷题I
-
-|  Project Name    |    基金刷题I      |
-| ------------ | ----------------------- |
-|  Project Manager  | 刘鹏                    |
-| Project Duration | 4:30:00                 |
-|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 下午1:30 |
-| Project End Time | 2020年11月27日 下午6:00 |
-| Project Archive Time | 2020-11-27 19:24:08  |
+* 陆正耀被罚款
+* 澳大利亚贸易问题
+* 浙农林大学女同学问题
+* 马先生神话终结
+* 人民日报对军事化（微信平台）宣传愈演愈烈
+* 调整地方债务
 
 
 
@@ -185,10 +140,10 @@ have lunch
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 1:00:00                 |
-|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 下午6:00 |
-| Project End Time | 2020年11月27日 下午7:00 |
-| Project Archive Time | 2020-11-27 19:24:10  |
+|  Place         | 郑在艺考    |
+| Project Start Time | Nov 28, 2020 at 6:00 PM |
+| Project End Time | Nov 28, 2020 at 7:00 PM |
+| Project Archive Time | 2020-11-28 21:27:24  |
 
 ### Abstract
 
@@ -198,27 +153,34 @@ have lunch
 
 
 
-## 基金刷题II
+## 证劵复习
 
-|  Project Name    |    基金刷题II      |
+|  Project Name    |    证劵复习      |
 | ------------ | ----------------------- |
 |  Project Manager  | 刘鹏                    |
 | Project Duration | 4:00:00                 |
-|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
-| Project Start Time | 2020年11月27日 下午7:00 |
-| Project End Time | 2020年11月27日 下午11:00 |
-| Project Archive Time | 2020-11-27 19:24:11  |
+|  Place         |     |
+| Project Start Time | Nov 28, 2020 at 7:00 PM |
+| Project End Time | Nov 28, 2020 at 11:00 PM |
+| Project Archive Time | 2020-11-28 21:27:25  |
 
+### Abstract
+
+> 复习证劵金融基础知识
+
+### Information
+
+* 看乐橙的复习资料
 
 
 
 | Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
 | ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
-| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
-| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
 | Diary | <input type="radio" name="Diary" value="1"> | <input type="radio" name="Diary" value="2"> | <input type="radio" name="Diary" value="3"> | <input type="radio" name="Diary" value="4"> | <input type="radio" name="Diary" value="5"> |<input type="radio" name="Diary" value="6" checked> |<input type="radio" name="Diary" value="7"> |<input type="radio" name="Diary" value="8"> |<input type="radio" name="Diary" value="9"> |<input type="radio" name="Diary" value="10"> |
-| 新闻I | <input type="radio" name="新闻I" value="1"> | <input type="radio" name="新闻I" value="2"> | <input type="radio" name="新闻I" value="3"> | <input type="radio" name="新闻I" value="4"> | <input type="radio" name="新闻I" value="5"> |<input type="radio" name="新闻I" value="6" checked> |<input type="radio" name="新闻I" value="7"> |<input type="radio" name="新闻I" value="8"> |<input type="radio" name="新闻I" value="9"> |<input type="radio" name="新闻I" value="10"> |
-| 新闻II | <input type="radio" name="新闻II" value="1"> | <input type="radio" name="新闻II" value="2"> | <input type="radio" name="新闻II" value="3"> | <input type="radio" name="新闻II" value="4"> | <input type="radio" name="新闻II" value="5"> |<input type="radio" name="新闻II" value="6" checked> |<input type="radio" name="新闻II" value="7"> |<input type="radio" name="新闻II" value="8"> |<input type="radio" name="新闻II" value="9"> |<input type="radio" name="新闻II" value="10"> |
-| 基金刷题I | <input type="radio" name="基金刷题I" value="1"> | <input type="radio" name="基金刷题I" value="2"> | <input type="radio" name="基金刷题I" value="3"> | <input type="radio" name="基金刷题I" value="4"> | <input type="radio" name="基金刷题I" value="5"> |<input type="radio" name="基金刷题I" value="6" checked> |<input type="radio" name="基金刷题I" value="7"> |<input type="radio" name="基金刷题I" value="8"> |<input type="radio" name="基金刷题I" value="9"> |<input type="radio" name="基金刷题I" value="10"> |
+| 考试行程 | <input type="radio" name="考试行程" value="1"> | <input type="radio" name="考试行程" value="2"> | <input type="radio" name="考试行程" value="3"> | <input type="radio" name="考试行程" value="4"> | <input type="radio" name="考试行程" value="5"> |<input type="radio" name="考试行程" value="6" checked> |<input type="radio" name="考试行程" value="7"> |<input type="radio" name="考试行程" value="8"> |<input type="radio" name="考试行程" value="9"> |<input type="radio" name="考试行程" value="10"> |
+| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
+| 证券投资基金基础知识 | <input type="radio" name="证券投资基金基础知识" value="1"> | <input type="radio" name="证券投资基金基础知识" value="2"> | <input type="radio" name="证券投资基金基础知识" value="3"> | <input type="radio" name="证券投资基金基础知识" value="4"> | <input type="radio" name="证券投资基金基础知识" value="5"> |<input type="radio" name="证券投资基金基础知识" value="6" checked> |<input type="radio" name="证券投资基金基础知识" value="7"> |<input type="radio" name="证券投资基金基础知识" value="8"> |<input type="radio" name="证券投资基金基础知识" value="9"> |<input type="radio" name="证券投资基金基础知识" value="10"> |
+| 回城 | <input type="radio" name="回城" value="1"> | <input type="radio" name="回城" value="2"> | <input type="radio" name="回城" value="3"> | <input type="radio" name="回城" value="4"> | <input type="radio" name="回城" value="5"> |<input type="radio" name="回城" value="6" checked> |<input type="radio" name="回城" value="7"> |<input type="radio" name="回城" value="8"> |<input type="radio" name="回城" value="9"> |<input type="radio" name="回城" value="10"> |
+| 新闻 | <input type="radio" name="新闻" value="1"> | <input type="radio" name="新闻" value="2"> | <input type="radio" name="新闻" value="3"> | <input type="radio" name="新闻" value="4"> | <input type="radio" name="新闻" value="5"> |<input type="radio" name="新闻" value="6" checked> |<input type="radio" name="新闻" value="7"> |<input type="radio" name="新闻" value="8"> |<input type="radio" name="新闻" value="9"> |<input type="radio" name="新闻" value="10"> |
 | Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
-| 基金刷题II | <input type="radio" name="基金刷题II" value="1"> | <input type="radio" name="基金刷题II" value="2"> | <input type="radio" name="基金刷题II" value="3"> | <input type="radio" name="基金刷题II" value="4"> | <input type="radio" name="基金刷题II" value="5"> |<input type="radio" name="基金刷题II" value="6" checked> |<input type="radio" name="基金刷题II" value="7"> |<input type="radio" name="基金刷题II" value="8"> |<input type="radio" name="基金刷题II" value="9"> |<input type="radio" name="基金刷题II" value="10"> |
+| 证劵复习 | <input type="radio" name="证劵复习" value="1"> | <input type="radio" name="证劵复习" value="2"> | <input type="radio" name="证劵复习" value="3"> | <input type="radio" name="证劵复习" value="4"> | <input type="radio" name="证劵复习" value="5"> |<input type="radio" name="证劵复习" value="6" checked> |<input type="radio" name="证劵复习" value="7"> |<input type="radio" name="证劵复习" value="8"> |<input type="radio" name="证劵复习" value="9"> |<input type="radio" name="证劵复习" value="10"> |
