@@ -1,0 +1,145 @@
+--- 
+layout: post
+title: "2020-11-30 Diary"
+date: 2020-11-30 22:08:28 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+# 2020-11-30
+## Sleep
+
+|  Project Name    |    Sleep      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 7:45:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Nov 30, 2020 at 6:15 AM |
+| Project End Time | Nov 30, 2020 at 2:00 PM |
+| Project Archive Time | 2020-11-30 22:08:29  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+* 3点半睡觉
+* 1点起床
+* 原本打算今天早起的
+
+
+
+## Lunch 
+
+|  Project Name    |    Lunch       |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | Nov 30, 2020 at 2:00 PM |
+| Project End Time | Nov 30, 2020 at 2:30 PM |
+| Project Archive Time | 2020-11-30 22:08:30  |
+
+### Abstract
+
+> have lunch
+
+### Information
+
+在那个考场里吃了猪脚饭，但是不好吃，没有在深圳吃的好吃！
+
+
+
+## 卢瑟经济学I
+
+|  Project Name    |    卢瑟经济学I      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 3:30:00                 |
+|  Place         |     |
+| Project Start Time | Nov 30, 2020 at 2:30 PM |
+| Project End Time | Nov 30, 2020 at 6:00 PM |
+| Project Archive Time | 2020-11-30 22:08:31  |
+
+### Abstract
+
+> 学习《卢瑟经济学》
+
+### Information
+
+* 看书
+* 做笔记
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 45:00                 |
+|  Place         | 郑在艺考    |
+| Project Start Time | Nov 30, 2020 at 6:00 PM |
+| Project End Time | Nov 30, 2020 at 6:45 PM |
+| Project Archive Time | 2020-11-30 22:08:32  |
+
+### Abstract
+
+> Eatting dinner
+
+### Information
+
+
+
+## 卢瑟经济学II 
+
+|  Project Name    |    卢瑟经济学II       |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:45:00                 |
+|  Place         |     |
+| Project Start Time | Nov 30, 2020 at 6:45 PM |
+| Project End Time | Nov 30, 2020 at 8:30 PM |
+| Project Archive Time | 2020-11-30 22:08:34  |
+
+### Abstract
+
+> 学习《卢瑟经济学》
+
+### Information
+
+* 看书
+* 做笔记
+
+
+
+## Diary
+
+|  Project Name    |    Diary      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | Nov 30, 2020 at 8:44 PM |
+| Project End Time | Nov 30, 2020 at 9:44 PM |
+| Project Archive Time | 2020-11-30 22:08:35  |
+
+### Abstract
+
+> write diary
+
+### Information
+
+* 关于爱情与生活的诸多问题
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
+| 卢瑟经济学I | <input type="radio" name="卢瑟经济学I" value="1"> | <input type="radio" name="卢瑟经济学I" value="2"> | <input type="radio" name="卢瑟经济学I" value="3"> | <input type="radio" name="卢瑟经济学I" value="4"> | <input type="radio" name="卢瑟经济学I" value="5"> |<input type="radio" name="卢瑟经济学I" value="6" checked> |<input type="radio" name="卢瑟经济学I" value="7"> |<input type="radio" name="卢瑟经济学I" value="8"> |<input type="radio" name="卢瑟经济学I" value="9"> |<input type="radio" name="卢瑟经济学I" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| 卢瑟经济学II  | <input type="radio" name="卢瑟经济学II " value="1"> | <input type="radio" name="卢瑟经济学II " value="2"> | <input type="radio" name="卢瑟经济学II " value="3"> | <input type="radio" name="卢瑟经济学II " value="4"> | <input type="radio" name="卢瑟经济学II " value="5"> |<input type="radio" name="卢瑟经济学II " value="6" checked> |<input type="radio" name="卢瑟经济学II " value="7"> |<input type="radio" name="卢瑟经济学II " value="8"> |<input type="radio" name="卢瑟经济学II " value="9"> |<input type="radio" name="卢瑟经济学II " value="10"> |
+| Diary | <input type="radio" name="Diary" value="1"> | <input type="radio" name="Diary" value="2"> | <input type="radio" name="Diary" value="3"> | <input type="radio" name="Diary" value="4"> | <input type="radio" name="Diary" value="5"> |<input type="radio" name="Diary" value="6" checked> |<input type="radio" name="Diary" value="7"> |<input type="radio" name="Diary" value="8"> |<input type="radio" name="Diary" value="9"> |<input type="radio" name="Diary" value="10"> |

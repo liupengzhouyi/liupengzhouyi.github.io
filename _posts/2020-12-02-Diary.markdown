@@ -1,0 +1,126 @@
+--- 
+layout: post
+title: "2020-12-02 Diary"
+date: 2020-12-02 22:10:26 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+# 2020-12-02
+## Sleep
+
+|  Project Name    |    Sleep      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 7:45:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Dec 2, 2020 at 6:15 AM |
+| Project End Time | Dec 2, 2020 at 2:00 PM |
+| Project Archive Time | 2020-12-02 22:10:27  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+* 6点半睡觉
+* 1:40点起床
+* 原本打算今天早起的
+
+
+
+## Lunch 
+
+|  Project Name    |    Lunch       |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | Dec 2, 2020 at 2:00 PM |
+| Project End Time | Dec 2, 2020 at 2:30 PM |
+| Project Archive Time | 2020-12-02 22:10:28  |
+
+### Abstract
+
+> have lunch
+
+### Information
+
+* 兰州拉面优点素
+
+
+
+## 卢瑟经济学I
+
+|  Project Name    |    卢瑟经济学I      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 3:30:00                 |
+|  Place         |     |
+| Project Start Time | Dec 2, 2020 at 2:30 PM |
+| Project End Time | Dec 2, 2020 at 6:00 PM |
+| Project Archive Time | 2020-12-02 22:10:30  |
+
+### Abstract
+
+> 学习《卢瑟经济学》
+
+### Information
+
+* 看书
+* 做笔记
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 郑在艺考    |
+| Project Start Time | Dec 2, 2020 at 6:00 PM |
+| Project End Time | Dec 2, 2020 at 6:30 PM |
+| Project Archive Time | 2020-12-02 22:10:31  |
+
+### Abstract
+
+> Eatting dinner
+
+### Information
+
+* 该死的酸辣粉
+
+
+
+
+## 卢瑟经济学II
+
+|  Project Name    |    卢瑟经济学II      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 4:30:00                 |
+|  Place         |     |
+| Project Start Time | Dec 2, 2020 at 6:30 PM |
+| Project End Time | Dec 2, 2020 at 11:00 PM |
+| Project Archive Time | 2020-12-02 22:10:32  |
+
+### Abstract II
+
+> 学习《卢瑟经济学》
+
+### Information
+
+* 看书
+* 做笔记
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
+| 卢瑟经济学I | <input type="radio" name="卢瑟经济学I" value="1"> | <input type="radio" name="卢瑟经济学I" value="2"> | <input type="radio" name="卢瑟经济学I" value="3"> | <input type="radio" name="卢瑟经济学I" value="4"> | <input type="radio" name="卢瑟经济学I" value="5"> |<input type="radio" name="卢瑟经济学I" value="6" checked> |<input type="radio" name="卢瑟经济学I" value="7"> |<input type="radio" name="卢瑟经济学I" value="8"> |<input type="radio" name="卢瑟经济学I" value="9"> |<input type="radio" name="卢瑟经济学I" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| 卢瑟经济学II | <input type="radio" name="卢瑟经济学II" value="1"> | <input type="radio" name="卢瑟经济学II" value="2"> | <input type="radio" name="卢瑟经济学II" value="3"> | <input type="radio" name="卢瑟经济学II" value="4"> | <input type="radio" name="卢瑟经济学II" value="5"> |<input type="radio" name="卢瑟经济学II" value="6" checked> |<input type="radio" name="卢瑟经济学II" value="7"> |<input type="radio" name="卢瑟经济学II" value="8"> |<input type="radio" name="卢瑟经济学II" value="9"> |<input type="radio" name="卢瑟经济学II" value="10"> |

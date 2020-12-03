@@ -1,0 +1,124 @@
+--- 
+layout: post
+title: "2020-12-01 Diary"
+date: 2020-12-01 22:09:25 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+# 2020-12-01
+## Sleep
+
+|  Project Name    |    Sleep      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 7:45:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Dec 1, 2020 at 6:15 AM |
+| Project End Time | Dec 1, 2020 at 2:00 PM |
+| Project Archive Time | 2020-12-01 22:09:26  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+* 3点半睡觉
+* 1点起床
+* 原本打算今天早起的
+
+
+
+## 分治找第K值
+
+|  Project Name    |    分治找第K值      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 4:00:00                 |
+|  Place         |     |
+| Project Start Time | Dec 1, 2020 at 2:00 PM |
+| Project End Time | Dec 1, 2020 at 6:00 PM |
+| Project Archive Time | 2020-12-01 22:09:27  |
+
+### Abstract
+
+> 写分治找第K值
+
+### Information
+
+ * python 写分治找第K值
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 45:00                 |
+|  Place         | 郑在艺考    |
+| Project Start Time | Dec 1, 2020 at 6:00 PM |
+| Project End Time | Dec 1, 2020 at 6:45 PM |
+| Project Archive Time | 2020-12-01 22:09:29  |
+
+### Abstract
+
+> Eatting dinner
+
+### Information
+
+* 热干面
+
+
+
+## 随机找第K值
+
+|  Project Name    |    随机找第K值      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 3:30:00                 |
+|  Place         |     |
+| Project Start Time | Dec 1, 2020 at 6:45 PM |
+| Project End Time | Dec 1, 2020 at 10:15 PM |
+| Project Archive Time | 2020-12-01 22:09:30  |
+
+### Abstract
+
+> 写随机找第K值
+
+### Information
+
+ * python 写随机找第K值
+
+
+
+## 卢瑟经济学
+
+|  Project Name    |    卢瑟经济学      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 45:00                 |
+|  Place         |     |
+| Project Start Time | Dec 1, 2020 at 10:15 PM |
+| Project End Time | Dec 1, 2020 at 11:00 PM |
+| Project Archive Time | 2020-12-01 22:09:31  |
+
+### Abstract
+
+> 学习《卢瑟经济学》
+
+### Information
+
+* 看书
+* 做笔记
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| 分治找第K值 | <input type="radio" name="分治找第K值" value="1"> | <input type="radio" name="分治找第K值" value="2"> | <input type="radio" name="分治找第K值" value="3"> | <input type="radio" name="分治找第K值" value="4"> | <input type="radio" name="分治找第K值" value="5"> |<input type="radio" name="分治找第K值" value="6" checked> |<input type="radio" name="分治找第K值" value="7"> |<input type="radio" name="分治找第K值" value="8"> |<input type="radio" name="分治找第K值" value="9"> |<input type="radio" name="分治找第K值" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| 随机找第K值 | <input type="radio" name="随机找第K值" value="1"> | <input type="radio" name="随机找第K值" value="2"> | <input type="radio" name="随机找第K值" value="3"> | <input type="radio" name="随机找第K值" value="4"> | <input type="radio" name="随机找第K值" value="5"> |<input type="radio" name="随机找第K值" value="6" checked> |<input type="radio" name="随机找第K值" value="7"> |<input type="radio" name="随机找第K值" value="8"> |<input type="radio" name="随机找第K值" value="9"> |<input type="radio" name="随机找第K值" value="10"> |
+| 卢瑟经济学 | <input type="radio" name="卢瑟经济学" value="1"> | <input type="radio" name="卢瑟经济学" value="2"> | <input type="radio" name="卢瑟经济学" value="3"> | <input type="radio" name="卢瑟经济学" value="4"> | <input type="radio" name="卢瑟经济学" value="5"> |<input type="radio" name="卢瑟经济学" value="6" checked> |<input type="radio" name="卢瑟经济学" value="7"> |<input type="radio" name="卢瑟经济学" value="8"> |<input type="radio" name="卢瑟经济学" value="9"> |<input type="radio" name="卢瑟经济学" value="10"> |
