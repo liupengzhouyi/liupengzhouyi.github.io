@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.77">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-11-29-Diary.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-11-30-Diary.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-01-Diary.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-02-Diary.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-03-Diary.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-04-Diary.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-05-Diary.markdown" afterDir="false" />
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.78">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-03-Diary.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-03-Diary.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-04-Diary.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-04-Diary.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,13 +177,8 @@
       <workItem from="1606656447924" duration="284000" />
       <workItem from="1606999486785" duration="74000" />
       <workItem from="1607004299247" duration="44000" />
-    </task>
-    <task id="LOCAL-00103" summary="diary V 4.0.37">
-      <created>1605161317505</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1605161317505</updated>
+      <workItem from="1607004459968" duration="626000" />
+      <workItem from="1607172773151" duration="278000" />
     </task>
     <task id="LOCAL-00104" summary="diary V 4.0.31">
       <created>1605161772891</created>
@@ -526,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606656714239</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="diary V 4.0.78">
+      <created>1607004757745</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1607004757746</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.53" />
     <MESSAGE value="diary V 4.0.54" />
     <MESSAGE value="diary V 4.0.55" />
     <MESSAGE value="diary V 4.0.56" />
@@ -574,7 +570,8 @@
     <MESSAGE value="diary V 4.0.75" />
     <MESSAGE value="diary V 4.0.76" />
     <MESSAGE value="diary V 4.0.77" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.77" />
+    <MESSAGE value="diary V 4.0.78" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.78" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
@@ -585,30 +582,34 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1605171285936" />
-    <state width="699" height="231" key="GridCell.Tab.0.bottom" timestamp="1605153923500">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="236" key="GridCell.Tab.0.bottom" timestamp="1607005085744">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607005085744" />
     <state width="699" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
-    <state width="699" height="231" key="GridCell.Tab.0.center" timestamp="1605153923499">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="236" key="GridCell.Tab.0.center" timestamp="1607005085743">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607005085743" />
     <state width="699" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605153923499" />
-    <state width="699" height="231" key="GridCell.Tab.0.left" timestamp="1605153923498">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="236" key="GridCell.Tab.0.left" timestamp="1607005085742">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607005085742" />
     <state width="699" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605153923498" />
-    <state width="699" height="231" key="GridCell.Tab.0.right" timestamp="1605153923500">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1419" height="236" key="GridCell.Tab.0.right" timestamp="1607005085744">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607005085744" />
     <state width="699" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605153923500" />
     <state x="358" y="231" key="MultipleFileMergeDialog" timestamp="1605168046826">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="185" key="Vcs.Push.Dialog.v2" timestamp="1606656717289">
+    <state x="320" y="185" key="Vcs.Push.Dialog.v2" timestamp="1607004760730">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="185" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606656717289" />
+    <state x="320" y="185" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607004760730" />
     <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605178646574" />
     <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1606388164057" />
   </component>

@@ -1,0 +1,217 @@
+--- 
+layout: post
+title: "2020-12-04 Diary"
+date: 2020-12-04 20:53:43 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+# 2020-12-04
+## Sleep
+
+|  Project Name    |    Sleep      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 6:00:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | Dec 4, 2020 at 6:15 AM |
+| Project End Time | Dec 4, 2020 at 12:15 PM |
+| Project Archive Time | 2020-12-04 20:53:44  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+* 4点半睡觉
+* 11：30醒来
+
+
+
+## Lunch 
+
+|  Project Name    |    Lunch       |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 商都嘉园穆庄小区东苑    |
+| Project Start Time | Dec 4, 2020 at 12:15 PM |
+| Project End Time | Dec 4, 2020 at 12:45 PM |
+| Project Archive Time | 2020-12-04 20:53:45  |
+
+### Abstract
+
+> have lunch
+
+### Information
+
+* 香辣肉丝
+
+
+
+
+## English Word
+
+|  Project Name    |    English Word      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 2:00:00                 |
+|  Place         |     |
+| Project Start Time | Dec 4, 2020 at 12:45 PM |
+| Project End Time | Dec 4, 2020 at 2:45 PM |
+| Project Archive Time | 2020-12-04 20:53:46  |
+
+
+
+
+
+## 面试行程
+
+|  Project Name    |    面试行程      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:15:00                 |
+|  Place         |     |
+| Project Start Time | Dec 4, 2020 at 2:45 PM |
+| Project End Time | Dec 4, 2020 at 4:00 PM |
+| Project Archive Time | 2020-12-04 20:53:48  |
+
+### Abstract
+
+> 面试行程
+
+### Information
+
+* 14路公交车
+* 1 号线
+* 2号线
+* 到地方开始准备面试
+
+
+
+## 理发
+
+|  Project Name    |    理发      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         |     |
+| Project Start Time | Dec 4, 2020 at 4:00 PM |
+| Project End Time | Dec 4, 2020 at 4:30 PM |
+| Project Archive Time | 2020-12-04 20:53:49  |
+
+### Abstract
+
+> 理发
+
+### Information
+* 理发，24元
+* 剪的换可以
+* 吹干了头发，我就出去了，结果晚上回去干嘛了，
+
+
+
+## 面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试
+
+|  Project Name    |    面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 金水区兰德中心11楼1113    |
+| Project Start Time | Dec 4, 2020 at 4:30 PM |
+| Project End Time | Dec 4, 2020 at 5:00 PM |
+| Project Archive Time | 2020-12-04 20:53:50  |
+
+### Abstract
+
+> 面试： 广州经传多赢投资咨询有限公司河南分公司
+
+### Information
+
+* 广州经传多赢投资咨询有限公司河南分公司的投资顾问助理（正规合法）的面试
+* 虽然可以挂证
+* 但是他家996，不干！
+
+
+
+## 回程
+
+|  Project Name    |    回程      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         |     |
+| Project Start Time | Dec 4, 2020 at 5:00 PM |
+| Project End Time | Dec 4, 2020 at 6:00 PM |
+| Project Archive Time | 2020-12-04 20:53:51  |
+
+### Abstract
+
+> 回程
+
+### Information
+
+* 2号线地铁
+* 1号线到龙子湖
+* 吃饭
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:30:00                 |
+|  Place         | 中国    |
+| Project Start Time | Dec 4, 2020 at 6:00 PM |
+| Project End Time | Dec 4, 2020 at 7:30 PM |
+| Project Archive Time | 2020-12-04 20:53:52  |
+
+### Abstract
+
+> Eatting dinner
+
+### Information
+
+* 大盘鸡，太辣了
+* 吃完我就感觉我自己感冒了
+
+
+
+
+## 休息
+
+|  Project Name    |    休息      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 3:30:00                 |
+|  Place         |     |
+| Project Start Time | Dec 4, 2020 at 7:30 PM |
+| Project End Time | Dec 4, 2020 at 11:00 PM |
+| Project Archive Time | 2020-12-04 20:53:54  |
+
+### Abstract
+
+> sleep
+
+### Information
+
+* 当我回来的时候，我感觉自己感冒了
+* 回宿舍，休息
+* 睡到了11点
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep | <input type="radio" name="Sleep" value="1"> | <input type="radio" name="Sleep" value="2"> | <input type="radio" name="Sleep" value="3"> | <input type="radio" name="Sleep" value="4"> | <input type="radio" name="Sleep" value="5"> |<input type="radio" name="Sleep" value="6" checked> |<input type="radio" name="Sleep" value="7"> |<input type="radio" name="Sleep" value="8"> |<input type="radio" name="Sleep" value="9"> |<input type="radio" name="Sleep" value="10"> |
+| Lunch  | <input type="radio" name="Lunch " value="1"> | <input type="radio" name="Lunch " value="2"> | <input type="radio" name="Lunch " value="3"> | <input type="radio" name="Lunch " value="4"> | <input type="radio" name="Lunch " value="5"> |<input type="radio" name="Lunch " value="6" checked> |<input type="radio" name="Lunch " value="7"> |<input type="radio" name="Lunch " value="8"> |<input type="radio" name="Lunch " value="9"> |<input type="radio" name="Lunch " value="10"> |
+| English Word | <input type="radio" name="English Word" value="1"> | <input type="radio" name="English Word" value="2"> | <input type="radio" name="English Word" value="3"> | <input type="radio" name="English Word" value="4"> | <input type="radio" name="English Word" value="5"> |<input type="radio" name="English Word" value="6" checked> |<input type="radio" name="English Word" value="7"> |<input type="radio" name="English Word" value="8"> |<input type="radio" name="English Word" value="9"> |<input type="radio" name="English Word" value="10"> |
+| 面试行程 | <input type="radio" name="面试行程" value="1"> | <input type="radio" name="面试行程" value="2"> | <input type="radio" name="面试行程" value="3"> | <input type="radio" name="面试行程" value="4"> | <input type="radio" name="面试行程" value="5"> |<input type="radio" name="面试行程" value="6" checked> |<input type="radio" name="面试行程" value="7"> |<input type="radio" name="面试行程" value="8"> |<input type="radio" name="面试行程" value="9"> |<input type="radio" name="面试行程" value="10"> |
+| 理发 | <input type="radio" name="理发" value="1"> | <input type="radio" name="理发" value="2"> | <input type="radio" name="理发" value="3"> | <input type="radio" name="理发" value="4"> | <input type="radio" name="理发" value="5"> |<input type="radio" name="理发" value="6" checked> |<input type="radio" name="理发" value="7"> |<input type="radio" name="理发" value="8"> |<input type="radio" name="理发" value="9"> |<input type="radio" name="理发" value="10"> |
+| 面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试 | <input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="1"> | <input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="2"> | <input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="3"> | <input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="4"> | <input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="5"> |<input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="6" checked> |<input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="7"> |<input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="8"> |<input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="9"> |<input type="radio" name="面试提醒：广州经传多赢投资咨询有限公司河南分公司的面试" value="10"> |
+| 回程 | <input type="radio" name="回程" value="1"> | <input type="radio" name="回程" value="2"> | <input type="radio" name="回程" value="3"> | <input type="radio" name="回程" value="4"> | <input type="radio" name="回程" value="5"> |<input type="radio" name="回程" value="6" checked> |<input type="radio" name="回程" value="7"> |<input type="radio" name="回程" value="8"> |<input type="radio" name="回程" value="9"> |<input type="radio" name="回程" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| 休息 | <input type="radio" name="休息" value="1"> | <input type="radio" name="休息" value="2"> | <input type="radio" name="休息" value="3"> | <input type="radio" name="休息" value="4"> | <input type="radio" name="休息" value="5"> |<input type="radio" name="休息" value="6" checked> |<input type="radio" name="休息" value="7"> |<input type="radio" name="休息" value="8"> |<input type="radio" name="休息" value="9"> |<input type="radio" name="休息" value="10"> |
