@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.79">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-06-Diary.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-06-news.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/category.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/category.yml" afterDir="false" />
-    </list>
+    <list default="true" id="4a1c35ef-42f7-4112-b346-af51ff07c6ba" name="Default Changelist" comment="diary V 4.0.80" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,14 +177,7 @@
       <workItem from="1607172773151" duration="278000" />
       <workItem from="1607173495692" duration="161000" />
       <workItem from="1607258587572" duration="323000" />
-      <workItem from="1607262303386" duration="396000" />
-    </task>
-    <task id="LOCAL-00105" summary="diary V 4.0.32">
-      <created>1605161818241</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1605161818241</updated>
+      <workItem from="1607262303386" duration="427000" />
     </task>
     <task id="LOCAL-00106" summary="diary V 4.0.33">
       <created>1605161871238</created>
@@ -527,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607173634730</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="diary V 4.0.80">
+      <created>1607262710204</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1607262710205</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +545,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="diary V 4.0.55" />
     <MESSAGE value="diary V 4.0.56" />
     <MESSAGE value="diary V 4.0.57" />
     <MESSAGE value="diary V 4.0.58" />
@@ -575,7 +569,8 @@
     <MESSAGE value="diary V 4.0.77" />
     <MESSAGE value="diary V 4.0.78" />
     <MESSAGE value="diary V 4.0.79" />
-    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.79" />
+    <MESSAGE value="diary V 4.0.80" />
+    <option name="LAST_COMMIT_MESSAGE" value="diary V 4.0.80" />
   </component>
   <component name="WindowStateProjectService">
     <state x="289" y="23" key="CommitChangelistDialog2" timestamp="1605169580233">
@@ -610,11 +605,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="358" y="231" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1605168046826" />
-    <state x="320" y="205" key="Vcs.Push.Dialog.v2" timestamp="1607173639959">
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2" timestamp="1607262718965">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="320" y="185" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607004760730" />
     <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605178646574" />
-    <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1607173639959" />
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1607262718965" />
   </component>
 </project>
