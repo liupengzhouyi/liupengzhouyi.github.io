@@ -1,0 +1,273 @@
+--- 
+layout: post
+title: "2020-12-07 Diary"
+date: 2020-12-07 21:59:40 +0800
+categories: diary
+tags: diary
+img: https://ae01.alicdn.com/kf/U240e86095d6448aba033feaf26ab5a2cP.png
+---
+
+#  2020-12-07
+
+## Sleep-I
+
+|  Project Name    |    Sleep-I      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:45:00                 |
+|  Place         | Shopping Center Jiayuan Muzhuang Unit Dongyuan    |
+| Project Start Time | 2020年12月7日 上午6:15 |
+| Project End Time | 2020年12月7日 上午8:00 |
+| Project Archive Time | 2020-12-07 21:59:41  |
+
+### Abstract
+
+> sleep早上晚起了一会
+
+### Information
+
+* 2点半睡觉
+* 7:30醒来
+
+
+
+## 早饭
+
+|  Project Name    |    早饭      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         |     |
+| Project Start Time | 2020年12月7日 上午8:00 |
+| Project End Time | 2020年12月7日 上午8:30 |
+| Project Archive Time | 2020-12-07 21:59:42  |
+
+### Abstract
+
+> eat breakfast
+
+### Information
+
+* 今天早起
+* 居然吃了早饭
+* 咸味饼
+* 鸡蛋
+* 豆芽炒粉
+
+
+
+## 通勤
+
+|  Project Name    |    通勤      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:30:00                 |
+|  Place         |     |
+| Project Start Time | 2020年12月7日 上午8:30 |
+| Project End Time | 2020年12月7日 上午10:00 |
+| Project Archive Time | 2020-12-07 21:59:44  |
+
+### Abstract
+
+> 通勤
+
+### Information
+
+* 8:40座14路公交车到地铁站
+* 座5号线到紫荆花
+
+
+
+## 中国平安人寿保险股份有限公司河南分公司
+
+|  Project Name    |    中国平安人寿保险股份有限公司河南分公司      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         | 郑州金水区花园路纬一路（广发银行旁）瑞园大厦3楼金石部    |
+| Project Start Time | 2020年12月7日 上午10:00 |
+| Project End Time | 2020年12月7日 上午10:30 |
+| Project Archive Time | 2020-12-07 21:59:45  |
+
+### Abstract
+
+> 中国平安人寿保险股份有限公司河南分公司面试
+
+### Information
+
+* 中国平安人寿保险股份有限公司河南分公司晨曦团队的证券投资顾问 （提供培训）的面试
+* 感觉很差劲
+
+
+
+## 通勤
+
+|  Project Name    |    通勤      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         |     |
+| Project Start Time | 2020年12月7日 上午10:30 |
+| Project End Time | 2020年12月7日 上午11:00 |
+| Project Archive Time | 2020-12-07 21:59:46  |
+
+
+
+
+
+## 面试提醒：河南玖叁壹壹网络科技有限公司的面试
+
+|  Project Name    |    面试提醒：河南玖叁壹壹网络科技有限公司的面试      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:15:00                 |
+|  Place         | 郑东新区连邦大厦1015    |
+| Project Start Time | 2020年12月7日 上午11:00 |
+| Project End Time | 2020年12月7日 下午12:15 |
+| Project Archive Time | 2020-12-07 21:59:47  |
+
+河南玖叁壹壹网络科技有限公司的销售顾问的面试
+
+
+
+## lunch
+
+|  Project Name    |    lunch      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 45:00                 |
+|  Place         | 中国    |
+| Project Start Time | 2020年12月7日 下午12:30 |
+| Project End Time | 2020年12月7日 下午1:15 |
+| Project Archive Time | 2020-12-07 21:59:48  |
+
+### Abstract
+
+> lunch
+
+### Information
+
+* 丸子汤
+* 很好喝
+
+
+
+## 回程
+
+|  Project Name    |    回程      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 30:00                 |
+|  Place         |     |
+| Project Start Time | 2020年12月7日 下午1:15 |
+| Project End Time | 2020年12月7日 下午1:45 |
+| Project Archive Time | 2020-12-07 21:59:49  |
+
+
+
+
+
+## Sleep-II
+
+|  Project Name    |    Sleep-II      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 5:00:00                 |
+|  Place         |     |
+| Project Start Time | 2020年12月7日 下午1:45 |
+| Project End Time | 2020年12月7日 下午6:45 |
+| Project Archive Time | 2020-12-07 21:59:51  |
+
+### Abstract
+
+> sleep，午休
+
+### Information
+* 今天腰疼
+* 可能是昨晚睡觉姿势不雅
+* 或者着凉了
+* 然后一觉睡了4个小时
+
+
+
+## Dinner
+
+|  Project Name    |    Dinner      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 45:00                 |
+|  Place         | 中国    |
+| Project Start Time | 2020年12月7日 下午6:45 |
+| Project End Time | 2020年12月7日 下午7:30 |
+| Project Archive Time | 2020-12-07 21:59:52  |
+
+### Abstract
+
+> dinner
+
+### Information
+
+* 6块钱胡辣汤
+* 2块钱水煎包
+
+
+
+## 新闻
+
+|  Project Name    |    新闻      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 1:00:00                 |
+|  Place         |     |
+| Project Start Time | 2020年12月7日 下午7:30 |
+| Project End Time | 2020年12月7日 下午8:30 |
+| Project Archive Time | 2020-12-07 21:59:53  |
+
+### Abstract
+
+> Reading newspaper about financial
+
+### Information
+
+* 另一个板块
+
+
+
+## English Word
+
+|  Project Name    |    English Word      |
+| ------------ | ----------------------- |
+|  Project Manager  | 刘鹏                    |
+| Project Duration | 2:30:00                 |
+|  Place         | 中国    |
+| Project Start Time | 2020年12月7日 下午8:30 |
+| Project End Time | 2020年12月7日 下午11:00 |
+| Project Archive Time | 2020-12-07 21:59:54  |
+
+### Abstract
+
+> English
+
+### Information
+
+* 英语是未来的必要工具
+* 加油复习3000个单词，过一遍
+* 读俩篇阅读
+
+
+
+
+| Project Name | 1                      |2                       |3                       |4                       |5                       |6 |7 |8 |9 |10 |
+| ---- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| Sleep-I | <input type="radio" name="Sleep-I" value="1"> | <input type="radio" name="Sleep-I" value="2"> | <input type="radio" name="Sleep-I" value="3"> | <input type="radio" name="Sleep-I" value="4"> | <input type="radio" name="Sleep-I" value="5"> |<input type="radio" name="Sleep-I" value="6" checked> |<input type="radio" name="Sleep-I" value="7"> |<input type="radio" name="Sleep-I" value="8"> |<input type="radio" name="Sleep-I" value="9"> |<input type="radio" name="Sleep-I" value="10"> |
+| 早饭 | <input type="radio" name="早饭" value="1"> | <input type="radio" name="早饭" value="2"> | <input type="radio" name="早饭" value="3"> | <input type="radio" name="早饭" value="4"> | <input type="radio" name="早饭" value="5"> |<input type="radio" name="早饭" value="6" checked> |<input type="radio" name="早饭" value="7"> |<input type="radio" name="早饭" value="8"> |<input type="radio" name="早饭" value="9"> |<input type="radio" name="早饭" value="10"> |
+| 通勤 | <input type="radio" name="通勤" value="1"> | <input type="radio" name="通勤" value="2"> | <input type="radio" name="通勤" value="3"> | <input type="radio" name="通勤" value="4"> | <input type="radio" name="通勤" value="5"> |<input type="radio" name="通勤" value="6" checked> |<input type="radio" name="通勤" value="7"> |<input type="radio" name="通勤" value="8"> |<input type="radio" name="通勤" value="9"> |<input type="radio" name="通勤" value="10"> |
+| 中国平安人寿保险股份有限公司河南分公司 | <input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="1"> | <input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="2"> | <input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="3"> | <input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="4"> | <input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="5"> |<input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="6" checked> |<input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="7"> |<input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="8"> |<input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="9"> |<input type="radio" name="中国平安人寿保险股份有限公司河南分公司" value="10"> |
+| 通勤 | <input type="radio" name="通勤" value="1"> | <input type="radio" name="通勤" value="2"> | <input type="radio" name="通勤" value="3"> | <input type="radio" name="通勤" value="4"> | <input type="radio" name="通勤" value="5"> |<input type="radio" name="通勤" value="6" checked> |<input type="radio" name="通勤" value="7"> |<input type="radio" name="通勤" value="8"> |<input type="radio" name="通勤" value="9"> |<input type="radio" name="通勤" value="10"> |
+| 面试提醒：河南玖叁壹壹网络科技有限公司的面试 | <input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="1"> | <input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="2"> | <input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="3"> | <input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="4"> | <input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="5"> |<input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="6" checked> |<input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="7"> |<input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="8"> |<input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="9"> |<input type="radio" name="面试提醒：河南玖叁壹壹网络科技有限公司的面试" value="10"> |
+| lunch | <input type="radio" name="lunch" value="1"> | <input type="radio" name="lunch" value="2"> | <input type="radio" name="lunch" value="3"> | <input type="radio" name="lunch" value="4"> | <input type="radio" name="lunch" value="5"> |<input type="radio" name="lunch" value="6" checked> |<input type="radio" name="lunch" value="7"> |<input type="radio" name="lunch" value="8"> |<input type="radio" name="lunch" value="9"> |<input type="radio" name="lunch" value="10"> |
+| 回程 | <input type="radio" name="回程" value="1"> | <input type="radio" name="回程" value="2"> | <input type="radio" name="回程" value="3"> | <input type="radio" name="回程" value="4"> | <input type="radio" name="回程" value="5"> |<input type="radio" name="回程" value="6" checked> |<input type="radio" name="回程" value="7"> |<input type="radio" name="回程" value="8"> |<input type="radio" name="回程" value="9"> |<input type="radio" name="回程" value="10"> |
+| Sleep-II | <input type="radio" name="Sleep-II" value="1"> | <input type="radio" name="Sleep-II" value="2"> | <input type="radio" name="Sleep-II" value="3"> | <input type="radio" name="Sleep-II" value="4"> | <input type="radio" name="Sleep-II" value="5"> |<input type="radio" name="Sleep-II" value="6" checked> |<input type="radio" name="Sleep-II" value="7"> |<input type="radio" name="Sleep-II" value="8"> |<input type="radio" name="Sleep-II" value="9"> |<input type="radio" name="Sleep-II" value="10"> |
+| Dinner | <input type="radio" name="Dinner" value="1"> | <input type="radio" name="Dinner" value="2"> | <input type="radio" name="Dinner" value="3"> | <input type="radio" name="Dinner" value="4"> | <input type="radio" name="Dinner" value="5"> |<input type="radio" name="Dinner" value="6" checked> |<input type="radio" name="Dinner" value="7"> |<input type="radio" name="Dinner" value="8"> |<input type="radio" name="Dinner" value="9"> |<input type="radio" name="Dinner" value="10"> |
+| 新闻 | <input type="radio" name="新闻" value="1"> | <input type="radio" name="新闻" value="2"> | <input type="radio" name="新闻" value="3"> | <input type="radio" name="新闻" value="4"> | <input type="radio" name="新闻" value="5"> |<input type="radio" name="新闻" value="6" checked> |<input type="radio" name="新闻" value="7"> |<input type="radio" name="新闻" value="8"> |<input type="radio" name="新闻" value="9"> |<input type="radio" name="新闻" value="10"> |
+| English Word | <input type="radio" name="English Word" value="1"> | <input type="radio" name="English Word" value="2"> | <input type="radio" name="English Word" value="3"> | <input type="radio" name="English Word" value="4"> | <input type="radio" name="English Word" value="5"> |<input type="radio" name="English Word" value="6" checked> |<input type="radio" name="English Word" value="7"> |<input type="radio" name="English Word" value="8"> |<input type="radio" name="English Word" value="9"> |<input type="radio" name="English Word" value="10"> |
